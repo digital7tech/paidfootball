@@ -2,33 +2,33 @@
 "list":[
 {
 "id":1,
-"name":"Item-1",
-"img":"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+"name":"Read more",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjg61ZUjURAmc6L0zEQWoDtrIv69BW7jyZQ&usqp=CAU"
 },
 {
 "id":2,
-"name":"Item-2",
-"img":"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+"name":"Read more",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0qgBbY_-XOL2lLthaT77N7youUAf4Q9HDQ&usqp=CAU"
 },
 {
 "id":3,
-"name":"Item-3",
+"name":"Read more",
 "img":"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 },
   {
 "id":3,
-"name":"Item-3",
-"img":"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+"name":"Read more",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjg61ZUjURAmc6L0zEQWoDtrIv69BW7jyZQ&usqp=CAU"
 },
   {
 "id":3,
-"name":"Item-3",
-"img":"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+"name":"Read more",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpF3CvTwpkF4V4uPhV2LZVHnzmiDakG0XMQ&usqp=CAU"
 },
 {
 "id":4,
-"name":"Item-4",
-"img":"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+"name":"Read more",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0qgBbY_-XOL2lLthaT77N7youUAf4Q9HDQ&usqp=CAU"
 }
 ]
 }
