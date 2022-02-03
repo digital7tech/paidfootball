@@ -3,35 +3,35 @@
  
   "hits" : [
 
-
 {
-		        "user": "Cameroon vs Egypt SD",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
-			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8",
+
+
+                        "user": "Cameroon vs Egypt SD",
+			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8",
 			"type": "AFCON - SEMI FINALS ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa76jW5SysllvxrBefaCBTRuBfjOeY0mIFVw&usqp=CAU"
-		},
 
+},
 
 {
-		        "user": "Cameroon vs Egypt HD",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
-			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8",
+
+
+                        "user": "Cameroon vs Egypt SD",
+			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8",
 			"type": "AFCON - SEMI FINALS ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa76jW5SysllvxrBefaCBTRuBfjOeY0mIFVw&usqp=CAU"
-		},
+
+},
 
 {
 		        "user": "Real Betis vs Real Sociedad SD",
 			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
-			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8",
 			"type": "COPA DEL REY ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrCsoEzmc78gDi2N5kd0ngMX5AidPE5H5ag&usqp=CAU"
 		},
 
 {
 		        "user": "Real Betis vs Real Sociedad HD",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
 			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8",
 			"type": "COPA DEL REY ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrCsoEzmc78gDi2N5kd0ngMX5AidPE5H5ag&usqp=CAU"
@@ -39,7 +39,6 @@
 
 {
 		        "user": "Athletic Club vs Real Madrid SD",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
 			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8",
 			"type": "COPA DEL REY ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrCsoEzmc78gDi2N5kd0ngMX5AidPE5H5ag&usqp=CAU"
@@ -47,7 +46,6 @@
 
 {
 		        "user": "Athletic Club vs Real Madrid HD",
-			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
 			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8",
 			"type": "COPA DEL REY ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrCsoEzmc78gDi2N5kd0ngMX5AidPE5H5ag&usqp=CAU"
