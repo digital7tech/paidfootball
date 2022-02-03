@@ -3,7 +3,46 @@
  
   "hits" : [
 
+
+
+    {
+
+
+			"user": "Jamaica vs Costa Rica HD",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"type": "WORLD CUP QUALIFYING ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
+		},
+
+
+
+    {
+
+
+			"user": "USA vs Honduras HD",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
+			"type": "WORLD CUP QUALIFYING ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
+		},
+
+    {
+
+
+			"user": "El Salvador vs Canada HD",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
+			"type": "WORLD CUP QUALIFYING ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
+		},
+
 	
+    {
+
+
+			"user": "Mexico vs Panama HD",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"type": "WORLD CUP QUALIFYING ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOhSYqvdCk_HDnbOV-0yPlUWwigxmGgAmtw&usqp=CAU"
+		},
 	{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
