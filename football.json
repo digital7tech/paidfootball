@@ -1,1 +1,100 @@
 
+
+{
+ 
+  "hits" : [
+
+{
+
+
+                        "user": "Hertha BSC vs Bochum SD",
+			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
+			"type": "GERMAN BUNDESLIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wyQvy8DUpQymd5Ev7D1laCLph211RHpByw&usqp=CAU"
+
+},
+
+{
+
+
+                        "user": "Hertha BSC vs Bochum HD",
+			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
+			"type": "GERMAN BUNDESLIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wyQvy8DUpQymd5Ev7D1laCLph211RHpByw&usqp=CAU"
+
+},
+
+{
+
+
+                        "user": "Manchester United vs Middlesbrough SD",
+			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8",
+			"type": "EMIRATES FA CUP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIib9R5Z_Sxb0zg60MDfBsnodKwVku3AuqmA&usqp=CAU"
+
+},
+{
+
+
+                        "user": "Manchester United vs Middlesbrough HD",
+			"pageUrl": "http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8",
+			"type": "EMIRATES FA CUP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIib9R5Z_Sxb0zg60MDfBsnodKwVku3AuqmA&usqp=CAU"
+
+},
+
+
+
+{
+
+
+                        "user": "Getafe vs Levante SD",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+
+},
+
+
+{
+
+
+                        "user": "Getafe vs Levante HD",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+
+},
+{
+		        "user": "Real Betis vs Real Sociedad SD",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+			"type": "COPA DEL REY ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrCsoEzmc78gDi2N5kd0ngMX5AidPE5H5ag&usqp=CAU"
+		},
+
+{
+		        "user": "Olympique Marseille vs Angers SD",
+			"pageUrl": "https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+			"type": "FRENCH LIGUE 1 ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdXj4H12wt7IoE1Q5QEEdT0zyk6Nov5x81Q&usqp=CAU"
+		},
+
+{
+		        "user": "Olympique Marseille vs Angers HD",
+			"pageUrl": "https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+			"type": "FRENCH LIGUE 1 ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdXj4H12wt7IoE1Q5QEEdT0zyk6Nov5x81Q&usqp=CAU"
+		},
+
+	{
+		        "user": "ALL FOOTBALL",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		}
+		
+
+	]
+
+
+}
