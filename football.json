@@ -80,14 +80,14 @@
 
 {
 		        "user": "Olympique Marseille vs Angers SD",
-			"pageUrl": "https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+			"pageUrl": "http://77.247.109.101/hls/A3.m3u8",
 			"type": "FRENCH LIGUE 1 ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdXj4H12wt7IoE1Q5QEEdT0zyk6Nov5x81Q&usqp=CAU"
 		},
 
 {
 		        "user": "Olympique Marseille vs Angers HD",
-			"pageUrl": "https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS4HD/index.m3u8?token=test",
 			"type": "FRENCH LIGUE 1 ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdXj4H12wt7IoE1Q5QEEdT0zyk6Nov5x81Q&usqp=CAU"
 		},
