@@ -7,8 +7,8 @@
 {
 
 
-                        "user": "Hertha BSC vs Bochum SD",
-			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
+                        "user": "Hertha BSC vs Bochum HD1",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m3/index.m3u8",
 			"type": "GERMAN BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wyQvy8DUpQymd5Ev7D1laCLph211RHpByw&usqp=CAU"
 
@@ -17,8 +17,8 @@
 {
 
 
-                        "user": "Hertha BSC vs Bochum HD",
-			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
+                        "user": "Hertha BSC vs Bochum HD2",
+			"pageUrl": "http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test",
 			"type": "GERMAN BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wyQvy8DUpQymd5Ev7D1laCLph211RHpByw&usqp=CAU"
 
