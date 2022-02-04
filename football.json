@@ -33,10 +33,22 @@
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIib9R5Z_Sxb0zg60MDfBsnodKwVku3AuqmA&usqp=CAU"
 
 },
+
+
 {
 
 
-                        "user": "Manchester United vs Middlesbrough HD",
+                        "user": "Manchester United vs Middlesbrough HD(English)",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
+			"type": "EMIRATES FA CUP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIib9R5Z_Sxb0zg60MDfBsnodKwVku3AuqmA&usqp=CAU"
+
+},
+
+{
+
+
+                        "user": "Manchester United vs Middlesbrough HD2",
 			"pageUrl": "https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8",
 			"type": "EMIRATES FA CUP ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIib9R5Z_Sxb0zg60MDfBsnodKwVku3AuqmA&usqp=CAU"
