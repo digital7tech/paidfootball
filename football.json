@@ -120,7 +120,7 @@
 {
 
 
-			"user": "Burkina Faso vs Cameroon SD",
+			"user": "Burkina Faso vs Cameroon HD(English)",
 			"pageUrl": "http://cdn1.cyclingnews.live/hls/M4.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Africa_Cup_of_Nation_official_logo.png"
@@ -128,8 +128,8 @@
 	    {
 
 
-			"user": "Burkina Faso vs Cameroon HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M4.m3u8",
+			"user": "Burkina Faso vs Cameroon SD(English)",
+			"pageUrl": "https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8",
 			"type": "Africa - Africa Cup of Nations ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Africa_Cup_of_Nation_official_logo.png"
 	    },
