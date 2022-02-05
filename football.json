@@ -2,64 +2,7 @@
 {
  
   "hits" : [
-{
 
-
-			"user": "Chelsea vs Plymouth Argyle  SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "England - FA CUP ⚽️ ",
-			"webFormatUrl": "https://i.pinimg.com/originals/ca/ba/6e/caba6e0789c9d4ebb99bd021dc5c1acf.jpg"
-		},
-
-
-{
-
-
-			"user": "Chelsea vs Plymouth Argyle  HD1(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "England - FA CUP ⚽️ ",
-			"webFormatUrl": "https://i.pinimg.com/originals/ca/ba/6e/caba6e0789c9d4ebb99bd021dc5c1acf.jpg"
-		},	  {
-
-
-			"user": "Chelsea vs Plymouth Argyle  HD2(English)",
-			"pageUrl": "http://103.166.253.222/hls/sonysix.m3u8",
-			"type": "England - FA CUP ⚽️ ",
-			"webFormatUrl": "https://i.pinimg.com/originals/ca/ba/6e/caba6e0789c9d4ebb99bd021dc5c1acf.jpg"
-		},
-	  {
-
-
-			"user": "Kidderminster vs West Ham United SD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD4_480p/chunklist.m3u8",
-			"type": "England - FA CUP ⚽️ ",
-			"webFormatUrl": "https://i.pinimg.com/originals/ca/ba/6e/caba6e0789c9d4ebb99bd021dc5c1acf.jpg"
-		},
-	  {
-
-
-			"user": "Kidderminster vs West Ham United  HD(Englishh)",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P4.m3u8",
-			"type": "England - FA CUP ⚽️ ",
-			"webFormatUrl": "https://i.pinimg.com/originals/ca/ba/6e/caba6e0789c9d4ebb99bd021dc5c1acf.jpg"
-		},
-	  {
-
-
-			"user": "Elche vs Deportivo Alavés SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
-		},
-	    {
-
-
-			"user": "Elche vs Deportivo Alavés HD",
-			"pageUrl": "https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
-		},
-		
 		
 
 		{
