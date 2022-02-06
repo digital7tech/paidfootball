@@ -6,22 +6,7 @@
 
 
 	
-	  {
-
-
-			"user": "Dortmund vs Bayer Leverkusen HD1",
-			"pageUrl": "http://77.247.109.101/hls/A1.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	  {
-
-
-			"user": "Dortmund vs Bayer Leverkusen HD2",
-			"pageUrl": "http://93.157.62.180/Supersport4/index.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
+	
 	   {
 
 
@@ -50,8 +35,8 @@
 	  {
 
 
-			"user": "Nottingham Forest vs Leicester HD1",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
+			"user": "Nottingham Forest vs Leicester HD1(English)",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "England - FA CUP ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/ca/ba/6e/caba6e0789c9d4ebb99bd021dc5c1acf.jpg"
 		},
@@ -92,7 +77,7 @@
 
 
 			"user": "Udinese vs Torino HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn2.cyclingnews.live/hls/P1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
 		},
@@ -100,7 +85,7 @@
 
 
 			"user": "Udinese vs Torino HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD4_480p/chunklist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
 		},
@@ -108,7 +93,7 @@
 
 
 			"user": "Real Betis vs Villarreal SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
@@ -116,7 +101,7 @@
 
 
 			"user": "Real Betis vs Villarreal HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
@@ -124,7 +109,7 @@
 
 
 			"user": "AFC Bournemouth vs Boreham Wood SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "England - FA CUP ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/ca/ba/6e/caba6e0789c9d4ebb99bd021dc5c1acf.jpg"
 		},
@@ -132,7 +117,7 @@
 
 
 			"user": "AFC Bournemouth vs Boreham Wood HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
 			"type": "England - FA CUP ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/ca/ba/6e/caba6e0789c9d4ebb99bd021dc5c1acf.jpg"
 		},
