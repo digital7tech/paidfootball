@@ -5,58 +5,7 @@
 		
 		
 		
-		{
-
-
-			"user": "Bochum vs Bayern München HD1",
-			"pageUrl": "http://45.148.26.176/hls/M4.m3u8?mvk",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Bochum vs Bayern München HD2",
-			"pageUrl": "http://93.157.62.180/Supersport3/index.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
-		{
-
-
-			"user": "Freiburg vs Mainz 05",
-			"pageUrl": "http://194.67.196.19:80/hls/110.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
-		{
-
-
-			"user": "Greuther Fürth vs Hertha BSC",
-			"pageUrl": "http://194.67.196.19:80/hls/111.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
-		{
-
-
-			"user": "Borussia M'gladbach vs Augsburg",
-			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
-		{
-
-
-			"user": "Eintracht Frankfurt vs Wolfsburg HD1",
-			"pageUrl": "http://194.67.196.19:80/hls/109.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
+		
 
 
 	{
