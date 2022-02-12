@@ -9,24 +9,6 @@
 
 
 	
-    
-		{
-
-
-			"user": "Sporting Braga vs Paços de Ferreira HD",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P4.m3u8",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
-    
-     {
-
-
-			"user": "Montpellier vs Lille HD",
-			"pageUrl": "http://cdn4.cyclingnews.live/hls/Q2.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
-		},
 		 {
 
 
@@ -72,6 +54,15 @@
 
 			"user": "Norwich City vs Manchester City SD",
 			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+	{
+
+
+			"user": "Norwich City vs Manchester City SD(English)",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
