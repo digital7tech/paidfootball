@@ -7,67 +7,7 @@
 	
 
 		
-		
-{
-
-
-			"user": "Famalicão vs Moreirense HD",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
-		 {
-
-
-			"user": "Lens vs Bordeaux HD",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P3.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
-		},
-		
-		{
-
-
-			"user": "Leicester vs West Ham SD(English)",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Leicester vs West Ham HD1(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M1.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-    {
-
-
-			"user": "Leicester vs West Ham HD2(English)",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
 	
-		{
-
-
-			"user": "Hoffenheim vs Arminia Bielefeld HD1",
-			"pageUrl": "http://cdn4.cyclingnews.live/hls/Q2.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Hoffenheim vs Arminia Bielefeld HD2",
-			"pageUrl": "http://93.157.62.180/Supersport4/index.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
 		 {
 
 
@@ -167,7 +107,7 @@
 
 
 			"user": "Espanyol vs Barcelona SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
@@ -176,7 +116,7 @@
 
 
 			"user": "Espanyol vs Barcelona HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://cdn4.cyclingnews.live/hls/Q1.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
