@@ -37,7 +37,7 @@
 
     {
 		        "user": "Salzburg vs Bayern München SD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Uefa Champions league ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
 		},
@@ -45,15 +45,15 @@
 
     {
 		        "user": "Salzburg vs Bayern München HD1",
-			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
 			"type": "Uefa Champions league ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
 		},
 
 
     {
-		        "user": "Salzburg vs Bayern München HD2",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+		        "user": "Salzburg vs Bayern München HD2(English)",
+			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
 			"type": "Uefa Champions league ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrdKsE9ldXc9SECZZdlz2Uq-3CsQaUDnhNUhwVCAgmqmgXylKWA5qd8vAm&s=10"
 		},
