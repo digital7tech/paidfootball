@@ -5,12 +5,12 @@
 
      {
 		        "user": "	Barcelona vs Napoli  SD",
-			"pageUrl": "http://158.69.117.205:9039/btespn/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
 		  {
-		        "user": "	Barcelona vs Napoli  HD1",
+		        "user": "	Barcelona vs Napoli  HD1(English)",
 			"pageUrl": "http://158.69.117.205:9039/btespn/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
@@ -24,8 +24,8 @@
 
 
  {
-		        "user": "Borussia Dortmund vs Rangers  HD(English)",
-			"pageUrl": "http://cdn1.cyclingnews.live/hls/M2.m3u8",
+		        "user": "Borussia Dortmund vs Rangers  SD",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
@@ -49,7 +49,7 @@
 		},
 		 {
 		        "user": "Zenit vs Real Betis  SD",
-			"pageUrl": "http://cdn2.cyclingnews.live/hls/P2.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
