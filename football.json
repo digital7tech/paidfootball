@@ -5,13 +5,13 @@
 
      {
 		        "user": "	Barcelona vs Napoli  SD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://158.69.117.205:9039/btespn/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
 		  {
 		        "user": "	Barcelona vs Napoli  HD1",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://158.69.117.205:9039/btespn/tracks-v1a1/mono.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
@@ -19,23 +19,31 @@
 		        "user": "	Barcelona vs Napoli  HD2",
 			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "http://93.157.62.180/Supersport3/index.m3u8"
+		},
+
+
+ {
+		        "user": "Borussia Dortmund vs Rangers  HD(English)",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m3/index.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
 		 {
-		        "user": "Borussia Dortmund vs Rangers  HD(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+		        "user": "Borussia Dortmund vs Rangers  HD2",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m3/index.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
 		 {
 		        "user": "Sheriff vs Sporting Braga SD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m2/index.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
 		 {
 		        "user": "Sheriff vs Sporting Braga HD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "https://bal.varcdn1.ru/lb/m2/index.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/73/78/80/737880f707dcd0a693d88c924fb8293f.jpg"
 		},
