@@ -4,133 +4,7 @@
 
 
 
-			
-		{
-
-
-			"user": "Liverpool vs Norwich City SD",
-			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Norwich City HD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Brentford SD",
-			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Brentford HD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD3_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Crystal Palace vs Chelsea SD",
-			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Crystal Palace vs Chelsea HD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD1_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton vs Burnley SD",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton vs Burnley HD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Aston Villa vs Watford SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Aston Villa vs Watford HD",
-			"pageUrl": "http://93.157.62.180/Supersport7/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Southampton vs Everton SD",
-			"pageUrl": "http://194.67.196.19:80/hls/109.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Southampton vs Everton HD(English)",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD4_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-
-			"user": "Osasuna vs Atlético Madrid",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-aLiga.svg.png"
-		},
-
-
-
-		
-{
-
-
-			"user": "Gil Vicente vs Belenenses HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Portuguese Primeira Liga⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
-		{
-
-
-			"user": "Lens vs Olympique Lyonnais HD",
-			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
-			"type": "FRENCH LIGUE 1 ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-
+	
 		{
 
 
@@ -159,7 +33,7 @@
 
 
 			"user": "Manchester City vs Tottenham SD(English)",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -167,7 +41,7 @@
 
 
 			"user": "Manchester City vs Tottenham HD1(English)",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -175,7 +49,7 @@
 
 
 			"user": "Manchester City vs Tottenham HD2(English)",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
