@@ -94,14 +94,14 @@
 
 
 			"user": "Liverpool vs Norwich City SD",
-			"pageUrl": "http://93.157.62.180/Supersport2/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Liverpool vs Norwich City HD(English)",
+			"user": "Liverpool vs Norwich City HD",
 			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_480p/chunklist.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -110,7 +110,7 @@
 
 
 			"user": "Arsenal vs Brentford SD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD3_480p/chunklist.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -126,7 +126,7 @@
 
 
 			"user": "Crystal Palace vs Chelsea SD",
-			"pageUrl": "http://93.157.62.180/Supersport4/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -142,7 +142,7 @@
 
 
 			"user": "Brighton vs Burnley SD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -158,7 +158,7 @@
 
 
 			"user": "Aston Villa vs Watford SD",
-			"pageUrl": "http://93.157.62.180/Supersport7/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -174,7 +174,7 @@
 
 
 			"user": "Southampton vs Everton SD",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD4_480p/chunklist.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/109.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
