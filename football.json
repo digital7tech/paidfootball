@@ -5,32 +5,8 @@
 {
 
 
-			"user": "West Ham vs Newcastle SD(English)",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_480p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "West Ham vs Newcastle HD1(English)",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "West Ham vs Newcastle HD2(English)",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-{
-
-
 			"user": "Granada vs Villarreal",
-			"pageUrl": "http://93.157.62.180/Supersport1/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-aLiga.svg.png"
 		},
