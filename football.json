@@ -5,71 +5,7 @@
 
 		
 
-		{
-
-
-			"user": "Sporting CP vs Estoril HD",
-			"pageUrl": "http://158.69.117.205:9039/btespn/tracks-v1a1/mono.m3u8",
-			"type": "Portuguese Primeira Liga⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
-		{
-
-
-			"user": "Hertha BSC vs RB Leipzig HD",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium35/chunks.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Udinese vs Lazio HD1",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
-		},
-		{
-
-
-			"user": "Udinese vs Lazio HD2",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium31/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
-		},
-		{
-
-
-			"user": "Udinese vs Lazio HD3",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium56/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
-		},
-		{
-
-
-			"user": "Marseille vs Clermont HD",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium33/chunks.m3u8",
-			"type": "FRENCH LIGUE 1 ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-	
-		{
-
-
-			"user": "Moreirense vs Porto HD",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium119/chunks.m3u8",
-			"type": "Portuguese Primeira Liga⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
-		{
-
-
-			"user":  "Tondela vs Sporting Braga HD",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium74/chunks.m3u8",
-			"type": "Portuguese Primeira Liga⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
+		
 {
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
