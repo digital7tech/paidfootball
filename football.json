@@ -8,38 +8,6 @@
 		{
 
 
-			"user": "Internazionale vs Sassuolo HD1",
-			"pageUrl": "https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
-		},
-		{
-
-
-			"user": "Internazionale vs Sassuolo HD2",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium32/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
-		},
-		{
-
-
-			"user": "Internazionale vs Sassuolo HD3",
-			"pageUrl": "http://rented2.mireasa.live/cdn/premium56/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
-		},
-		{
-
-
-			"user": "Real Betis vs Mallorca",
-			"pageUrl": "http://194.67.1.19:80/hls/103.m3u8",
-			"type": " ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg456px-aLiga.svg.png"
-		},
-		{
-
-
 			"user": "Sporting CP vs Estoril HD",
 			"pageUrl": "http://158.69.117.205:9039/btespn/tracks-v1a1/mono.m3u8",
 			"type": "Portuguese Primeira Liga⚽️ ",
@@ -65,7 +33,7 @@
 
 
 			"user": "Udinese vs Lazio HD2",
-			"pageUrl": "https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
+			"pageUrl": "http://rented2.mireasa.live/cdn/premium31/chunks.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
 		},
@@ -73,7 +41,7 @@
 
 
 			"user": "Udinese vs Lazio HD3",
-			"pageUrl": "http://185.53.89.183/hls/bt2.m3u8",
+			"pageUrl": "http://rented2.mireasa.live/cdn/premium56/chunks.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FsRPIi7VTtyN2UfWgzlTVwblmwMUL_izDg&usqp=CAU"
 		},
@@ -81,23 +49,16 @@
 
 
 			"user": "Marseille vs Clermont HD",
-			"pageUrl": "http://185.53.89.183/hls/bt3.m3u8",
+			"pageUrl": "http://rented2.mireasa.live/cdn/premium33/chunks.m3u8",
 			"type": "FRENCH LIGUE 1 ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
-		{
-
-
-			"user": "Athletic Club vs Real Sociedad",
-			"pageUrl": "http://1967.196.19:80/hls/103.m3u8",
-			"type": " ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg456px-aLiga.svg.png"
-		},
+	
 		{
 
 
 			"user": "Moreirense vs Porto HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://rented2.mireasa.live/cdn/premium49/chunks.m3u8",
 			"type": "Portuguese Primeira Liga⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
@@ -105,7 +66,7 @@
 
 
 			"user":  "Tondela vs Sporting Braga HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://rented2.mireasa.live/cdn/premium74/chunks.m3u8",
 			"type": "Portuguese Primeira Liga⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
