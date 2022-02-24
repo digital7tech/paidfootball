@@ -89,7 +89,7 @@
 
 {
 		        "user": "Sporting Braga vs Sheriff HD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"pageUrl": "https://ddc8aa1e2jz1g.cloudfront.net/hls/ajax/chunks.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VfVbTI5F_rfCX_ZkkKaReN_0oiKcFZnQKw&usqp=CAU"
 		},
