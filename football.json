@@ -36,7 +36,7 @@
 		
 {
 		        "user": "Napoli vs Barcelona SD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VfVbTI5F_rfCX_ZkkKaReN_0oiKcFZnQKw&usqp=CAU"
 		},		
@@ -44,13 +44,13 @@
 			
 {
 		        "user": "Napoli vs Barcelona HD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VfVbTI5F_rfCX_ZkkKaReN_0oiKcFZnQKw&usqp=CAU"
 		},			
 {
 		        "user": "Rangers vs Borussia Dortmund SD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VfVbTI5F_rfCX_ZkkKaReN_0oiKcFZnQKw&usqp=CAU"
 		},		
@@ -65,7 +65,7 @@
 
 {
 		        "user": "Real betis vs Zenit HD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VfVbTI5F_rfCX_ZkkKaReN_0oiKcFZnQKw&usqp=CAU"
 		},		
@@ -73,7 +73,7 @@
 
 {
 		        "user": "Real betis vs Zenit HD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-VfVbTI5F_rfCX_ZkkKaReN_0oiKcFZnQKw&usqp=CAU"
 		},		
@@ -100,7 +100,7 @@
 {
 		   
 		        "user": "Sparta Praha vs Fernanbache HD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
 			"type": "EUROPA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYprGrinvfA-cMeLhYWsasUpRN0b3c0X3eg&usqp=CAU"
 		},
@@ -108,7 +108,7 @@
 		
 {
 		        "user": "PAOK vs Midtjylland SD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
 			"type": "EUROPA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYprGrinvfA-cMeLhYWsasUpRN0b3c0X3eg&usqp=CAU"
 		},
