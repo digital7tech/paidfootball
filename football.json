@@ -1,30 +1,7 @@
 {
 
 	"hits": [
-{
 
-
-			"user": "Milan vs Udinese HD1",
-			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
-		},
-		{
-
-
-			"user": "Milan vs Udinese HD2",
-			"pageUrl": "http://50.7.34.155:2200/BR/Fox_Sports_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
-		},
-		{
-
-
-			"user": "Milan vs Udinese HD3",
-			"pageUrl": "http://51.68.191.31:1212/202/video.m3u8?token=X3ea770e83",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
-		},
 	
 
 		{
@@ -40,7 +17,7 @@
 
 
 			"user": "Southampton vs Norwich City SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -49,8 +26,8 @@
 		{
 
 
-			"user": "Southampton vs Norwich City HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Southampton vs Norwich City HD(English)",
+			"pageUrl": "http://185.152.66.55/98784/tracks-v1a1/mono.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -60,7 +37,7 @@
 
 
 			"user": "Genoa vs Internazionale HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
@@ -68,7 +45,7 @@
 
 
 			"user": "Genoa vs Internazionale HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
@@ -76,18 +53,11 @@
 
 
 			"user": "Levante vs Elche SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
-		{
-
-
-			"user": "Levante vs Elche HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-		},
+		
 		
 	{
 
