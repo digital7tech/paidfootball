@@ -6,35 +6,9 @@
 
 		
 		
-		{
-
-
-			"user": "Chelsea vs Liverpool SD",
-			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
-			"type": "England - League Cup ⚽️ ",
-			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
-		},
 		
-	
-		{
 
 
-			"user": "Chelsea vs Liverpool HD1",
-			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
-			"type": "England - League Cup ⚽️ ",
-			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
-		},
-
-
-		{
-
-
-			"user": "Chelsea vs Liverpool HD2(English)",
-			"pageUrl": "http://archive.simpletv.eu:8080/SkySport1HD/index.m3u8",
-			"type": "England - League Cup ⚽️ ",
-			"webFormatUrl": "https://w7.pngwing.com/pngs/859/71/png-transparent-efl-cup-english-football-league-efl-championship-fa-cup-premier-league-premier-league-text-rectangle-logo.png"
-		},
-		
 		{
 
 
@@ -55,7 +29,7 @@
 
 
 			"user": "Olympique Lyonnais vs Lille",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://50.7.34.155:2200/BR/Fox_Sports_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
 		},
