@@ -1,22 +1,7 @@
 {
 
 	"hits": [
-{
 
-
-			"user": "Torino vs Cagliari HD1",
-			"pageUrl": "https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?per",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
-		},
-		{
-
-
-			"user": "Torino vs Cagliari HD2",
-			"pageUrl": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
-		},
 		
 	{
 
@@ -33,7 +18,7 @@
 
 
 			"user": "West Ham vs Wolves SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -43,17 +28,24 @@
 
 
 			"user": "West Ham vs Wolves HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
+{
 
+
+			"user": "West Ham vs Wolves HD (English)",
+			"pageUrl": "http://archive.simpletv.eu:8080/SkySport5HD/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 {
 
 
 			"user": "Hellas Verona vs Venezia HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?per",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
@@ -61,7 +53,7 @@
 
 
 			"user": "Hellas Verona vs Venezia HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?per",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
