@@ -78,6 +78,12 @@
 
 
 {
+		        "user": "ALL FOOTBALL 1 cnn",
+			"pageUrl": "https://repoli.herokuapp.com/https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		},
+{
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
 			"type": "FOOTBALL ⚽️ ",
