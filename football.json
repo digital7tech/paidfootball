@@ -1,18 +1,7 @@
 {
 
 	"hits": [
-		{
-		        "user": "Hannover 96 vs RB Leipzig",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
-		},
-		{
-		        "user": "Hamburger SV vs Karlsruher SC",
-			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
-		},
+		
 		{
 		        "user": "Luton Town vs Chelsea SD",
 			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
