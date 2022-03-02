@@ -62,13 +62,13 @@
 		
 {
 		        "user": "Liverpool vs Norwich City  SD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
 			"type": "England - FA Cup  ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 		{
 		        "user": "Liverpool vs Norwich City HD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
