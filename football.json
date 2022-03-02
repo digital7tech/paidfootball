@@ -54,19 +54,19 @@
 		},
 		{
 		        "user": "Fiorentina vs Juventus SD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
 			"type": "Italy - Coppa Italia ⚽️ ",
 			"webFormatUrl": "https://static.toiimg.com/thumb/msid-82432825,width-1070,height-580,imgsize-45282,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
 		},
 		{
 		        "user": "Fiorentina vs Juventus HD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8",
 			"type": "Italy - Coppa Italia ⚽️ ",
 			"webFormatUrl": "https://static.toiimg.com/thumb/msid-82432825,width-1070,height-580,imgsize-45282,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
 		},
 		{
 		        "user": "Mallorca vs Real Sociedad HD",
-			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
