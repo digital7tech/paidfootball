@@ -5,7 +5,7 @@
 
 {
 		        "user": "ALL FOOTBALL",
-			"pageUrl": "https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8",
+			"pageUrl": "http://92.46.127.146:8080/SetantaSportPlus-L3-TRANS/index.m3u8?token=test",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		},
