@@ -4,14 +4,14 @@
 		
 		{
 		        "user": "Everton vs Boreham Wood SD",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"pageUrl": "http://45.127.244.7:8080/hls/channel5.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 				
 		{
-		        "user": "Everton vs Boreham Wood SD",
-			"pageUrl": "https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7",
+		        "user": "Everton vs Boreham Wood SD(English)",
+			"pageUrl": "http://45.127.244.7:8080/hls/channel5.m3u8",
 			"type": "England - FA Cup ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
