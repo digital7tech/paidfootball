@@ -2,6 +2,27 @@
 
 	"hits": [
 		
+		{
+		        "user": "Everton vs Boreham Wood SD",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+				
+		{
+		        "user": "Everton vs Boreham Wood SD",
+			"pageUrl": "https://liv11octhd.stblauncher.com/live/5907_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+
+
+		{
+		        "user": "Real Betis  vs Rayo  Vallecano HD",
+			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
+			"type": "Spain - Copa del Rey ⚽️ ",
+			"webFormatUrl": "https://pngset.com/images/logo-copa-del-rey-text-alphabet-label-word-transparent-png-1578519.png"
+		},
 {
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8",
