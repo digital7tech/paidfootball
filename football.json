@@ -1,7 +1,14 @@
 {
 
 	"hits": [
+{
 
+
+			"user": "Nottingham Forest vs Huddersfield SD",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
+			"type": "ENGLISH FA CUP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPAXqrvkhXCYqXYMS3EaY_IllL7B_213r_A&usqp=CAU"
+		},
 
 		{
 
@@ -16,7 +23,7 @@
 
 
 			"user": "Tottenham vs Everton SD",
-			"pageUrl": "http://103.24.96.74/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
