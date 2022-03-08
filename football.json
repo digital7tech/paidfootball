@@ -15,8 +15,8 @@
 
 {
 
-		        "user": "Liverpool vs Internazionale HD",
-			"pageUrl": "https://hll.hnzzdf.com.cn/live/H102757.m3u8?txSecret=2b33d4b4fdede7fcc6733030164e3428&txTime=62284B87&_s=stream",
+		        "user": "Liverpool vs Internazionale HD(English)",
+			"pageUrl": "https://d3bh6k6cdgaj10.cloudfront.net/hls/ssp/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -25,7 +25,7 @@
 {
 
 		        "user": "Liverpool vs Internazionale HD2(English)",
-			"pageUrl": "http://cdn.only4.tv/7915/video.m3u8?token=wKzMt243wK",
+			"pageUrl": "https://4bff37877bc9.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.611414894832.channel.l4UpHS1Y2cIj.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -52,7 +52,7 @@
 {
 
 		        "user": "Bayern München vs Salzburg HD1",
-			"pageUrl": "https://videodelivery.net/478dd182c790fb35b9de9afe1f200965/manifest/video.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -61,7 +61,7 @@
 {
 
 		        "user": "Bayern München vs Salzburg HD2",
-			"pageUrl": "http://cdn.only4.tv/5594/video.m3u8?token=wKzMt243wK",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
