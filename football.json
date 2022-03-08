@@ -11,19 +11,12 @@
 		},
 
 
-{
-
-		        "user": "Liverpool vs Internazionale SD",
-			"pageUrl": "http://103.24.96.74/stream/ptvsports/playlist.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},
 
 
 {
 
 		        "user": "Liverpool vs Internazionale HD",
-			"pageUrl": "http://103.24.96.74/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://cdn.only4.tv/7915/video.m3u8?token=wKzMt243wK",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -50,7 +43,7 @@
 {
 
 		        "user": "Bayern München vs Salzburg SD",
-			"pageUrl": "http://103.24.96.74/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -58,11 +51,21 @@
 
 {
 
-		        "user": "Bayern München vs Salzburg HD",
-			"pageUrl": "http://103.24.96.74/stream/ptvsports/playlist.m3u8",
+		        "user": "Bayern München vs Salzburg HD1",
+			"pageUrl": "http://cdn.only4.tv/5594/video.m3u8?token=wKzMt243wK",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
+
+
+{
+
+		        "user": "Bayern München vs Salzburg HD2",
+			"pageUrl": "http://cdn.only4.tv/5594/video.m3u8?token=wKzMt243wK",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
 
 
 
