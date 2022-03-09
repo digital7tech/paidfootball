@@ -7,8 +7,8 @@
 
 {
 
-		        "user": "Real Madrid vs PSG SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+		        "user": "Real Madrid vs PSG HD(English)",
+			"pageUrl": "https://d3bh6k6cdgaj10.cloudfront.net:443/hls/ssp/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -16,8 +16,8 @@
 
 {
 
-		        "user": "Real Madrid vs PSG HD1",
-			"pageUrl": "http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per",
+		        "user": "Real Madrid vs PSG HD1(English)",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -26,15 +26,15 @@
 {
 
 		        "user": "Real Madrid vs PSG HD2(English)",
-			"pageUrl": "https://d3bh6k6cdgaj10.cloudfront.net:443/hls/ssp/chunks.m3u8",
+			"pageUrl": "https://d9dv940q60g7b.cloudfront.net/stream/MzEzOA==/1080p.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 {
 
-		        "user": "Real Madrid vs PSG HD3(English)",
-			"pageUrl": "https://d9dv940q60g7b.cloudfront.net/stream/MzEzOA==/1080p.m3u8",
+		        "user": "Real Madrid vs PSG SD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
