@@ -8,7 +8,7 @@
 {
 
 		        "user": "Real Betis vs Eintracht Frankfurt SD",
-			"pageUrl": "http://50.7.34.155:2201/BR/Fox_Sports_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXbE2h7_sKvVR4EM-TCnq6yCaUThO_XqN4Q&usqp=CAU"
 		},
@@ -26,7 +26,7 @@
 {
 
 		        "user": "Porto vs Olympique Lyonnais SD",
-			"pageUrl": "http://archive.simpletv.eu:8080/espnhd/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXbE2h7_sKvVR4EM-TCnq6yCaUThO_XqN4Q&usqp=CAU"
 		},
