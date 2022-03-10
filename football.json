@@ -71,7 +71,7 @@
 
 
 			"user": "Barcelona vs Galatasaray SD",
-			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20851.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -143,7 +143,7 @@
 
 
 			"user": "PSV vs København HD",
-			"pageUrl": "Europe - UEFA Europa Conference League",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
 		},
