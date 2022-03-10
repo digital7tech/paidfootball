@@ -71,7 +71,7 @@
 
 
 			"user": "Barcelona vs Galatasaray SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20851.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -79,7 +79,7 @@
 
 
 			"user": "Barcelona vs Galatasaray HD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20851.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -87,7 +87,7 @@
 
 
 			"user": "Atalanta vs Bayer Leverkusen SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20857.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -95,7 +95,7 @@
 
 
 			"user": "Atalanta vs Bayer Leverkusen HD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20857.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -103,15 +103,15 @@
 
 
 			"user": "Rangers vs Crvena Zvezda SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20847.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
 		{
 
 
-			"user": "Rangers vs Crvena Zvezda HD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"user": "Rangers vs Crvena Zvezda HD(English)",
+			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20847.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -127,7 +127,7 @@
 
 
 			"user": "Leicester City vs Rennes SD",
-			"pageUrl": "Europe - UEFA Europa Conference League",
+			"pageUrl": "http://archive.simpletv.eu:8080/espnhd/index.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
 		},
@@ -135,7 +135,7 @@
 
 
 			"user": "Leicester City vs Rennes HD(English)",
-			"pageUrl": "Europe - UEFA Europa Conference League",
+			"pageUrl": "http://archive.simpletv.eu:8080/espnhd/index.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
 		},
@@ -151,7 +151,7 @@
 
 
 			"user": "Bodø / Glimt vs AZ HD",
-			"pageUrl": "Europe - UEFA Europa Conference League",
+			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20855.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
 		},
