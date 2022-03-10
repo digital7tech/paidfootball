@@ -6,7 +6,7 @@
 
 
 			"user": "Sevilla vs West Ham United SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"pageUrl": "http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -14,7 +14,7 @@
 
 
 			"user": "Sevilla vs West Ham United HD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"pageUrl": "http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
