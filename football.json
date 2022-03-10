@@ -95,7 +95,7 @@
 
 
 			"user": "Atalanta vs Bayer Leverkusen HD",
-			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20857.m3u8",
+			"pageUrl": "http://103.166.253.222/hls/sonyten1.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -111,7 +111,7 @@
 
 
 			"user": "Rangers vs Crvena Zvezda HD(English)",
-			"pageUrl": "http://exchangesat.com:8080/live/yrr3nG83/dmD631n/20847.m3u8",
+			"pageUrl": "http://103.166.253.222/hls/sonyten3.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -139,6 +139,17 @@
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
 		},
+
+{
+
+
+			"user": "Leicester City vs Rennes HD2(English)",
+			"pageUrl": "http://103.166.253.222/hls/sonysix.m3u8",
+			"type": "Europe - UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png"
+		},
+
+
 		{
 
 
