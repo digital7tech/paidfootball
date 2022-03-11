@@ -52,7 +52,7 @@
 
 
 		        "user": "ALL FOOTBALL",
-			"pageUrl": "http://103.24.96.74/stream/ptvsports/playlist.m3u8",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
