@@ -5,12 +5,51 @@
 
 {
 
-		        "user": "ALL FOOTBALL1",
+		        "user": "Athletico Madrid vs Cadiz SD",
 			"pageUrl": "http://m4.yacinelivetv.com/live/179885588/index.m3u8?t=JjrBXyC8wEMIW_1lFg6yVA&e=1647012942",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
-		},
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+
+
+},
+
+
+
+
 {
+
+		        "user": "Athletico Madrid vs Cadiz HD",
+			"pageUrl": "http://m4.yacinelivetv.com/live/179885588/index.m3u8?t=JjrBXyC8wEMIW_1lFg6yVA&e=1647012942",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+
+
+},
+
+
+
+{
+
+		        "user": "Lille vs Saint-Étienne SD",
+			"pageUrl": "http://m4.yacinelivetv.com/live/179885588/index.m3u8?t=JjrBXyC8wEMIW_1lFg6yVA&e=1647012942",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-pJyOm4tvUROxP0TJtbnDijpeZZ6wBBUTw&usqp=CAU"
+
+
+},
+
+
+{
+
+		        "user": "Lille vs Saint-Étienne HD",
+			"pageUrl": "http://m4.yacinelivetv.com/live/179885588/index.m3u8?t=JjrBXyC8wEMIW_1lFg6yVA&e=1647012942",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-pJyOm4tvUROxP0TJtbnDijpeZZ6wBBUTw&usqp=CAU"
+
+},
+
+{
+
 
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://103.24.96.74/stream/ptvsports/playlist.m3u8",
