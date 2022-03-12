@@ -87,19 +87,12 @@
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
-		{
-
-
-			"user": "Borussia M'gladbach vs Hertha BSC SD",
-			"pageUrl": "http://185.152.66.55/98780/tracks-v1a1/mono.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
+		
 		{
 
 
 			"user": "Borussia M'gladbach vs Hertha BSC HD",
-			"pageUrl": "http://185.152.66.55/98780/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
