@@ -40,7 +40,7 @@
 		{
 
 
-			"user": "Freiburg vs Wolfsburg HD",
+			"user": "Freiburg vs Wolfsburg SD",
 			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
@@ -49,7 +49,7 @@
 
 
 			"user": "Freiburg vs Wolfsburg HD",
-			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
+			"pageUrl": "https://1002.metx.me:30443/live/spstream8/chunks.m3u8?nimblesessionid=27394178&wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIyIDM6Mzk6MDAgUE0maGFzaF92YWx1ZT16T0s0SDV1YWdTRWxIUDdWSnZmVyt3PT0mdmFsaWRtaW51dGVzPTEyMA==",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -73,7 +73,7 @@
 
 
 			"user": "Hoffenheim vs Bayern München HD",
-			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
+			"pageUrl": "https://1001.metx.me:30443/live/spstream7/chunks.m3u8?nimblesessionid=17497169&wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIyIDM6Mzc6MDMgUE0maGFzaF92YWx1ZT1aVEdyYldMMWxVYnkrY2pxVUNUdWtBPT0mdmFsaWRtaW51dGVzPTEyMA==",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
