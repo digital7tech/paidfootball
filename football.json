@@ -43,12 +43,20 @@
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
+		{
+
+
+			"user": "Manchester United vs Tottenham SD ",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 		
 		{
 
 
 			"user": "Manchester United vs Tottenham SD (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
+			"pageUrl": "http://103.149.130.122:8089/73/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
