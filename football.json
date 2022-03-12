@@ -137,7 +137,7 @@
 
 
 			"user": "Estoril vs Portimonense",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://103.145.12.195:8080/hls/streama175053/index.m3u8?cst=f112212ee2827934fa3ecff2ae8c8f86",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
@@ -145,7 +145,7 @@
 
 
 			"user": "Famalicão vs Santa Clara",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://185.53.88.143:8080/hls/streama178119/index.m3u8?cst=a950bb51befe42d5cf9cd9b45b4020fb",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
