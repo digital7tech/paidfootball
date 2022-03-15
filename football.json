@@ -29,15 +29,15 @@
 	
 {
 		        "user": "Manchester United vs Atlético Madrid HD2(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
+			"pageUrl": "https://d17f1mg1q6g54e.cloudfront.net:443/hls/ssp/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},	
 
 	
 {
-		        "user": "Manchester United vs Atlético Madrid HD3",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
+		        "user": "Manchester United vs Atlético Madrid HD3(English)",
+			"pageUrl": "http://d1wfx3iskb5o0q.cloudfront.net:80/stream/MzIyOA==/1080p.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},	
