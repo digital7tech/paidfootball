@@ -40,7 +40,7 @@
 
 
 			"user": "Lille vs Chelsea SD2",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar2/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -74,7 +74,7 @@
 
 
 			"user": "Juventus vs Villarreal SD2",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
