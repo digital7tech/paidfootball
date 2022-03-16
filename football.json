@@ -3,6 +3,14 @@
 	"hits": [
 	
 
+{
+
+
+			"user": "Brighton vs Tottenham Hotspur SD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar4/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
 		{
 
 
@@ -12,14 +20,6 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},	
 
-{
-
-
-			"user": "Brighton vs Tottenham Hotspur SD2",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar4/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
 		{
 
 
@@ -27,6 +27,15 @@
 			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3/chunks.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+{
+
+
+			"user": "Lille vs Chelsea SD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar2/index.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},	
 		{
 
@@ -36,19 +45,12 @@
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
-		{
-
-
-			"user": "Lille vs Chelsea SD2",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar2/index.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
+		
 		{
 
 
 			"user": "Lille vs Chelsea HD1(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -56,7 +58,16 @@
 
 
 			"user": "Lille vs Chelsea HD2(English)",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
+			"type": "Europe - UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+{
+
+
+			"user": "Juventus vs Villarreal SD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -70,14 +81,7 @@
 		},
 
 
-		{
-
-
-			"user": "Juventus vs Villarreal SD2",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
-			"type": "Europe - UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
+		
 
 {
 
@@ -95,6 +99,14 @@
 			"type": "Europe - UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
+{
+
+
+			"user": "Arsenal vs Liverpool SD1",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
 		
 		{
 
@@ -104,30 +116,26 @@
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+	
 		{
 
 
-			"user": "Arsenal vs Liverpool SD2",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/playlist.m3u8",
+			"user": "Arsenal vs Liverpool HD1",
+			"pageUrl": "https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
+		},
+
+	
 		{
 
 
-			"user": "Arsenal vs Liverpool HD1(English)",
+			"user": "Arsenal vs Liverpool HD2(English)",
 			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},	
-		{
-
-
-			"user": "Arsenal vs Liverpool HD2",
-			"pageUrl": "https://16live00.akamaized.net/SKY_SPORTSMAIN/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
+	
 		{
 
 
