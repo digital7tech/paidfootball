@@ -57,19 +57,12 @@
 		{
 
 
-			"user": "Olympique Lyonnais vs Porto SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"user": "Olympique Lyonnais vs Porto ",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
 			"type": "Europe - UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
-		{
-
-
-			"user": "Olympique Lyonnais vs Porto HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
-			"type": "Europe - UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},	
+		
 		{
 
 
