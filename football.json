@@ -109,7 +109,7 @@
 
 
 			"user": "Cagliari vs Milan HD1",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar4/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
@@ -117,7 +117,7 @@
 
 
 			"user": "Cagliari vs Milan HD2",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
@@ -125,7 +125,7 @@
 
 
 			"user": "Cagliari vs Milan HD3",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://persik.by/stream/7504/377885/346.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
 		},
@@ -133,7 +133,7 @@
 
 
 			"user": "Rayo Vallecano vs Atlético Madrid SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -141,7 +141,7 @@
 
 
 			"user": "Rayo Vallecano vs Atlético Madrid HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://loga.ultratotal.ml/xls/ligota/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -149,7 +149,7 @@
 
 
 			"user": "Nantes vs Lille",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
 		},
@@ -157,18 +157,12 @@
 
 
 			"user": "Vitória Guimarães vs Sporting CP",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
 
 
-{
-		        "user": "ALL FOOTBALL1",
-			"pageUrl": "https://ik2mqisu1w.poiuytrewqasdfghjkl.cyou/res/950b25c4104d424c7ccd974021ac07f0/9bd47f48fc7fe7efcd3ebcf5c493014f/Uncharted_(2022)_CAMRip_high_(fzmovies.net)_bb25866890858506a26e4cd9ef28dccc.mp4",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
-		},
 {
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://103.24.96.74/stream/ptvsports/playlist.m3u8",
