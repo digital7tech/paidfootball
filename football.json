@@ -11,34 +11,6 @@
 		{
 
 
-			"user": "Southampton vs Manchester City SD (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-		
-		{
-
-
-			"user": "Southampton vs Manchester City HD1 (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-		
-		{
-
-
-			"user": "Southampton vs Manchester City HD2",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar2/index.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
-		},
-		
-
-		{
-
-
 			"user": "Cádiz vs Villarreal",
 			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
