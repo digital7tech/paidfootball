@@ -106,27 +106,12 @@
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
 		},
-		{
-
-
-			"user": "Angers SCO vs Brest HD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
-		},
-		{
-
-
-			"user": "Lorient vs Strasbourg HD",
-			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
-		},
+		
 		{
 
 
 			"user": "Rennes vs Metz HD",
-			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png"
 		},
