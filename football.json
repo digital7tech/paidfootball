@@ -16,7 +16,7 @@
 
 
 			"user": "Italy vs North Macedonia SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar4/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -56,7 +56,7 @@
 		{
 
 
-			"user": "Wales vs Austria HD",
+			"user": "Wales vs Austria HD(English)",
 			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
@@ -65,7 +65,7 @@
 
 
 			"user": "Sweden vs Czech Republic SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar6/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -81,7 +81,7 @@
 
 
 			"user": "Scotland vs Poland HD",
-			"pageUrl": "https://eiei.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},
