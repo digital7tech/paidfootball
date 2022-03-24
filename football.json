@@ -33,7 +33,7 @@
 
 
 			"user": "Portugal vs Turkey SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -49,7 +49,7 @@
 
 
 			"user": "Wales vs Austria SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar7/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -65,7 +65,7 @@
 
 
 			"user": "Sweden vs Czech Republic SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar6/index.m3u8",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
