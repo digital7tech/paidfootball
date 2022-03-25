@@ -30,12 +30,19 @@
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},
-		
-	
 	{
 
 
 			"user": "Ghana vs Nigeria SD",
+			"pageUrl": "http://194.67.196.19/hls/108.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuykDudRIlM2_gi7s1QlRFvzJYIkp10tyTg&usqp=CAU"
+		},	
+	
+	{
+
+
+			"user": "Ghana vs Nigeria HD",
 			"pageUrl": "http://78.129.253.15:8030/Fuchar5/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuykDudRIlM2_gi7s1QlRFvzJYIkp10tyTg&usqp=CAU"
