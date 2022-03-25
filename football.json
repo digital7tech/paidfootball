@@ -8,13 +8,21 @@
 {
 
 
-			"user": "Congo DR vs Morocco HD",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"user": "Congo DR vs Morocco HD1",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},
 		
-		
+	{
+
+
+			"user": "Congo DR vs Morocco HD2",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar4/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
+		},
+			
 		{
 
 
