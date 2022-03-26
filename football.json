@@ -7,25 +7,7 @@
 
 		
 		
-		
-	{
-
-
-			"user": "Argentina vs Venezuela SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar1/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuykDudRIlM2_gi7s1QlRFvzJYIkp10tyTg&usqp=CAU"
-		},
-
-{
-
-
-			"user": "Argentina vs Venezuela HD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuykDudRIlM2_gi7s1QlRFvzJYIkp10tyTg&usqp=CAU"
-		},	
-
+	
 {
 		        "user": "ALL FOOTBALL",
 			"pageUrl": "http://103.149.130.122:8089/73/index.m3u8",
