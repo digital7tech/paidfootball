@@ -13,10 +13,19 @@
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},
-		{
+
+{
 
 
 			"user": "England vs Switzerland SD",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
+		},
+		{
+
+
+			"user": "England vs Switzerland SD(English)",
 			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
