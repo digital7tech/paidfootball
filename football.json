@@ -5,40 +5,6 @@
 
 		
 
-		{
-
-
-			"user": "Ireland Republic vs Belgium HD",
-			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
-		},
-
-{
-
-
-			"user": "England vs Switzerland SD",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
-		},
-		{
-
-
-			"user": "England vs Switzerland HD(English)",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
-		},
-		{
-
-
-			"user": "England vs Switzerland HD2(English)",
-			"pageUrl": "http://178.218.196.218:8000/play/a00l/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
-		},
-
 
 	{
 
@@ -77,14 +43,14 @@
 
 
 			"user": "Germany vs Israel SD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/109.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},{
 
 
 			"user": "Germany vs Israel HD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},
@@ -92,7 +58,7 @@
 
 
 			"user": "Netherlands vs Denmark SD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},
@@ -100,7 +66,7 @@
 
 
 			"user": "Netherlands vs Denmark HD",
-			"pageUrl": "https://cc22.koralast.com/UpFiles/2022/3/20/42/220744/360p.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},
