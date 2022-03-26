@@ -34,11 +34,20 @@
 
 
 			"user": "England vs Switzerland HD2(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
 		},
-	
+
+
+	{
+
+
+			"user": "England vs Switzerland HD3(English)",
+			"pageUrl": "http://178.218.196.218:8000/play/a00l/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://daily.jstor.org/wp-content/uploads/2015/06/FIFA_Logo_1050x700.jpg"
+		},
 		{
 
 
