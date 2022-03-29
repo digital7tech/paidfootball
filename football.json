@@ -43,12 +43,20 @@
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
 
+		{
+
+
+			"user": "Nigeria vs Ghana SD",
+			"pageUrl": "http://51.79.193.109:8080/hlsok/a656b8477/index.m3u8?key=padgxLR04CjGn7DYy2K0GA&expires=1646297930&mac=08:00:27:3c:10:13&type=ph",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
+		},
 
 		{
 
 
 			"user": "Nigeria vs Ghana HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://51.79.193.109:8080/hlsok/a656b8477/index.m3u8?key=padgxLR04CjGn7DYy2K0GA&expires=1646297930&mac=08:00:27:3c:10:13&type=ph",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
