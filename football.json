@@ -3,19 +3,12 @@
 
 	"hits": [
 
-	{
-
-
-			"user": "Japan vs Vietnam HD",
-			"pageUrl": "http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
+	
 		{
 
 
 			"user": "Croatia vs Bulgaria HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://45.11.57.43:8081/live/vch1sd.m3u8?e=1648569240&st=ShssTKq9S7is9E9_74drug",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
 		},
@@ -23,7 +16,7 @@
 
 
 			"user": "Kazakhstan vs Moldova HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://45.11.57.42:8081/live/skyepllsh.m3u8?e=1648571534&st=_TEd0JP-5o8M_Aq6kHaDPg",
 			"type": "UEFA NATIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRlqMFsDpmWP1lyV7WUcF2HC2sPqAfxzSnA&usqp=CAU"
 		},
@@ -32,7 +25,7 @@
 
 
 			"user": "UAE vs Korea Republic HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://45.11.57.42:8081/live/live19.m3u8?e=1648571400&st=QNXU9OnxrO3tSM_kjUuNJQ",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
