@@ -10,7 +10,15 @@
 			"pageUrl": "http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},	
+		},
+		{
+
+
+			"user": "Croatia vs Bulgaria HD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
 		{
 
 
@@ -31,6 +39,22 @@
 
 
 			"user": "Denmark vs Serbia HD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
+			"user": "Finland vs Slovakia HD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
+			"user": "Albania vs Georgia HD",
 			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
@@ -87,7 +111,7 @@
 		{
 
 
-			"user": "Poland vs Sweden HD",
+			"user": "Poland vs Sweden SD",
 			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
@@ -135,6 +159,22 @@
 		{
 
 
+			"user": "England vs Côte d'Ivoire SD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
+			"user": "England vs Côte d'Ivoire HD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
 			"user": "Turkey vs Italy SD",
 			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
 			"type": "Friendly ⚽️ ",
@@ -144,6 +184,54 @@
 
 
 			"user": "Turkey vs Italy HD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
+			"user": "Belgium vs Burkina Faso HD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
+			"user": "Wales vs Czech Republic HD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
+			"user": "France vs South Africa SD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
+			"user": "France vs South Africa HD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
+			"user": "Austria vs Scotland HD",
+			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
+		},
+		{
+
+
+			"user": "Northern Ireland vs Hungary HD",
 			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
