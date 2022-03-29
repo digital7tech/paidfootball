@@ -55,7 +55,7 @@
 
 
 			"user": "Portugal vs North Macedonia SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -63,7 +63,7 @@
 
 
 			"user": "Portugal vs North Macedonia HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -71,7 +71,7 @@
 
 
 			"user": "Poland vs Sweden SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -79,7 +79,7 @@
 
 
 			"user": "Poland vs Sweden HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
 		},
@@ -103,7 +103,7 @@
 
 
 			"user": "Netherlands vs Germany SD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
 		},
@@ -111,7 +111,7 @@
 
 
 			"user": "Netherlands vs Germany HD",
-			"pageUrl": "http://78.129.253.15:8030/Fuchar3/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-4/live/b-4_480p/chunks.m3u8",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://whatchan.co.uk/wp-content/uploads/2021/05/international-friendly.jpg"
 		},
