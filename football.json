@@ -3,70 +3,7 @@
 
 	"hits": [
 
-	{
-
-
-			"user": "Costa Rica vs USA SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-	{
-
-
-			"user": "Costa Rica vs USA HD",
-			"pageUrl": "https://16live00.akamaized.net/CBS_SPORTS/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-			
-{
-
-
-			"user": "Mexico vs El Salvador SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-
-
-			
-{
-
-
-			"user": "Mexico vs El Salvador HD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-			
-{
-
-
-			"user": "Jamaica vs Honduras HD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},
-
-	{
-
-
-			"user": "Canada vs Panama SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3/chunks.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},	
-
-
-	{
-
-
-			"user": "Canada vs Panama HD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "http://ocdn.eu/images/pulscms/MDY7MDA_/a9b01546-85a1-4623-be7a-e24b02f0be5f.jpeg"
-		},	
+	
 {
 		        "user": "Football",
 			"pageUrl": "http://103.149.130.122:8089/73/index.m3u8",
