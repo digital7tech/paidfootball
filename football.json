@@ -5,11 +5,34 @@
 
 	
 {
-		        "user": "World Cup Draw",
+		        "user": "Union Berlin vs Köln HD1",
 			"pageUrl": "http://persik.by/stream/7504/377885/346.m3u8",
-			"type": "World Cup  2022 ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBkWDtRH2veS-ZElRAGhrRY50p0amBzaHFw&usqp=CAU"
+			"type": "BUNDESLIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
+	
+{
+		        "user": "Union Berlin vs Köln HD2",
+			"pageUrl": "http://persik.by/stream/7504/377885/346.m3u8",
+			"type": "BUNDESLIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+
+	
+{
+		        "user": "Sporting Braga vs Benfica",
+			"pageUrl": "http://persik.by/stream/7504/377885/346.m3u8",
+			"type": "PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+	
+{
+		        "user": "Hull City vs Huddersfield",
+			"pageUrl": "http://persik.by/stream/7504/377885/346.m3u8",
+			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBRcBngLouYtWVjeEwtj-Y2zyt6VfrufZzA&usqp=CAU"
+		},
+
 	
 {
 		        "user": "Football",
