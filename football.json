@@ -5,6 +5,13 @@
 
 	
 {
+		        "user": "World Cup Draw",
+			"pageUrl": "http://persik.by/stream/7504/377885/346.m3u8",
+			"type": "World Cup  2022 ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBkWDtRH2veS-ZElRAGhrRY50p0amBzaHFw&usqp=CAU"
+		},
+	
+{
 		        "user": "Football",
 			"pageUrl": "http://103.149.130.122:8089/73/index.m3u8",
 			"type": "FOOTBALL ⚽️ ",
