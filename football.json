@@ -167,7 +167,7 @@
 
 
 			"user": "Wolves vs Aston Villa HD(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
+			"pageUrl": "http://178.218.196.218:8000/play/a00e/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -185,7 +185,7 @@
 
 
 			"user": "Levante vs Villarreal HD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"pageUrl": "http://178.218.196.218:8000/play/a00d/index.m3u8?token=1234678887643fgjkfe23579ijbcdsw3457ide5788kbdsuioi754",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},	
