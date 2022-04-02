@@ -3,48 +3,8 @@
 
 	"hits": [
 
-{
 
 
-			"user": "Liverpool vs Watford SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Watford SD2 (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Watford HD1 (English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Watford HD2 (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	{
-
-
-			"user": "Liverpool vs Watford HD3 (English)",
-			"pageUrl": "http://6tl8rrt520u.ottclub.xyz/iptv/PC7NQMBVABNZ7Q/2505/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
 	{
 
 
@@ -143,7 +103,7 @@
 
 
 			"user": "Burnley vs Manchester City HD1(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
