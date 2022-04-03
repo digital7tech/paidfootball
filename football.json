@@ -42,7 +42,7 @@
 
 
 			"user": "Athletic Club vs Elche SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": " ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipediommons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -50,7 +50,7 @@
 
 
 			"user": "Athletic Club vs Elche HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://188.34.177.35/xls/ligota/index.m3u8",
 			"type": "⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.orkipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
