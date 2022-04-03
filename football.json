@@ -56,7 +56,7 @@
 
 
 			"user": "PSG vs Lorient SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -64,7 +64,7 @@
 
 
 			"user": "PSG vs Lorient HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "France - Ligue 1 ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
