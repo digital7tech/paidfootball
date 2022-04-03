@@ -73,7 +73,7 @@
 
 
 			"user": "Barcelona vs Sevilla SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": " ⚽️ ",
 			"webFormatUrl": "https:/load.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
