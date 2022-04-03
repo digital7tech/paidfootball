@@ -73,7 +73,7 @@
 
 
 			"user": "Barcelona vs Sevilla SD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
 			"type": " ⚽️ ",
 			"webFormatUrl": "https:/load.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -81,7 +81,7 @@
 
 
 			"user": "Barcelona vs Sevilla HD",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
 			"type": " ⚽️ ",
 			"webFormatUrl": "https://upload.wikimediag/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		},
@@ -89,7 +89,7 @@
 
 
 			"user": "Sporting CP vs Paços de Ferreira",
-			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
