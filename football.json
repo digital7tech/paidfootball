@@ -11,6 +11,15 @@
 {
 
 
+			"user": "Milan vs Bologna SD",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsz18V-9UFe37ZpS-wwr0ua5uQP5jYMZZcFxFr-R0V-eS3KTxE3u7rAPS3&s=10"
+		},
+
+{
+
+
 			"user": "Milan vs Bologna HD1",
 			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
@@ -97,7 +106,15 @@
 {
 
 
-			"user": "Porto vs Santa Clara",
+			"user": "Porto vs Santa Clara SD",
+			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},	
+{
+
+
+			"user": "Porto vs Santa Clara HD",
 			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
