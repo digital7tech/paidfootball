@@ -7,28 +7,28 @@
 
 {
 		        "user": "Manchester City vs Athletico Madrid SD",
-			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 {
 		        "user": "Manchester City vs Athletico Madrid SD2(English)",
-			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 {
 		        "user": "Manchester City vs Athletico Madrid HD1(English)",
-			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 {
 		        "user": "Manchester City vs Athletico Madrid HD2 (English)",
-			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -45,14 +45,14 @@
 
 {
 		        "user": "Benfica vs Liverpool SD1",
-			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 	
 {
 		        "user": "Benfica vs Liverpool SD2 (English)",
-			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -60,14 +60,14 @@
 
 {
 		        "user": "Benfica vs Liverpool HD1 (English)",
-			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 {
 		        "user": "Benfica vs Liverpool HD2 (English)",
-			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
