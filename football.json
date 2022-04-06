@@ -6,25 +6,6 @@
 
 
 
-{
-
-
-			"user": "Augsburg vs Mainz HD1",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
-
-{
-
-
-			"user": "Augsburg vs Mainz HD2",
-			"pageUrl": "http://persik.by/stream/7504/377885/10218.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
 	{
 
 
@@ -53,7 +34,7 @@
 
 
 			"user": "Chelsea vs Real Madrid SD1 (English)",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},	
@@ -61,8 +42,8 @@
 {
 
 
-			"user": "Chelsea vs Real Madrid HD1 (English)",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"user": "Chelsea vs Real Madrid HD1",
+			"pageUrl": "http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},	
@@ -71,7 +52,7 @@
 
 
 			"user": "Chelsea vs Real Madrid HD2 (English)",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},	
@@ -81,7 +62,7 @@
 
 
 			"user": "Chelsea vs Real Madrid HD3 (English)",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},	
@@ -90,7 +71,7 @@
 
 
 			"user": "Chelsea vs Real Madrid HD4",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},	
@@ -100,7 +81,7 @@
 
 
 			"user": "Villarreal vs Bayern München SD",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},	
@@ -112,7 +93,7 @@
 
 
 			"user": "Villarreal vs Bayern München HD1",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},	
@@ -122,7 +103,7 @@
 
 
 			"user": "Villarreal vs Bayern München HD2",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"pageUrl": "http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},		
