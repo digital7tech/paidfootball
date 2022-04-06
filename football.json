@@ -3,6 +3,9 @@
 
 	"hits": [
 
+
+
+
 {
 
 
@@ -22,15 +25,118 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		
-		
-		
+	{
+
+
+			"user": "Burnley vs Everton HD1 (English)",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
+		{
+
+
+			"user": "Burnley vs Everton HD2 (English)",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
+	{
+
+
+			"user": "Burnley vs Everton HD3",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},	
+	{
+
+
+			"user": "Chelsea vs Real Madrid SD1 (English)",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},	
 
 {
-		        "user": "Football 1",
-			"pageUrl": "http://78.129.149.83:8030/Crlug1/index.m3u8?token=4da97483df97a9683804c0cd967da66d7f0af1d7-1649261207-1649261130",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
-		},
+
+
+			"user": "Chelsea vs Real Madrid HD1 (English)",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},	
+
+	{
+
+
+			"user": "Chelsea vs Real Madrid HD2 (English)",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},	
+
+
+{
+
+
+			"user": "Chelsea vs Real Madrid HD3 (English)",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},	
+
+{
+
+
+			"user": "Chelsea vs Real Madrid HD4",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},	
+
+
+{
+
+
+			"user": "Villarreal vs Bayern München SD",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},	
+
+
+
+	
+{
+
+
+			"user": "Villarreal vs Bayern München HD1",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},	
+
+
+{
+
+
+			"user": "Villarreal vs Bayern München HD2",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},		
+
+
+{
+
+
+			"user": "Villarreal vs Bayern München HD3",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},			
+
 {
 		        "user": "Football",
 			"pageUrl": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
