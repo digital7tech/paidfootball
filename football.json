@@ -113,7 +113,7 @@
 
 
 			"user": "Villarreal vs Bayern München HD3",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/kFBU30skLVVKc0FaAQGTpmRkptZzIS6nKFg2olRPCfUxRYEy5wpbmvFPWQYNgBR682KgS2GnC1gPFLh6EsZqAw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8",
+			"pageUrl": "https://d2pwyrb5nekpor.cloudfront.net:443/hls/ssv/chunks.m3u86EsZqAw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},			
