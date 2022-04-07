@@ -34,8 +34,8 @@
 
 {
 
-		        "user": "WestHam vs Olympique Lyonnais SD",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV3.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+		        "user": "WestHam vs Olympique Lyonnais (English)",
+			"pageUrl": "https://ppv.gcdn.co/FOOT3/tracks-v1a1/mono.m3u8",
 			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
 		},
@@ -73,7 +73,7 @@
 
 {
 
-		        "user": "Leicester City vs PSV SD",
+		        "user": "Leicester City vs PSV HD1(English)",
 			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
 			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
@@ -83,8 +83,8 @@
 
 {
 
-		        "user": "Leicester City vs PSV HD(English)",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
+		        "user": "Leicester City vs PSV HD2(English)",
+			"pageUrl": "https://ppv.gcdn.co/FOOT6/tracks-v1a1/mono.m3u8",
 			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
@@ -94,8 +94,8 @@
 
 {
 
-		        "user": "Bodø/Glimt vs AS Roma SD",
-			"pageUrl": "http://50.7.34.155:2201/BR/ESPN2_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+		        "user": "Bodø/Glimt vs AS Roma HD1",
+			"pageUrl": "https://ppv.gcdn.co/FOOT7/tracks-v1a1/mono.m3u8",
 			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
@@ -103,7 +103,7 @@
 
 {
 
-		        "user": "Bodø/Glimt vs AS Roma HD",
+		        "user": "Bodø/Glimt vs AS Roma HD2",
 			"pageUrl": "http://50.7.34.155:2201/BR/ESPN2_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
 			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
@@ -112,7 +112,7 @@
 {
 
 		        "user": "Olympique Marseille vs PAOK",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV6.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"pageUrl": "https://ppv.gcdn.co/FOOT8/tracks-v1a1/mono.m3u8",
 			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
