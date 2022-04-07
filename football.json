@@ -13,19 +13,31 @@
 		},
 
 
-
 {
 
 		        "user": "RB Leipzig vs Atalanta HD2",
+			"pageUrl": "http://dis5fdyevdl5h.cloudfront.net/stream/MzcwNg==/1080p.m3u8",
+			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
+		},
+{
+
+		        "user": "RB Leipzig vs Atalanta HD3",
 			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV2.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
 			"type": "UEFA EUROPA  LEAGUE ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT894YxOk_-4YK2IV6yZ2SA0m-HUWZqucVbPw&usqp=CAU"
 		},
 
-
 {
 
-		        "user": "Feyenoord vs Slavia Praha",
+		        "user": "Feyenoord vs Slavia Praha HD1",
+			"pageUrl": "http://persik.by/stream/7504/377885/346.m3u8",
+			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+		        "user": "Feyenoord vs Slavia Praha HD2",
 			"pageUrl": "http://persik.by/stream/7504/377885/346.m3u8",
 			"type": "UEFA CONFERENCE  LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
