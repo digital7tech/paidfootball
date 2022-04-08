@@ -29,7 +29,7 @@
 
 
 			"user": "Newcastle vs Wolves SD (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzczMw==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -37,7 +37,7 @@
 
 
 			"user": "Newcastle vs Wolves HD1",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV2.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -45,7 +45,7 @@
 
 
 			"user": "Newcastle vs Wolves HD2 (English)",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzczMw==/1080p.m3u8  ",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV2.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END  ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
