@@ -7,48 +7,6 @@
 {
 
 
-			"user": "Bayern München vs Augsburg HD1",
-			"pageUrl": "http://d1x38tpjgevyaw.cloudfront.net/stream/Mzc3OA==/1080p.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Bayern München vs Augsburg HD2",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/234.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Wolfsburg vs Arminia Bielefeld",
-			"pageUrl": "http://194.67.196.19:80/hls/110.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Köln vs Mainz 05",
-			"pageUrl": "http://194.67.196.19:80/hls/108.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Greuther Fürth vs Borussia M'gladbac",
-			"pageUrl": "http://194.67.196.19:80/hls/109.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
-
-{
-
-
 			"user": "Arsenal vs Brighton & Hove Albion SD",
 			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
@@ -162,7 +120,7 @@
 
 
 			"user": "Internazionale vs Hellas Verona HD3",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
