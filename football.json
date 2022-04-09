@@ -7,16 +7,6 @@
 
 
 
-
-
-{
-
-
-			"user": "Paços de Ferreira vs Marítimo",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
 {
 
 
@@ -61,7 +51,7 @@
 
 
 			"user": "Aston Villa vs Tottenham SD",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
