@@ -11,30 +11,6 @@
 		{
 
 
-			"user": "Internazionale vs Hellas Verona HD1",
-			"pageUrl": "http://d1x38tpjgevyaw.cloudfront.net/stream/Mzc4MA==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "Internazionale vs Hellas Verona HD2",
-			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "Internazionale vs Hellas Verona HD3",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
 			"user": "Aston Villa vs Tottenham SD",
 			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
@@ -100,7 +76,7 @@
 
 
 			"user": "Cagliari vs Juventus HD1",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
@@ -108,7 +84,7 @@
 
 
 			"user": "Cagliari vs Juventus HD2",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV2.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
@@ -116,7 +92,7 @@
 
 
 			"user": "Cagliari vs Juventus HD3",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"pageUrl": "http://d1x38tpjgevyaw.cloudfront.net/stream/Mzc4MA==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
@@ -124,7 +100,7 @@
 
 
 			"user": "Clermont vs PSG HD1",
-			"pageUrl": "http://d1x38tpjgevyaw.cloudfront.net/stream/MzczNg==/1080p.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -132,7 +108,7 @@
 
 
 			"user": "Clermont vs PSG HD2",
-			"pageUrl": "http://d1x38tpjgevyaw.cloudfront.net/stream/MzczNg==/1080p.m3u8",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
