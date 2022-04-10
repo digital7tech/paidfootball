@@ -6,23 +6,6 @@
 		{
 
 
-			"user": "Bordeaux vs Metz HD1",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-
-{
-
-
-			"user": "Bordeaux vs Metz HD2",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
 			"user": "Brentford vs WestHam SD",
 			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
@@ -33,6 +16,15 @@
 
 			"user": "Brentford vs WestHam HD(English)",
 			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+{
+
+
+			"user": "Brentford vs WestHam HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
