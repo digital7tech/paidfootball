@@ -29,7 +29,7 @@
 		},
 {
 	                "user": "Atlético Madrid vs Manchester City HD2(English)",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS2/index.m3u8",
+			"pageUrl": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/GsTfvD-5tztyx2ZXe2VJPA0FS0rshcxguZ4OFlhlMoVydUEJPp16JqlqEVeVK4pMzSP-u2EoJgqJ2QzWWH-Www/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -43,21 +43,6 @@
 		},
 
 
-{
-	                "user": "Atlético Madrid vs Manchester City HD4",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-
-
-{
-	                "user": "Atlético Madrid vs Manchester City HD5",
-			"pageUrl": "https://tx.flv.nimo.tv/live/su2039513003352rd34720fccee3475d2e08e75ed80f3692.m3u8?wsSecret=9ea53b75d5d6b9809db4600bf3cd68a1&wsTime=6255db1a&seqid=3689306885456&ctype=&ver=1&appid=81&tp=1649793818361&needwm=0&&wsiphost=ipdbme&u=2037738985692&t=100&sv=2204081430",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
-		},
 
 {
 	                "user": "Liverpool vs Benfica SD1(English)",
@@ -96,7 +81,7 @@
 
 {
 	                "user": "Liverpool vs Benfica HD2(English)",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
+			"pageUrl": "https://hll.hnzzdf.com.cn/live/H142317.m3u8?txSecret=28f6bb798186e102ad3083e969363fb2&txTime=62585391&_s=stream",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png"
 		},
