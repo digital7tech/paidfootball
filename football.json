@@ -12,7 +12,7 @@
 
 {
 
-			"user": "Atalanta vs RB Leipzig HD2",
+			"user": "Atalanta vs RB Leipzig HD1",
 			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwMQ==/1080p.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
@@ -22,7 +22,7 @@
 
 {
 
-			"user": "Atalanta vs RB Leipzig HD3",
+			"user": "Atalanta vs RB Leipzig HD2",
 			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/0sVr0HqRBdj0zpfy43zKlWEfdbdP6ZKg7uNI772uvU4ipM7B69NrmIaEk6Bh8adhq7CH7_JSq7GSn20-t8wYhw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
@@ -52,6 +52,120 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.pngl_competition%29_logo.svg.png"
 		},
 
+{
+
+			"user": "Barcelona vs Frankfurt SD",
+			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/0sVr0HqRBdj0zpfy43zKlWEfdbdP6ZKg7uNI772uvU4ipM7B69NrmIaEk6Bh8adhq7CH7_JSq7GSn20-t8wYhw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"type": "UEFA EUROPA LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+
+
+{
+
+			"user": "Barcelona vs Frankfurt HD(English)",
+			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/0sVr0HqRBdj0zpfy43zKlWEfdbdP6ZKg7uNI772uvU4ipM7B69NrmIaEk6Bh8adhq7CH7_JSq7GSn20-t8wYhw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"type": "UEFA EUROPA LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+
+
+{
+
+			"user": "Barcelona vs Frankfurt HD2",
+			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/0sVr0HqRBdj0zpfy43zKlWEfdbdP6ZKg7uNI772uvU4ipM7B69NrmIaEk6Bh8adhq7CH7_JSq7GSn20-t8wYhw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"type": "UEFA EUROPA LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+
+
+
+{
+
+			"user": "Olympique Lyon vs WestHam SD(English)",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwMQ==/1080p.m3u8",
+			"type": "UEFA EUROPA LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+
+
+
+{
+
+			"user": "Olympique Lyon vs WestHam HD1(English)",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwMQ==/1080p.m3u8",
+			"type": "UEFA EUROPA LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+
+{
+
+			"user": "Olympique Lyon vs WestHam HD2(English)",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwMQ==/1080p.m3u8",
+			"type": "UEFA EUROPA LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+{
+
+			"user": "Rangers vs Sporting CP SD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwMQ==/1080p.m3u8",
+			"type": "UEFA EUROPA LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+{
+
+			"user": "Rangers vs Sporting CP HD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwMQ==/1080p.m3u8",
+			"type": "UEFA EUROPA LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+
+
+{
+
+			"user": "Slavia Praha vs Feyenoord SD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwNQ==/1080p.m3u8",
+			"type": "UEFA EUROPA CONFERENCE LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.pngl_competition%29_logo.svg.png"
+},
+
+
+{
+
+			"user": "Slavia Praha vs Feyenoord HD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwNQ==/1080p.m3u8",
+			"type": "UEFA EUROPA CONFERENCE LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.pngl_competition%29_logo.svg.png"
+},
+
+
+
+{
+
+			"user": "Roma vs Bodø/Glimt SD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwNQ==/1080p.m3u8",
+			"type": "UEFA EUROPA CONFERENCE LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.pngl_competition%29_logo.svg.png"
+},
+
+
+
+{
+
+			"user": "Roma vs Bodø/Glimt HD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwNQ==/1080p.m3u8",
+			"type": "UEFA EUROPA CONFERENCE LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.pngl_competition%29_logo.svg.png"
+},
+
+
+{
+
+			"user": "PAOK vs Olympique Marseille HD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwNQ==/1080p.m3u8",
+			"type": "UEFA EUROPA CONFERENCE LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.pngl_competition%29_logo.svg.png"
+},
 
 
 {
