@@ -4,8 +4,8 @@
 
 {
 
-			"user": "Atalanta vs RB Leipzig HD1",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwMQ==/1080p.m3u8",
+			"user": "Atalanta vs RB Leipzig SD",
+			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/0sVr0HqRBdj0zpfy43zKlWEfdbdP6ZKg7uNI772uvU4ipM7B69NrmIaEk6Bh8adhq7CH7_JSq7GSn20-t8wYhw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -23,21 +23,21 @@
 {
 
 			"user": "Atalanta vs RB Leipzig HD3",
-			"pageUrl": "http://208.86.19.13:81/712.stream/index.m3u8",
+			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/0sVr0HqRBdj0zpfy43zKlWEfdbdP6ZKg7uNI772uvU4ipM7B69NrmIaEk6Bh8adhq7CH7_JSq7GSn20-t8wYhw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
 {
 
 			"user": "PSV vs Leicester City SD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwNQ==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/xUy5DG5X_rGgVAjUsVo89zeyHiGb3sCdpNgUf2JOkXWKOlLeOtV2squSED6Pxj4P089txZNd6ba0bfVDMx62sA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA EUROPA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.pngl_competition%29_logo.svg.png"
 		},
 
 {
 
-			"user": "PSV vs Leicester City HD",
+			"user": "PSV vs Leicester City HD1",
 			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/MzkwNQ==/1080p.m3u8",
 			"type": "UEFA EUROPA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.pngl_competition%29_logo.svg.png"
@@ -46,8 +46,8 @@
 
 {
 
-			"user": "PSV vs Leicester City HD(English)",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS3/index.m3u8",
+			"user": "PSV vs Leicester City HD2(English)",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/xUy5DG5X_rGgVAjUsVo89zeyHiGb3sCdpNgUf2JOkXWKOlLeOtV2squSED6Pxj4P089txZNd6ba0bfVDMx62sA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA EUROPA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.pngl_competition%29_logo.svg.png"
 		},
