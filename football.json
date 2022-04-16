@@ -5,62 +5,6 @@
 
 	
 
-{
-
-
-			"user": "Manchester City vs Liverpool SD",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/o4SPykX96qnYZnWN9kFSpqNvv2JcEM6utUF1X04sDFu-ehPGaar3Ly20pwdwBal_khGdtRCCZjXmc2xW2-eO1w/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Liverpool SD2(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Liverpool HD1(English)",
-			"pageUrl": "http://d33pe4id2db8k9.cloudfront.net/stream/MzkyOQ==/1080p.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Liverpool HD2(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3/chunks.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Liverpool HD3(English)",
-			"pageUrl": "http://d33pe4id2db8k9.cloudfront.net/stream/MzkyOQ==/1080p.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
-		},
-		{
-
-
-			"user": "Fiorentina vs Venezia HD1",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/3Fzc3W-60-aXkAo2Uuvs2Rt9Nqg4bzBbyXs-ZPVfA2qJUzheZkj9Uz6V_godsfGFS-NXcEhLbFCnyDthLyiWDQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "Fiorentina vs Venezia HD2",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/3Fzc3W-60-aXkAo2Uuvs2Rt9Nqg4bzBbyXs-ZPVfA2qJUzheZkj9Uz6V_godsfGFS-NXcEhLbFCnyDthLyiWDQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
 		{
 
 
