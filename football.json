@@ -6,46 +6,6 @@
 		{
 
 
-			"user": "Tottenham vs Brighton SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Tottenham vs Brighton SD(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Tottenham vs Brighton HD1(English)",
-			"pageUrl": "http://d33pe4id2db8k9.cloudfront.net/stream/MzkyMA==/1080p.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Tottenham vs Brighton HD2(English)",
-			"pageUrl": "http://185.152.66.132/98774/tracks-v1a1/mono.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Tottenham vs Brighton HD3(English)",
-			"pageUrl": "http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
 			"user": "Sampdoria vs Salernitana HD1",
 			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/c5LnbHBjfmo9g7HvST3PJwi00y63w8HmOw47iXEXdj63WVX4-F7FTto94UUZpN2Zy6y1vk5TWnWldM5O3xT3Vg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
@@ -55,7 +15,7 @@
 
 
 			"user": "Sampdoria vs Salernitana HD2",
-			"pageUrl": "http://d33pe4id2db8k9.cloudfront.net/stream/MzkyMg==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/3Fzc3W-60-aXkAo2Uuvs2Rt9Nqg4bzBbyXs-ZPVfA2qJUzheZkj9Uz6V_godsfGFS-NXcEhLbFCnyDthLyiWDQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
