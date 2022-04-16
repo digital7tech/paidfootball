@@ -3,6 +3,87 @@
 	"hits": [
 
 
+
+
+
+{
+
+
+			"user": "Milan vs Geona HD1",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/OVMKJDofVpwHD81usM5RJElW6H-b8yLtlO07C327kQ2wdeypTVnQZ3LYIoCU1tGSAYzajIWjRqEQkqsxkysdGg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+{
+
+
+			"user": "Milan vs Geona HD2",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/OVMKJDofVpwHD81usM5RJElW6H-b8yLtlO07C327kQ2wdeypTVnQZ3LYIoCU1tGSAYzajIWjRqEQkqsxkysdGg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+{
+
+
+			"user": "Milan vs Geona HD3",
+			"pageUrl": "http://d33pe4id2db8k9.cloudfront.net/stream/MzkxMw==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Milan vs Geona HD4",
+			"pageUrl": "http://217.174.225.146/hls/ch004_720/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+
+{
+
+
+			"user": "Real Sociedad vs Real Betis SD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": "  ⚽️ ",
+			"webFormatUrl": "https:/p.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Real Sociedad vs Real Betis HD2",
+			"pageUrl": "http://d2nl6vzjz0wdxu.cloudfront.net/stream/MzkxMQ==/1080p.m3u8",
+			"type": "  ⚽️ ",
+			"webFormatUrl": "https:/p.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+
+{
+
+
+			"user": "Rennes vs Monaco HD1",
+			"pageUrl": "http://dwpzr86d4430d.cloudfront.net/stream/MzkxNA==/1080p.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+
+
+{
+
+
+			"user": "Rennes vs Monaco HD2",
+			"pageUrl": "http://50.7.34.155:2201/BR/Fox_Sports_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+
+{
+
+
+			"user": "Vitória Guimarães vs Paços de Ferreira",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+
 {
 
 			"user": "Football",
