@@ -5,58 +5,6 @@
 
 	
 
-		{
-
-
-			"user": "Moreirense vs Tondela",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
-		
-{
-
-
-			"user": "Saint-Étienne vs Brest HD1",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-{
-
-
-			"user": "Juventus vs Bologna HD1",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/DNdtndmKM99GSF0e983kc4eWTi7iTELO6Hn1kx2gp2hjaxFhvVE7VtnvninfczT25MuXgrgwJtMqZiPo0vXMlA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "Juventus vs Bologna HD2",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV3.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-{
-
-
-			"user": "Juventus vs Bologna HD3",
-			"pageUrl": "http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-
-{
-
-
-			"user": "Borussia M'gladbach vs Köln HD1",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/8Qq3IuO06DeA3xqlYfU14kaVHOsg7YhBRVtlXNXi_pYKxAYYr4RdS8xQXInXHjk_ss2hFXH-6YN0noCbbsumHA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
-
 
 {
 
