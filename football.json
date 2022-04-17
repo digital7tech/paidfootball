@@ -2,14 +2,6 @@
 
 	"hits": [
 
-{
-
-
-			"user": "Athletic Club vs Celta de Vigo",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Spain - La Liga⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia//thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
 		{
 
 
@@ -25,7 +17,7 @@
 
 
 			"user": "PSG vs Olympique Marseille HD1",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -33,7 +25,7 @@
 
 
 			"user": "PSG vs Olympique Marseille HD2",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -41,15 +33,24 @@
 
 
 			"user": "Sevilla vs Real Madrid",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "http://77.247.109.116/live/abr_b-3/live/b-3_480p/chunks.m3u8",
 			"type": "Spain - La Liga⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia//thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 {
 
 
-			"user": "Sporting CP vs Benfica",
+			"user": "Sporting CP vs Benfica HD1",
 			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+
+{
+
+
+			"user": "Sporting CP vs Benfica HD2",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt2.m3u8",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
