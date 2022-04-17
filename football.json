@@ -73,7 +73,7 @@
 
 
 			"user": "Union Berlin vs Eintracht Frankfurt HD",
-			"pageUrl": "https://birutv.com/sport@birutv/live/sky7.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -81,7 +81,7 @@
 
 
 			"user": "Athletic Club vs Celta de Vigo",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "Spain - La Liga⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia//thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
