@@ -70,7 +70,7 @@
 
 
 			"user": "Internazionale vs Ac Milan HD1",
-			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3smdrZ_EKEIj81WHQ7Dvy3kknC6eb5vbyZquGWYmaPcGZQe_1MVLT9P6nIctWuXv_hNC8Z5gKZrnKqJJCdaP1g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 			"type": "COPPA ITALIA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDNb6ALWB22UYte3eYGmhmt0ZN2Ncl0Jz6A&usqp=CAU%25282%2529.jpg"
 		},
@@ -81,6 +81,14 @@
 
 
 			"user": "Internazionale vs Ac Milan HD2",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3smdrZ_EKEIj81WHQ7Dvy3kknC6eb5vbyZquGWYmaPcGZQe_1MVLT9P6nIctWuXv_hNC8Z5gKZrnKqJJCdaP1g/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
+			"type": "COPPA ITALIA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDNb6ALWB22UYte3eYGmhmt0ZN2Ncl0Jz6A&usqp=CAU%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Internazionale vs Ac Milan HD3",
 			"pageUrl": "http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8",
 			"type": "COPPA ITALIA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDNb6ALWB22UYte3eYGmhmt0ZN2Ncl0Jz6A&usqp=CAU%25282%2529.jpg"
