@@ -1,48 +1,29 @@
 {
 
 	"hits": [
+{
 
 
-		{
-
-
-			"user": "Celta de Vigo vs Getafe",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/oaiDtl4Av5-n4SIqtnPDT1eeekr07RI5wMgAWifqpJ33Mwpny6P4ySmXeE-PUseZdW7EvXpYHFYysih7W0HMrw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"user": "Espanyol vs Rayo Vallecano",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png%25282%2529.jpg"
 		},
+{
 
+
+			"user": "Levante vs Sevilla",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png%25282%2529.jpg"
+		},
 
 
 {
 
 
-			"user": "Chelsea vs Arsenal SD (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5fHsRoNvAIcfEoUzatdEKW9DaEJNQxSKNE4TtFKSaXzHxbqFu0sZX_KlCOc3c9sCULXDKxHihRJdnHE078QamQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Arsenal HD1 (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5fHsRoNvAIcfEoUzatdEKW9DaEJNQxSKNE4TtFKSaXzHxbqFu0sZX_KlCOc3c9sCULXDKxHihRJdnHE078QamQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Arsenal HD2 (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5fHsRoNvAIcfEoUzatdEKW9DaEJNQxSKNE4TtFKSaXzHxbqFu0sZX_KlCOc3c9sCULXDKxHihRJdnHE078QamQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Arsenal HD3 (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5fHsRoNvAIcfEoUzatdEKW9DaEJNQxSKNE4TtFKSaXzHxbqFu0sZX_KlCOc3c9sCULXDKxHihRJdnHE078QamQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"user": "Burnley vs Southampton SD (English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -51,110 +32,59 @@
 {
 
 
-			"user": "Everton vs Leicester City SD (English)",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5K9sr7rk-0ILntQorGwEyWksJnelAwx0N53jQGEVcUiQ75_7VS71ZYLui9UvACWTWDdEHlHIu47bO5y5C3U3eA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"user": "Burnley vs Southampton HD(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
 
-
-		
 {
 
 
-			"user": "Newcastle vs Crystal Palace HD(English)",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/67S7Qf0SdxSR6j9VCKixxk1pVmrJz9evrp4NC-4erYMtMhunFoRP9CjQpmLuaT909fXJmg8n_27Nvu3P7YbrTw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "RB Leipzig vs Union Berlin",
-			"pageUrl": "http://50.7.34.155:2200/BR/ESPN_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
-			"type": "GERMAN DFB POKAL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSwOh3eXx01RToZ7VO6Ej2CX4jThFo90BMw&usqp=CAU"
-		},
-		{
-
-
-			"user": "Manchester City vs Brighton SD(English)",
-			"pageUrl": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/KKJPadR0Tl3IkFt3xx17i33Jl0u6kst8tNLGij63lf4D7l6vDK7fB_S_GQO33tEZnSy6TMKQZqthyEIrSbcoZg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"user": "Burnley vs Southampton HD2 (English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
-{
-
-
-			"user": "Juventus vs Fiorentina HD1",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/hcyjF2VXtlISQMY67g9IVq5sYzeVcdqcfjJUkJNxEfNqrVjUS-8mSK85750QNGQRDhCqFL32cfD3-fhWH2Rfog/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "COPPA ITALIA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDNb6ALWB22UYte3eYGmhmt0ZN2Ncl0Jz6A&usqp=CAU%25282%2529.jpg"
-		},
-
-
-
 
 {
 
 
-			"user": "Angers SCO vs PSG HD1",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/woBV8COMCv9vKzVj-b1Qcl10a46ju3zToN5oInz-hgBSqpgqt_-laj9h9jIKCVrn8iYdYmp9E7mvVkUXc0BzJA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Burnley vs Southampton HD3(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		{
-
-
-			"user": "Angers SCO vs PSG HD2",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt1.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Brest vs Lyon HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Lens vs Montpellier HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Marseille vs Nantes HD",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt2.m3u8dtYD4inOFdrx90E8-Ed9V6iUKHB4XoXnYbGCuaVWN-CasVuALQ5XV0nY1ID0Si8J_0YcvcJRgQiDryy5feYWc6OBHJQCokhwcsTPgJCUx2oFruhJby8u6MqvL-YbGtR6SjaHhmNZqlwQmjmN5MlDSaovYffuQfzCOMndy8cXjSsxkRIRMJLX-TGOeb4dXqcH_7Ut3sDMyAJ83AYGXsrpcX9CmLWLN8oyqUphTPK-J5HUMCgyy7kivOnJLyXCWhP0Dxd2udx-yL4tV6zshtgRK1iPYbFzSsWP70HkKsSXl7d3nEsVO3R6zAYmCgF5XQTOb7WvVqtlmkBKLIxx2cY2dk6oI7tKqhnOhU5X1v1zLAn4MKY690DBR0X3VPX7M4hncVlc_zAPQ06YLJKXwkO-L-lfx9ppWSAd6qm4zg6cu9GAh2cN3PxN0jqlhLshz9UPM6dUwWaa6-GrFcZoLEEmrY6D41d9Wm057CSRS-9E9gJRI0q96xuimFUWsNJvWjF0YXnKNbRMWW6-M75HgzTdt9VwKIFM92kfFcWcDybezSQsUWZQyqeqLmFg161s1GpJHPP4lgx46PULbcLws8EFxWYuB8bqjYCcOLBoMi8ktcBmTd6PZF7sAIAEqCWV1LXdlc3QtMjDDAw.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Strasbourg vs Rennes HD",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-
 {
 
 
-			"user": "Osasuna vs Real Madrid",
+			"user": "Cadiz vs Athletic Club",
 			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "LA LIGA ⚽️ ",
 			"webFormatUrl": "https://2.bpspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 
+
+{
+
+
+			"user": "Real Sociedad vs Barcelona SD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://2.bpspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+
+
+{
+
+
+			"user": "Real Sociedad vs Barcelona HD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://2.bpspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
 {
 
 			"user": "Football",
