@@ -6,70 +6,31 @@
 {
 
 
+			"user": "Wolfsburg vs Mains 05 HD1",
+			"pageUrl": "http://103.55.144.46/hls/sonyten2.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+
+
+{
+
+
+			"user": "Wolfsburg vs Mains 05 HD2",
+			"pageUrl": "http://103.55.144.46/hls/sonyten2.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+
+{
+
+
 			"user": "Cadiz vs Athletic Club",
 			"pageUrl": "https://dfekb920rtzzi.cloudfront.net/out/v1/9161cc28eaa4450aaa465df26d321ecf/index_3.m3u8",
 			"type": "LA LIGA ⚽️ ",
 			"webFormatUrl": "https://2.bpspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 
-{
-
-
-			"user": "Burnley vs Southampton SD (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/YhqhnyGD92hPLnu89XirHXEta0HjCeGwNaH8g3UZZrTw1GkdM12NtVsMQ9BJ83gt1IXJHws_awcQ3-Q6COWLRg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-{
-
-
-			"user": "Burnley vs Southampton HD(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/YhqhnyGD92hPLnu89XirHXEta0HjCeGwNaH8g3UZZrTw1GkdM12NtVsMQ9BJ83gt1IXJHws_awcQ3-Q6COWLRg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-{
-
-
-			"user": "Burnley vs Southampton HD2 (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/YhqhnyGD92hPLnu89XirHXEta0HjCeGwNaH8g3UZZrTw1GkdM12NtVsMQ9BJ83gt1IXJHws_awcQ3-Q6COWLRg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-{
-
-
-			"user": "Burnley vs Southampton HD3(English)",
-			"pageUrl": "http://cdn1-bongakamai.xyz/live/bong-1/chunks.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-{
-
-
-			"user": "Real Sociedad vs Barcelona SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://2.bpspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-
-
-{
-
-
-			"user": "Real Sociedad vs Barcelona HD",
-			"pageUrl": "http://cdn1-bongakamai.xyz/live/bong-2/chunks.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://2.bpspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
 {
 
 			"user": "Football",
