@@ -8,15 +8,7 @@
 
 
 
-		
-{
-
-
-			"user": "Portimonense vs Moreirense",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sI9mP9LUD02EqK6bOgSOeLwo8TJvptkhlcB3pbzhq3UC8PPwTevxVnAoyCyn2T8YpVsBqoMuoJ8vYUVkC-SWYQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
+	
 		
 {
 
@@ -110,7 +102,7 @@
 
 
 			"user": "Benfica vs Famalicão",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sI9mP9LUD02EqK6bOgSOeLwo8TJvptkhlcB3pbzhq3UC8PPwTevxVnAoyCyn2T8YpVsBqoMuoJ8vYUVkC-SWYQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
@@ -118,7 +110,7 @@
 
 
 			"user": "Santa Clara vs Marítimo",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sI9mP9LUD02EqK6bOgSOeLwo8TJvptkhlcB3pbzhq3UC8PPwTevxVnAoyCyn2T8YpVsBqoMuoJ8vYUVkC-SWYQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
