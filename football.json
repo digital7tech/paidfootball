@@ -50,7 +50,7 @@
 
 
 			"user": "RB Leipzig vs Union Berlin HD",
-			"pageUrl": "http://d3fux4819m73bb.cloudfront.net/stream/NDAxMw==/1080p.m3u8",
+			"pageUrl": "http://194.67.196.19/hls/110.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -66,7 +66,7 @@
 
 
 			"user": "Freiburg vs Borussia M'gladbach HD",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"pageUrl": "http://194.67.196.19/hls/108.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
