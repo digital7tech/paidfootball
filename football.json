@@ -30,7 +30,7 @@
 
 
 			"user": "Internazionale vs Roma HD1",
-			"pageUrl": "http://78.47.248.131/live/abr_s-4/live/s-4_480p/chunks.m3u8?wmsAuthSign=",
+			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/OlcipgrIfTE7L3mwcec2PiSLTXlv_QR3Zvsk068AvE5kDvm-LBtTLFpBrtbPEwFZIzsDCuVDFWqcxDJOH3imiA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
