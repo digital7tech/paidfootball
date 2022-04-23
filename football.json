@@ -78,7 +78,7 @@
 
 
 			"user": "Brentford vs Tottenham HD2(English)",
-			"pageUrl": "78.47.248.131/live/abr_s-1/live/s-1_480p/chunks.m3u8?wmsAuthSi",
+			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/OItL912B6VCKbiCf6LAtp9VLtskcJuZm25kq0MYSwK2L5sQGw7y7C3YKiSvdQPqfVcIOzybzDmnCfEGIFuLsBQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
