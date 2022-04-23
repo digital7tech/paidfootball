@@ -94,7 +94,7 @@
 
 
 			"user": "Bayern München vs Borussia Dortmund HD1",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"pageUrl": "http://78.47.248.131/live/abr_s-2/live/s-2_480p/chunks.m3u8?wmsAuthSign=",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -102,7 +102,7 @@
 
 
 			"user": "Bayern München vs Borussia Dortmund HD2",
-			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"pageUrl": "http://78.47.248.131/live/abr_s-2/live/s-2_480p/chunks.m3u8?wmsAuthSign=",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
