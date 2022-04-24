@@ -72,7 +72,7 @@
 
 
 			"user": "Genoa vs Cagliari HD1",
-			"pageUrl": "http://d3fux4819m73bb.cloudfront.net/stream/NDA0Mg==/1080p.m3u8",
+			"pageUrl": "GET https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/pY0SaNy_5MrMNadaXa72d8FpDWGe-9TCBpkoCCHXiXbu6yBTCXic6TmYBjnSkueFBadTZmU-RjsgY9KPvF-5iA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
