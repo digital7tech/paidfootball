@@ -56,7 +56,7 @@
 
 
 			"user": "Reims vs Marseille HD1",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt2.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/pY0SaNy_5MrMNadaXa72d8FpDWGe-9TCBpkoCCHXiXbu6yBTCXic6TmYBjnSkueFBadTZmU-RjsgY9KPvF-5iA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
