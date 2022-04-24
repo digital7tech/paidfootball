@@ -40,7 +40,7 @@
 
 
 			"user": "Barcelona vs Rayo Vallecano SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"pageUrl": "https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/ZeafcjazdQEgyPI_b14C3m6ToqKeWZ5dujHu63N8xnNmMqQ6rpiteP0AbZB0T6Vsao2prN3GMD1q-2yMgOUjnQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
