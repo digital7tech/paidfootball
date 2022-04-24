@@ -3,104 +3,15 @@
 	"hits": [
 	
 		
-
 {
-
-
-			"user": "Liverpool vs Everton SD1",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Everton SD2(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/hvcCDhH1JVDw1Y5gnF65L6SOtT6Bi7j0rBxQmZBZO2KclJn12ugbEyPePFLruLHqyHvZBPNTiFY4sQtIUMs0lQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Everton SD3(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/hvcCDhH1JVDw1Y5gnF65L6SOtT6Bi7j0rBxQmZBZO2KclJn12ugbEyPePFLruLHqyHvZBPNTiFY4sQtIUMs0lQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Everton HD1(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/hvcCDhH1JVDw1Y5gnF65L6SOtT6Bi7j0rBxQmZBZO2KclJn12ugbEyPePFLruLHqyHvZBPNTiFY4sQtIUMs0lQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Everton HD2(English)",
-			"pageUrl": "http://d2cpkh467fronq.cloudfront.net/stream/NDAzNw==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Everton HD3(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/hvcCDhH1JVDw1Y5gnF65L6SOtT6Bi7j0rBxQmZBZO2KclJn12ugbEyPePFLruLHqyHvZBPNTiFY4sQtIUMs0lQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Hertha BSC vs Stuttgart HD1",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/F1-i3jKpzNxAdO-Oer_uCb9nBGvIiFbbjsJw7XWx0qnopZKxvJOkBxH13_agdikgDT9K7j6wkAc2pgUQA5_AbA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Hertha BSC vs Stuttgart HD2",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/F1-i3jKpzNxAdO-Oer_uCb9nBGvIiFbbjsJw7XWx0qnopZKxvJOkBxH13_agdikgDT9K7j6wkAc2pgUQA5_AbA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Genoa vs Cagliari HD1",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/pY0SaNy_5MrMNadaXa72d8FpDWGe-9TCBpkoCCHXiXbu6yBTCXic6TmYBjnSkueFBadTZmU-RjsgY9KPvF-5iA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "Genoa vs Cagliari HD2",
-			"pageUrl": "http://d3fux4819m73bb.cloudfront.net/stream/NDA0Mg==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		
-{
-
-
-			"user": "Estoril vs Belenenses",
-			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
-		},
-		{
 
 
 			"user": "Lazio vs Milan HD1",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/e1GpjRX5Oj0tHJqQfS1_Mv8m3zWipCFpY3jxCe5JXg5Y5xuYV-LlDEEquOIaDTao6UdMAVhB-UdfmM-4WAU27Q/transcode/eu-west-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
+
 		{
 
 
