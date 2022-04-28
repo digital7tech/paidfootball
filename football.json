@@ -160,11 +160,18 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png_%28football_competition%29_logo.svg.png"
 		},
 
-
 	{
 
 
-			"user" :"Feyenoord vs Olympique Marseille HD",
+			"user" :"Feyenoord vs Olympique Marseille HD1",
+			"pageUrl": "http://d3fux4819m73bb.cloudfront.net/stream/NDA3MQ==/1080p.m3u8",
+			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png_%28football_competition%29_logo.svg.png"
+		},
+{
+
+
+			"user" :"Feyenoord vs Olympique Marseille HD2",
 			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/2gcC33WTVJ6E_i1ThL4p_zjV5JYIDrAT_6eiGdNJV_sEDoriUaAsllhfQQZrquZyTyjMoSNSD8mVTAFD4LWgnQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png_%28football_competition%29_logo.svg.png"
