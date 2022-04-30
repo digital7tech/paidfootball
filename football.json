@@ -8,37 +8,444 @@
 {
 
 
-			"user": "Union Berlin vs Greuther Fürth HD1",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"user": "Newcastle vs Liverpool SD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Newcastle vs Liverpool SD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Newcastle vs Liverpool HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Newcastle vs Liverpool HD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Newcastle vs Liverpool HD3(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Deportivo Alavés vs Villarreal SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+		},
+		{
+
+
+			"user": "Deportivo Alavés vs Villarreal HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+		},
+		{
+
+
+			"user": "Cagliari vs Hellas Verona HD1",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Napoli vs Sassuolo HD1",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Napoli vs Sassuolo HD2",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Mainz 05 vs Bayern München HD1",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
+{
+
+
+			"user": "Mainz 05 vs Bayern München HD2",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Borussia Dortmund vs Bochum",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Stuttgart vs Wolfsburg",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Augsburg vs Köln",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Arminia Bielefeld vs Hertha BSC",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Aston Villa vs Norwich SD(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Aston Villa vs Norwich HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Aston Villa vs Norwich HD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Southampton vs Crystal Palace SD(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Southampton vs Crystal Palace HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Southampton vs Crystal Palace HD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Watford vs Burnley SD(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Watford vs Burnley HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Watford vs Burnley HD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Wolves vs Brighton SD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Wolves vs Brighton SD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Wolves vs Brighton HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Arouca vs Portimonense",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+		
+{
+
+
+			"user": "Saint-Étienne vs Brest HD1",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+{
+
+
+			"user": "Juventus vs Bologna HD1",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Juventus vs Bologna HD2",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+{
+
+
+			"user": "Juventus vs Bologna HD3",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+
+
+
 
 {
 
 
-			"user": "Strasbourg vs PSG HD1",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5F2POU4ta6g3jeomXgWZ4s3HmwwcM1LE_qi7mzH_u8-6cOjaZP69zMLnTXS7wqCKB3jDZuoCsfT-9tKTFhrOBg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
+			"user": "Belenenses vs Vizela",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+		
+		{
+
+
+			"user": "Real Madrid vs Espanyol HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+		},
+		{
+
+
+			"user": "Real Madrid vs Espanyol HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+		},
+		
+
+		{
+
+
+			"user": "Lens vs Nantes HD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 		{
 
 
-			"user": "Strasbourg vs PSG HD2",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5F2POU4ta6g3jeomXgWZ4s3HmwwcM1LE_qi7mzH_u8-6cOjaZP69zMLnTXS7wqCKB3jDZuoCsfT-9tKTFhrOBg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"user": "Sampdoria vs Genoa HD1",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Sampdoria vs Genoa HD2",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Arouca vs Portimonense",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+		{
+
+
+			"user": "Leeds vs Manchester City SD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Leeds vs Manchester City SD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Leeds vs Manchester City HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Leeds vs Manchester City HD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Leeds vs Manchester City HD3(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - FA Cup ⚽️ ",
+			"webFormatUrl": "https://www.pngfind.com/pngs/m/245-2453060_fa-cup-logo-png-emirates-fa-cup-logo.png"
+		},
+		{
+
+
+			"user": "Borussia Dortmund vs Bochum",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Valencia vs Levante HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+		},
+		{
+
+
+			"user": "Valencia vs Levante HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+		},
+		{
+
+
+			"user": "Porto vs Vizela",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+		{
+
+
+			"user": "Spezia vs Lazio HD1",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Spezia vs Lazio HD2",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Athletic Club vs Atlético Madrid HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+		},
+		{
+
+
+			"user": "Athletic Club vs Atlético Madrid HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
+		},
+		{
+
+
+			"user": "Rennes vs Saint-Étienne HD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 {
-
-
-			"user": "Sevilla vs Cadiz",
-			"pageUrl": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/focEgN-rOZs22dV2fC1OOkZ-UdZ0OXwq4U4qyjcUcBoawRPXoCVrKEb83lkikSH8zPHnCWN370RwjSZDViVvkg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-	{
 
 			"user": "Football",
 			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
