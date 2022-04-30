@@ -138,7 +138,7 @@
 
 
 			"user": "Southampton vs Crystal Palace SD(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
+			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -146,7 +146,7 @@
 
 
 			"user": "Southampton vs Crystal Palace HD1(English)",
-			"pageUrl": "http://cdn1-bongakamai.xyz/live/bong-3/chunks.m3u8",
+			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -154,7 +154,7 @@
 
 
 			"user": "Southampton vs Crystal Palace HD2(English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/gsuSHiYs1pILLIBK7yvg2OOXmeR6SeX-eh0XZCi3lL2vyLt2U9ufLxExA7rGlX565Fi3E_r_tq6wQrA2-XH0mw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -170,7 +170,7 @@
 
 
 			"user": "Watford vs Burnley SD(English)",
-			"pageUrl": "http://d3fux4819m73bb.cloudfront.net/stream/NDA4NA==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/W-5Uemg8ez2M3cQyydRQiX-uGjKpuvsS90ZwBUmUzw1iRwrEup93UE4FoknaT6k6fdKP1mk-zFskxOxnf4yq_g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 		      "type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -186,7 +186,7 @@
 
 
 			"user": "Watford vs Burnley HD2(English)",
-			"pageUrl": "http://d3fux4819m73bb.cloudfront.net/stream/NDA4NA==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/W-5Uemg8ez2M3cQyydRQiX-uGjKpuvsS90ZwBUmUzw1iRwrEup93UE4FoknaT6k6fdKP1mk-zFskxOxnf4yq_g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
