@@ -10,30 +10,6 @@
 		{
 
 
-			"user": "Cagliari vs Hellas Verona HD1",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/-KACTCL9YLM8E2m56wbTLr8pNbkI5rQYRLoby5cfetVGVoQdJ5inxCvr2HmbPyrqyd7QwCa04gL9UAQwRrJSUA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "Napoli vs Sassuolo HD1",
-			"pageUrl": "http://d3fux4819m73bb.cloudfront.net/stream/NDA5NQ==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "Napoli vs Sassuolo HD2",
-			"pageUrl": "http://d3fux4819m73bb.cloudfront.net/stream/NDA5NQ==/1080p.m3u88",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
 			"user": "Mainz 05 vs Bayern München HD1",
 			"pageUrl": "https://livestream.socialstreaming.tv/live/626d321886430c001c9a708b/626d321886430c001c9a708b.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
