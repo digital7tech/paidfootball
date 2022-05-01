@@ -137,7 +137,7 @@
 
 
 			"user": "Brest vs Clermont HD",
-			"pageUrl": "http://d1td4hzh042thn.cloudfront.net/stream/NDExMw==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/PZtzMc1hu80L8p0nyaZI08oQtNEmJFPm0f838LRrMv7VbSXNq3K5a4T7LqqGSJXZXXuOzv4cs7H3pS9JYgdv6A/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
