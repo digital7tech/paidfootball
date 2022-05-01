@@ -7,30 +7,6 @@
 
 
 
-{
-
-
-			"user": "Troyes vs Lille HD",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BbrU6oqTqgO3YrJYPoqxqcy5KuTbymaQBSvKU1jSvSCXlNPZtcmfcpwnmx-EYfd4kEDeGLSse4OmMYJq174Seg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-{
-
-
-			"user": "Elche vs Osasuna SD",
-			"pageUrl": "http://194.67.196.19/hls/103.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
-		},
-		{
-
-
-			"user": "Elche vs Osasuna HD",
-			"pageUrl": "http://d3pkil6wp1amn5.cloudfront.net/stream/NDA5MQ==/1080p.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
-		},
 
 
 
@@ -169,7 +145,7 @@
 
 
 			"user": "Granada vs Celta de Vigo SD",
-			"pageUrl": "htpublic/eyJynamic_highlatency.m3u8?type=live",
+			"pageUrl": "http://194.67.196.19/hls/103.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
@@ -177,7 +153,7 @@
 
 
 			"user": "Granada vs Celta de Vigo HD",
-			"pageUrl": "http://d1td4hzh042thn.cloudfront.net/stream/NDA5MA==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/OH57P-6yIDo0KPnUAu7TiCso3baB9L1eb8JVlZ0fOVaY9am-dtafM4LfGoN9GvyUr8VAq-xA68BiphQl01QHmw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
