@@ -35,7 +35,7 @@
 
 
 			"user": "Troyes vs Lille HD",
-			"pageUrl": "http://d3pkil6wp1amn5.cloudfront.net/stream/NDA5OQ==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BbrU6oqTqgO3YrJYPoqxqcy5KuTbymaQBSvKU1jSvSCXlNPZtcmfcpwnmx-EYfd4kEDeGLSse4OmMYJq174Seg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
