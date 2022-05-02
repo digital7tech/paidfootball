@@ -4,73 +4,125 @@
 
 
 
+{
 
 
-
-		{
-
-
-			"user": "Moreirense vs Boavista",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Gm2556BiDHyAQlRUBCX1NFKF_71gxOGIRNZnOiYQf84GEKGC6AvHomChhCGN2rS4OQYHbI3dWJRFCizKn56quw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+			"user": "Bayern Leverkusen vs Frankfurt HD",
+			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
-		{
 
 
-			"user": "Roma vs Bologna HD1",
-			"pageUrl": "http://d1td4hzh042thn.cloudfront.net/stream/NDExNg==/1080p.m3u8",
+{
+
+
+			"user": "Borussia M'gladbach vs RB Leipzig HD",
+			"pageUrl": "https://16live00.akamaized.net/SKY_FOOTBALL/index.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+	{
+
+
+			"user": "Atalanta vs Salernitana HD1",
+			"pageUrl": "https://mc.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 		{
 
 
-			"user": "Roma vs Bologna HD2",
-			"pageUrl": "https://alplay.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1650270580-0-0-17538c7bccec7438ccdb9471e475778b",
+			"user": "Atalanta vs Salernitana HD2",
+			"pageUrl": "http://d1td4hzh042thn.cloudfront.net/stream/NDA5Nw==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 		{
 
 
-			"user": "Marseille vs Lyon SD",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3rZd13Qns2ONozl1YHhP2f2MLJNIvSMQ2qLqQxUaKyPe-B9Ku-23s2UDI0JX416b56S79uijk80UbH96S-Twqw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Atalanta vs Salernitana HD3",
+			"pageUrl": "http://d1td4hzh042thn.cloudfront.net/stream/NDA5Nw==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
+		
 		{
 
 
-			"user": "Marseille vs Lyon SD HD",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/3rZd13Qns2ONozl1YHhP2f2MLJNIvSMQ2qLqQxUaKyPe-B9Ku-23s2UDI0JX416b56S79uijk80UbH96S-Twqw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Manchester United vs Brentford SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+		
 		{
 
 
-			"user": "Barcelona vs Mallorca SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"user": "Manchester United vs Brentford SD2(English)",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+
+		{
+
+
+			"user": "Manchester United vs Brentford HD1(English)",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+
+
+		{
+
+
+			"user": "Manchester United vs Brentford HD2(English)",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+
+
+		{
+
+
+			"user": "Manchester United vs Brentford HD3(English)",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+	
+		{
+
+
+			"user": "Getafe vs Real Betis SD",
+			"pageUrl": "htpublic/eyJynamic_highlatency.m3u8?type=live",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
 		{
 
 
-			"user": "Barcelona vs Mallorca HD",
-			"pageUrl": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/0gON_swMcxe7V8opBtB8bChFxekqpon_kN-PHJMXp9CQsJUBYular7s1Dm1E0FEKO5vdhrq1ddeDl_ZiRjVNxg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
+			"user": "Getafe vs Real Betis HD",
+			"pageUrl": "http://d1td4hzh042thn.cloudfront.net/stream/NDA5MA==/1080p.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LaLiga_Santander_logo_%28stacked%29.svg/1200px-LaLiga_Santander_logo_%28stacked%29.svg.png"
 		},
-			{
+		
+		{
 
 
-			"user": "Sporting CP vs Gil Vicente",
+			"user": "Pacos de Ferreira vs Tondela",
 			"pageUrl": "htxjV3yKkEEyRKw1rWRLA/non_ype=live",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
+		
 		{
 
 			"user": "Football",
