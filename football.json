@@ -5,11 +5,21 @@
 
 
 
+		{
+
+
+			"user": "Villarreal vs Liverpool SD(English)",
+			"pageUrl": "https://2ce27c6cc186.us-east-1.playback.live-video.net/api/video/v1/us-east-1.392623997366.channel.pxtEsi0TUfrU.m3u8?SBN",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
 		
 		{
 
 
-			"user": "Villarreal vs Liverpool HD1(English)",
+			"user": "Villarreal vs Liverpool HD1",
 			"pageUrl": "http://d3fux4819m73bb.cloudfront.net/stream/NDEzMg==/1080p.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
@@ -21,16 +31,6 @@
 
 			"user": "Villarreal vs Liverpool HD2(English)",
 			"pageUrl": "https://M100@d3twtqhnzwkaug.cloudfront.net/out/v1/f0c07063f30b47d1892cfd7f03ac3ffe/index.m3u8?M100",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-
-		{
-
-
-			"user": "Villarreal vs Liverpool HD3(English)",
-			"pageUrl": "https://2ce27c6cc186.us-east-1.playback.live-video.net/api/video/v1/us-east-1.392623997366.channel.pxtEsi0TUfrU.m3u8?SBN",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
