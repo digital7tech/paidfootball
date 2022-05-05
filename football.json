@@ -9,7 +9,7 @@
 
 
 			"user": "Eintracht Frankfurt vs WestHam SD(Enlgish)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE3MA==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/YJfr54e1koQZqKB0ehY0yaOKKwehIl65TpuBjAAv1iUjeExv1L-iVam7RmPvIzZgNYSdf69Wff0YtktzQ4kaoQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -42,7 +42,7 @@
 
 
 			"user": "Rangers vs RB Leipzig SD1(Enlgish)",
-			"pageUrl": "http://d32mrw97ow13bj.cloudfront.net/stream/NDE3MQ==/1080p.m3u8",
+			"pageUrl": "http://95.217.188.167:8090/BT-SPORTS-2-/index.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},		
