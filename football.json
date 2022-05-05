@@ -35,17 +35,18 @@
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},		
-
-
 		
 {
 
 
 			"user": "Rangers vs RB Leipzig SD1(Enlgish)",
-			"pageUrl": "http://95.217.188.167:8090/BT-SPORTS-2-/index.m3u8",
+			"pageUrl": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/JXlJmC0Ha9O9RH8xWSXoQw82DPG6Sp31f3aL9OsRruS2Xv7hKM_-bTzSsZBhVRKgZhwiJ984I4yad3C2vAGooA/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},		
+		},
+
+
+
 
 		
 {
@@ -61,16 +62,23 @@
 
 
 			"user": "Rangers vs RB Leipzig HD2(Enlgish)",
-			"pageUrl": "http://d32mrw97ow13bj.cloudfront.net/stream/NDE3MQ==/1080p.m3u8",
+			"pageUrl": "http://95.217.188.167:8090/BT-SPORTS-2-/index.m3u8",
 			"type": "UEFA EUROPA LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-			
+		},		
+				
 {
 
 
 			"user": "Roma vs Leicester SD(English)",
+			"pageUrl": "https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/lWZ8LWQ6WCoWxurNdAtkR_sxOQYLOlXFv00BtjVPgMMhacj3wlL75vcT7A0XNDazXnXZMaGvmQxa5DAW3YoK9w/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
+			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},				
+{
+
+
+			"user": "Roma vs Leicester HD1(English)",
 			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE3Mg==/1080p.m3u8",
 			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
@@ -80,29 +88,20 @@
 {
 
 
-			"user": "Roma vs Leicester HD1(English)",
+			"user": "Roma vs Leicester HD2(English)",
 			"pageUrl": "http://138.201.220.51:8030/bt-3-roma/tracks-v1a1/mono.m3u8",
 			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
 
-				
-{
-
-
-			"user": "Roma vs Leicester HD2(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE3Mg==/1080p.m3u8",
-			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},		
-
+	
 
 				
 {
 
 
 			"user": "Marseille vs Feyenoord SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE3Mw==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/192uzl5VaYICqlviSNwEvEIZ8R21HTyUFUiSdITy0nPzVBUoPjPBGEjDfHEojb0T0tZPWTScRZcd1pqFzPRRKg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
 			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},		
@@ -111,7 +110,7 @@
 
 
 			"user": "Marseille vs Feyenoord HD1",
-			"pageUrl": "http://95.217.188.167:8090/BT-Sports-ESPN/index.m3u8",
+			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE3Mw==/1080p.m3u8",
 			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},		
@@ -120,10 +119,11 @@
 
 
 			"user": "Marseille vs Feyenoord HD2",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE3Mw==/1080p.m3u8",
+			"pageUrl": "http://95.217.188.167:8090/BT-Sports-ESPN/index.m3u8",
 			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},		
+
 
 		{
 
