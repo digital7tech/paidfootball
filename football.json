@@ -81,7 +81,7 @@
 
 
 			"user": "Roma vs Leicester HD1(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE3Mg==/1080p.m3u8",
+			"pageUrl": "http://138.201.220.51:8030/bt-3-roma/tracks-v1a1/mono.m3u8",
 			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
@@ -111,7 +111,7 @@
 
 
 			"user": "Marseille vs Feyenoord HD1",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE3Mw==/1080p.m3u8",
+			"pageUrl": "http://95.217.188.167:8090/BT-Sports-ESPN/index.m3u8",
 			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},		
