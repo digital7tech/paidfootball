@@ -3,28 +3,11 @@
 
 	"hits": [
 
-{
-
-
-			"user": "Internazionale vs Empoli HD1",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
 		{
 
 
-			"user": "Internazionale vs Empoli HD2",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-
-		{
-
-
-			"user": "Bochum vs Arminia Bielefeld BSC HD1",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"user": "Bochum vs Arminia Bielefeld BSC SD",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -33,8 +16,8 @@
 		{
 
 
-			"user": "Bochum vs Arminia Bielefeld BSC HD2",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"user": "Bochum vs Arminia Bielefeld BSC HD",
+			"pageUrl": "http://103.167.190.250/hls/sonyten2.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -44,7 +27,7 @@
 
 
 			"user": "Genoa vs Juventus HD1",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE5MQ==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
@@ -52,15 +35,15 @@
 
 
 			"user": "Genoa vs Juventus HD3",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE5MQ==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 {
 
 
-			"user": "Genoa vs Juventus HD2",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"user": "Genoa vs Juventus HD3",
+			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE5MQ==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
@@ -69,7 +52,7 @@
 
 
 			"user": "Lille vs Monaco",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDE5Mg==/1080p.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -78,8 +61,16 @@
 		{
 
 
-			"user": "Levante vs Real Sociedad",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"user": "Levante vs Real Sociedad SD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
+		},
+		{
+
+
+			"user": "Levante vs Real Sociedad HD",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
