@@ -2,9 +2,22 @@
 {
 
 	"hits": [
+{
 
-		
 
+			"user": "Mallorca vs Granada SD",
+			"pageUrl": "http://194.67.19:80/hls/103.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
+		},
+		{
+
+
+			"user": "Mallorca vs Granada HD",
+			"pageUrl": "http://38.1271.18/live/c2eds/Sportsmax1/HLS/index.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
+		},
 		{
 
 
@@ -243,8 +256,129 @@
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+{
 
 
+			"user": "Celta de Vigo vs Deportivo Alavés HD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
+		},
+		{
+
+
+			"user": "Cádiz vs Elche HD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
+		},
+{
+
+
+			"user": "Hertha BSC vs Mainz 05 HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+{
+
+
+			"user": "Benfica vs Porto",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+		
+
+		{
+
+
+			"user": "Liverpool vs Tottenham SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+{
+
+
+			"user": "Liverpool vs Tottenham SD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+{
+
+
+			"user": "Liverpool vs Tottenham HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+{
+
+
+			"user": "Liverpool vs Tottenham HD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+{
+
+
+			"user": "Liverpool vs Tottenham HD3(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - Premier League ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+{
+
+
+			"user": "Lazio vs Sampdoria HD1",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+		
+
+{
+			"user": "Lazio vs Sampdoria HD2",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+{
+
+
+			"user": "Real Betis vs Barcelona SD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
+		},
+		{
+
+
+			"user": "Real Betis vs Barcelona HD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
+		},
+{
+
+
+			"user": "Nice vs Nantes HD1",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "France - Coupe de France⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
+		},
+{
+
+
+			"user": "Portimonense vs Sporting CP",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
 {
 
 			"user": "Football",
