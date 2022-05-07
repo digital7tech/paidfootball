@@ -2,71 +2,7 @@
 {
 
 	"hits": [
-{
 
-
-			"user": "Mallorca vs Granada SD",
-			"pageUrl": "http://194.67.19:80/hls/103.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Mallorca vs Granada HD",
-			"pageUrl": "http://38.1271.18/live/c2eds/Sportsmax1/HLS/index.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Torino vs Napoli HD1",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		
-{
-
-			"user": "Torino vs Napoli HD2",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-{
-
-
-			"user": "Hoffenheim vs Bayer Leverkusen HD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-{
-
-
-			"user": "Köln vs Wolfsburg HD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
-{
-
-
-			"user": "Greuther Fürth vs Dortmund HD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-{
-
-
-			"user": "Freiburg vs Union Berlin HD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
 
 {
 
@@ -195,7 +131,7 @@
 
 
 			"user": "Brest vs Strasbourg HD1",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/S6oHGPV2wTjVv4a3Rvs3MlCnVy2MLKFpbZCrYiFWh66aNa3gL4uiOz-4ugTzyGKNQ75OZnsvlzTc7z8ohyHuLQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
