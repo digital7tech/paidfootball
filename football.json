@@ -4,46 +4,22 @@
 	"hits": [
 
 
-
 {
 
 			"user": "Real Madrid vs Liverpool SD",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/mXpfcdUZWA4ugPfif9cFocv7sSsAwUOavDHkJliKnGwepYSnCYaT2Krv_A2h9ftVvAHgY8aT692HtLE1jzjADw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
+			"pageUrl": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 
-{
-
-			"user": "Real Madrid vs Liverpool SD2 (English)",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/y_CHLFEYqZfwMic4Xj-qcJ9mtnjMSiumWfZWptdsVzQ9Ae4qGp3e1lyi3oT4-7c8UdkuD5lNPBvQgEXwK8418Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
-			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
 
 
-{
-
-			"user": "Real Madrid vs Liverpool SD3 (English)",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/mXpfcdUZWA4ugPfif9cFocv7sSsAwUOavDHkJliKnGwepYSnCYaT2Krv_A2h9ftVvAHgY8aT692HtLE1jzjADw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
-			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
 
 {
 
 			"user": "Real Madrid vs Liverpool HD1(English)",
-			"pageUrl": "http://d11or75iq9k4n2.cloudfront.net/stream/NDQ2NA==/1080p.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-
-{
-
-			"user": "Real Madrid vs Liverpool HD2(English) ",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/Huej1pMXexrbi2XTu7FwZVtBxp0wJoWouEx1-2QBbM2qmx0J7a1b0npumNJtoAdKACcdlU0vTb1D7aMeIkXnlg/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_master_dynamic_highlatency.m3u8?type=live",
+			"pageUrl": "http://d3l1guk1n0z6py.cloudfront.net/stream/NDQ2NA==/1080p.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -52,25 +28,21 @@
 
 {
 
-			"user": "Real Madrid vs Liverpool HD3(English) ",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/nSdTs_Le_iTnCNtI65qiY4-RTEFovGHbX270PfpG5dlA40z0296fFp3E5eQB5hSMWr-Bmen2nk_n_H9DqhQkcg/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_master_dynamic_highlatency.m3u8?type=live",
+			"user": "Real Madrid vs Liverpool HD2",
+			"pageUrl": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8 ",
 			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
+		{
 
-
-{
+			"user": "Real Madrid vs Liverpool HD3",
+			"pageUrl": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+		{
 
 			"user": "Real Madrid vs Liverpool HD4",
-			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-
-{
-
-			"user": "Real Madrid vs Liverpool HD5",
 			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
