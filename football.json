@@ -3,421 +3,86 @@
 
 	"hits": [
 
+
+
 {
 
-
-			"user": "Spezia vs Napoli HD1",
-			"pageUrl": "https://prodJ_c1yQdbnamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+			"user": "Real Madrid vs Liverpool SD",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
-		
+
 
 {
-			"user": "Spezia vs Napoli HD2",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+
+			"user": "Real Madrid vs Liverpool SD2 (English)",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
-		
 
-		
-		
 
-		
 {
 
-
-			"user": "Manchester City vs Aston Villa SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Aston Villa SD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Aston Villa HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Wolves SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Wolves SD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Wolves HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Watford SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Watford SD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Watford HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Everton SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Everton SD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Everton HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Norwich vs Tottenham SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Norwich vs Tottenham SD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Norwich vs Tottenham HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		{
-
-
-			"user": "Crystal Palace vs ManUtd SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Crystal Palace vs ManUtd SD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Crystal Palace vs ManUtd HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+			"user": "Real Madrid vs Liverpool SD3 (English)",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
 {
 
-
-			"user": "Leicester vs Southampton SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Leicester vs Southampton HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brentford vs Leeds United SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brentford vs Leeds United HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton vs WestHam SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton vs WestHam HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Burnley vs Newcastle SD",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Burnley vs Newcastle HD(English)",
-			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+			"user": "Real Madrid vs Liverpool HD1(English)",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
 
-
-
-
-			{
-
-
-			"user": "Elche vs Getafe SD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Elche vs Getafe HD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-	{
-
-
-			"user": "Internazionale vs Sampdoria HD1",
-			"pageUrl": "https://prodJ_c1yQdbnamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		
 
 {
-			"user": "Internazionale vs Sampdoria HD2",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+
+			"user": "Real Madrid vs Liverpool HD2(English) ",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
-		{
 
 
-			"user": "Sassuolo vs Milan HD1",
-			"pageUrl": "https://prodJ_c1yQdbnamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		
 
 {
-			"user": "Sassuolo vs Milan HD2",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+
+			"user": "Real Madrid vs Liverpool HD3(English) ",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
-		{
 
-
-			"user": "Deportivo Alavés vs Cádiz SD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Deportivo Alavés vs Cádiz HD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Granada vs Espanyol SD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Granada vs Espanyol HD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Osasuna vs Mallorca SD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Osasuna vs Mallorca HD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Salernitana vs Udinese HD1",
-			"pageUrl": "https://prodJ_c1yQdbnamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		
 
 {
-			"user": "Salernitana vs Udinese HD2",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
 
-
-			"user": "Venezia vs Cagliari HD1",
-			"pageUrl": "https://prodJ_c1yQdbnamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+			"user": "Real Madrid vs Liverpool HD4",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
-		
+
 
 {
-			"user": "Venezia vs Cagliari HD2",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+
+			"user": "Real Madrid vs Liverpool HD5",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
-		{
 
 
-			"user": "Barcelona vs Villarreal SD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
 
 
-			"user": "Barcelona vs Villarreal HD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Real Sociedad vs Atlético Madrid SD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Real Sociedad vs Atlético Madrid HD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},{
-
-
-			"user": "Sevilla vs Athletic Club SD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Sevilla vs Athletic Club HD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
 {
 
 			"user": "Football",
-			"pageUrl": "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
