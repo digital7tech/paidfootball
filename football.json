@@ -5,21 +5,87 @@
 
 
 	
-	
-		{
+		
 
-			"user": "Nigeria vs Sierra Leone HD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K805.flv",
-			"type": "Africa - Africa Cup of Nations Qualification ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Africa_Cup_of_Nation_official_logo.png"
-		},
+	
 		
 		
-		
+
+	{
+
+			"user": "fast and furious",
+			"pageUrl": "http://138.201.220.51:8030/Furious24-7-/index.m3u8",
+			"type": "MOVIE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg"
+		},	
 {
 
-			"user": "Football",
-			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"user": "TNT MOVIES",
+			"pageUrl": "http://138.201.220.51:8030/Sky-Cinema-must/index.m3u8 ",
+			"type": "MOVIE ⚽️ ",
+			"webFormatUrl": "https://businesspost.ng/wp-content/uploads/2021/01/TNT-Africa.jpg"
+		},
+{
+
+			"user": "MOVIE FLIX 24",
+			"pageUrl": "http://138.201.220.51:8030/animanted-movie/index.m3u8",
+			"type": "MOVIE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg"
+		},
+	{
+
+			"user": "SPORTS ONE",
+			"pageUrl": "http://138.201.220.51:8030/willow-Extra/index.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		},	
+		{
+
+			"user": "SPORTS TWO",
+			"pageUrl": "http://138.201.220.51:8030/willow-Extra/index.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		},
+
+{
+
+			"user": "FORMULA ONE",
+			"pageUrl": "http://138.201.220.51:8030/sky-f1/index.m3u8",
+			"type": "SPORTS ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		},
+
+
+	{
+
+			"user": "SUPERSPORT EPL",
+			"pageUrl": "http://138.201.220.51:8030/T-Sports/index.m3u8 ",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://www.careersinafrica.com/wp-content/uploads/2013/06/supersport-logo.png"
+		},	
+
+
+	{
+
+			"user": "BT SPORTS TWO",
+			"pageUrl": "http://138.201.220.51:8030/T-Sports1/index.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qt2J5m4jcqpPDOBykLevlcABPIodsIRqHw&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BT SPORTS THREE",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qt2J5m4jcqpPDOBykLevlcABPIodsIRqHw&usqp=CAU"
+		},	
+
+		{
+
+			"user": "PTV SPORTS",
+			"pageUrl": "http://138.201.220.51:8030/ptv/index.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
