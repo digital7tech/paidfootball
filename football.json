@@ -13,25 +13,96 @@
 
 	{
 
-			"user": "fast and furious",
-			"pageUrl": "http://138.201.220.51:8030/Furious24-7-/index.m3u8",
-			"type": "MOVIE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg"
+			"user": "BEIN SPORTS PREMIUM 1",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
 		},	
-{
 
-			"user": "TNT MOVIES",
-			"pageUrl": "http://138.201.220.51:8030/Sky-Cinema-must/index.m3u8 ",
-			"type": "MOVIE ⚽️ ",
-			"webFormatUrl": "https://businesspost.ng/wp-content/uploads/2021/01/TNT-Africa.jpg"
-		},
-{
 
-			"user": "MOVIE FLIX 24",
-			"pageUrl": "http://138.201.220.51:8030/animanted-movie/index.m3u8",
-			"type": "MOVIE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg"
-		},
+	{
+
+			"user": "BEIN SPORTS PREMIUM 2",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+
+	{
+
+			"user": "BEIN SPORTS PREMIUM 3",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/qqitpaxi7q8jt4c/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+
+	{
+
+			"user": "BEIN SPORTS 1",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/t6465xx7k160e2w/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 2",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/pksonyoqzb9o3mu/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 3",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/zualuomxznpf26s/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+
+	{
+
+			"user": "BEIN SPORTS 4",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/nyx35bwo11lrbm0/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 5",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/35ktguvwb5a55yi/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 6",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 7",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
 	{
 
 			"user": "SPORTS ONE",
