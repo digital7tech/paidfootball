@@ -16,11 +16,21 @@
 
 	{
 
-			"user": "Portugal vs Switzerland HD",
+			"user": "France vs Italy HD1",
+			"pageUrl": "https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING",
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V7b_15OQLotIjwT5nqRitLK96XALY5HEag&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "France vs Italy HD2",
 			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
 			"type": "UEFA WOMEN'S EURO ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V7b_15OQLotIjwT5nqRitLK96XALY5HEag&usqp=CAU"
 		},	
+
 	{
 
 			"user": "BEIN SPORTS PREMIUM 1",
