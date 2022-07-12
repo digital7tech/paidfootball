@@ -8,41 +8,21 @@
 		
 
 	
-		
-		
-		
-
-		
-
-	{
-
-			"user": "Manchester United vs Liverpool SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/pGLqeBhU17.flv",
-			"type": "CLUD FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4egXTD4xkbb1uT8dPZmlPG1TTDEzn9_JUiw&usqp=CAU"
-		},
-
-	{
-
-			"user": "Manchester United vs Liverpool HD1",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62cd5e002a8404001d7d33f1/62cd5e002a8404001d7d33f1.m3u8",
-			"type": "CLUD FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4egXTD4xkbb1uT8dPZmlPG1TTDEzn9_JUiw&usqp=CAU"
-		},	
-
-
 	
 	{
 
-			"user": "Manchester United vs Liverpool HD2",
-			"pageUrl": "http://fury.cdn5-bongakamai.xyz/live/adaptive_bong-1/live/bong-1_480p/chunks.m3u8",
-			"type": "CLUD FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4egXTD4xkbb1uT8dPZmlPG1TTDEzn9_JUiw&usqp=CAU"
-		},	
+			"user": "Denmark vs Finland SD",
+			"pageUrl": "https://bb974e2c165d.us-west-2.playback.live-video.net/api/video/v1/us-west-2.280075704671.channel.y9OiwWLC9lvs.m3u8",
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V7b_15OQLotIjwT5nqRitLK96XALY5HEag&usqp=CAU"
+		},		
+		
+		
+
 	{
 
-			"user": "England vs Norway HD2 (English)",
-			"pageUrl": "http://138.201.220.51:8030/T-Sports/tracks-v1a1/mono.m3u8 ",
+			"user": "Denmark vs Finland HD",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8 ",
 			"type": "UEFA WOMEN'S EURO ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V7b_15OQLotIjwT5nqRitLK96XALY5HEag&usqp=CAU"
 		},	
