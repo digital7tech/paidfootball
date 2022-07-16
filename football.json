@@ -13,36 +13,107 @@
 
 	{
 
-			"user": "Tottenham vs Sevilla HD1",
+			"user": "PSV vs Villarreal HD1",
 			"pageUrl": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHdjoA_KOWvXc7tuLbhUK1pHBy01wycwipIA&usqp=CAU"
+			"webFormatUrl": "https://i.ytimg.com/vi/bYzSr6CqEHE/maxresdefault.jpg"
 		},
 
 	{
 
-			"user": "Tottenham vs Sevilla HD2 (English)",
+			"user": "Köln vs Milan HD1",
 			"pageUrl": "https://5153f2d87c42.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.280075704671.channel.dQNiqEsUdYI5.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHdjoA_KOWvXc7tuLbhUK1pHBy01wycwipIA&usqp=CAU"
+			"webFormatUrl": "https://extbet.com/i887/fc-koln-vs-ac-milan-preview-413004.jpg"
 		},
 		{
 
-			"user": "Celtic vs Blackbrun",
+			"user": "Köln vs Milan HD2",
+			"pageUrl": "https://5153f2d87c42.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.280075704671.channel.dQNiqEsUdYI5.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://extbet.com/i887/fc-koln-vs-ac-milan-preview-413004.jpg"
+		},
+		{
+
+			"user": "Internazionale vs Monaco HD1",
+			"pageUrl": "https://5153f2d87c42.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.280075704671.channel.dQNiqEsUdYI5.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/07/16/3767667664.jpg"
+		},
+		{
+
+			"user": "Internazionale vs Monaco HD2",
+			"pageUrl": "https://5153f2d87c42.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.280075704671.channel.dQNiqEsUdYI5.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/07/16/3767667664.jpg"
+		},
+		{
+
+			"user": "Roma vs Portimonense",
 			"pageUrl": "https://0ca74b8f904f.us-east-1.playback.live-video.net/api/video/v1/us-east-1.280075704671.channel.COrHMZEh34YR.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://i2-prod.lancs.live/sport/football/article24504669.ece/ALTERNATES/s1200/0_Celtic-blog.jpg"
+			"webFormatUrl": "https://image.discovery.indazn.com/ca/v2/ca/image?id=144074309621_image-header_pCa_1657825575000"
 		},
 
 	{
 
-			"user": "Austria vs Norway HD",
+			"user": "Denmark vs Spain HD1",
+			"pageUrl": "http://144.126.137.157/espn2.m3u8",
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V7b_15OQLotIjwT5nqRitLK96XALY5HEag&usqp=CAU"
+		},
+		{
+
+			"user": "Denmark vs Spain HD2",
+			"pageUrl": "http://144.126.137.157/espn2.m3u8",
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V7b_15OQLotIjwT5nqRitLK96XALY5HEag&usqp=CAU"
+		},
+		{
+
+			"user": "Finland vs Germany HD",
 			"pageUrl": "http://144.126.137.157/espn2.m3u8",
 			"type": "UEFA WOMEN'S EURO ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7V7b_15OQLotIjwT5nqRitLK96XALY5HEag&usqp=CAU"
 		},
 
+{
 
+			"user": "Arsenal vs Everton HD1",
+			"pageUrl": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://elcomercio.pe/resizer/qwPLJ4oCQvopzsBPJtXV9TRn13M=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/4272KJWTHFAKJEZO2V4AIUPETA.jpg"
+		},
+		{
+
+			"user": "Arsenal vs Everton HD2",
+			"pageUrl": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://elcomercio.pe/resizer/qwPLJ4oCQvopzsBPJtXV9TRn13M=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/4272KJWTHFAKJEZO2V4AIUPETA.jpg"
+		},
+		
+		{
+
+			"user": "América vs Chelsea HD1",
+			"pageUrl": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://elcomercio.pe/resizer/UIswMXS7ZX8taV23HzQ1GaCfzmc=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UWUHPT2L6ZBFXITK4IMRFQJL7Y.jpg"
+		},
+		{
+
+			"user": "América vs Chelsea HD2",
+			"pageUrl": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://elcomercio.pe/resizer/UIswMXS7ZX8taV23HzQ1GaCfzmc=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UWUHPT2L6ZBFXITK4IMRFQJL7Y.jpg"
+		},
+		
+		{
+
+			"user": "Aston Villa vs Leeds United HD",
+			"pageUrl": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i2-prod.leeds-live.co.uk/sport/leeds-united/article23039715.ece/ALTERNATES/s1200/0_VilLee.png"
+		},
 	
 	{
 
