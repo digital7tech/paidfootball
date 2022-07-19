@@ -6,16 +6,37 @@
 
 	
 		
+{
 
+			"user": "Manchester United vs Crystal Palace HD1",
+			"pageUrl": "https://static.standard.co.uk/2021/08/09/09/PLManUtdCrystalPalace2122.jpg?width=1200&auto=webp&quality=75",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://artwork.espncdn.com/programs/3d43bdb3-24a5-4586-9823-29a28da0d593/16x9/1280x720_20220713161859.jpg"
+		},
 	
 
+		
+{
+
+			"user": "Manchester United vs Crystal Palace HD2",
+			"pageUrl": "https://static.standard.co.uk/2021/08/09/09/PLManUtdCrystalPalace2122.jpg?width=1200&auto=webp&quality=75",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://artwork.espncdn.com/programs/3d43bdb3-24a5-4586-9823-29a28da0d593/16x9/1280x720_20220713161859.jpg"
+		},
 		
 
 
 		{
 
-			"user": "Italy vs Belgium SD",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
+			"user": "Italy vs Belgium HD(English)",
+			"pageUrl": "http://144.126.137.157/espn2.m3u8",
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ThbDUSVdAvSltC9TDjqp-jDoNXBycjms_g&usqp=CAU"
+		},
+{
+
+			"user": "Italy vs Belgium HD2 ",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8",
 			"type": "UEFA WOMEN'S EURO ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ThbDUSVdAvSltC9TDjqp-jDoNXBycjms_g&usqp=CAU"
 		},
@@ -25,7 +46,7 @@
 
 		{
 
-			"user": "Iceland vs France HD",
+			"user": "Iceland vs France",
 			"pageUrl": "https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8",
 			"type": "UEFA WOMEN'S EURO ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ThbDUSVdAvSltC9TDjqp-jDoNXBycjms_g&usqp=CAU"
@@ -175,8 +196,8 @@
 
 {
 
-			"user": "Dortmund vs Valencia ",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1658184558-0-0-3d0d72d88504fb221053cb99ae16eb74",
+			"user": "Manchester United vs Crystal Palace",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://artwork.espncdn.com/programs/3d43bdb3-24a5-4586-9823-29a28da0d593/16x9/1280x720_20220713161859.jpg"
 		},
