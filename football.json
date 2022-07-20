@@ -4,25 +4,61 @@
 	"hits": [
 
 
+{
 
+			"user": "Charlotte vs Chelsea HD1",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://media.wcnc.com/assets/WCNC/images/aeed6cc9-d6eb-4353-b516-6193e4b0e58f/aeed6cc9-d6eb-4353-b516-6193e4b0e58f_1920x1080.jpg"
+		},
+		{
 
+			"user": "Charlotte vs Chelsea HD2",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://media.wcnc.com/assets/WCNC/images/aeed6cc9-d6eb-4353-b516-6193e4b0e58f/aeed6cc9-d6eb-4353-b516-6193e4b0e58f_1920x1080.jpg"
+		},
+		{
+
+			"user": "Orlando City SC vs Arsenal HD1",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2022/04/932/470/Orlando-City-Arsenal.jpg?ve=1&tl=1"
+		},
+		{
+
+			"user": "Orlando City SC vs Arsenal HD2",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2022/04/932/470/Orlando-City-Arsenal.jpg?ve=1&tl=1"
+		},
 
 		{
 
-			"user": "England vs Spain HD (English)",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
-			"type": "UEFA WOMEN'S EURO ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ThbDUSVdAvSltC9TDjqp-jDoNXBycjms_g&usqp=CAU"
+			"user": "DC United vs Bayern München HD",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls-dcu-prd/ohzwlk9bn7gpogis5s1e.jpg"
 		},
-	
-
 		{
 
-			"user": "England vs Spain HD2",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
-			"type": "UEFA WOMEN'S EURO ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ThbDUSVdAvSltC9TDjqp-jDoNXBycjms_g&usqp=CAU"
+			"user": "Minnesota United vs Everton HD",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://tribuna.com/imaginarium/images/tribuna-match/en/championsleague/match/102253493.jpeg"
 		},
+		{
+
+			"user": "América vs Manchester City HD1",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://pbs.twimg.com/media/FRMsxI6WYAEDJIT?format=jpg&name=900x900"
+		},
+		
+
+
+
+		
 	
 	{
 
