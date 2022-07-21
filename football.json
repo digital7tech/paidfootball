@@ -7,21 +7,21 @@
 {
 
 			"user": "Charlotte vs Chelsea HD1",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1658380698-0-0-3ab8e99bbe3613837168fd9082d43601",
+			"pageUrl": "https://c1e7128bb22a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.731013537001.channel.gcMNawmUyfU6.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://media.wcnc.com/assets/WCNC/images/aeed6cc9-d6eb-4353-b516-6193e4b0e58f/aeed6cc9-d6eb-4353-b516-6193e4b0e58f_1920x1080.jpg"
 		},
 		{
 
 			"user": "Charlotte vs Chelsea HD2",
-			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/62d886bbdb7bb7001dcf6386/62d886bbdb7bb7001dcf6386.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://media.wcnc.com/assets/WCNC/images/aeed6cc9-d6eb-4353-b516-6193e4b0e58f/aeed6cc9-d6eb-4353-b516-6193e4b0e58f_1920x1080.jpg"
 		},
 		{
 
 			"user": "Orlando City SC vs Arsenal HD1",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1658380758-0-0-c47ff28ba03a21b93f441c2b0dde9d2c",
+			"pageUrl": "https://fe26ffffcd13.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.731013537001.channel.jz9CMc19HnOe.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2022/04/932/470/Orlando-City-Arsenal.jpg?ve=1&tl=1"
 		},
@@ -36,7 +36,7 @@
 		{
 
 			"user": "DC United vs Bayern München HD",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"pageUrl": "https://3349c9cc9be2.us-west-2.playback.live-video.net/api/video/v1/us-west-2.731013537001.channel.uRhYtS7Gr3kv.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls-dcu-prd/ohzwlk9bn7gpogis5s1e.jpg"
 		},
@@ -50,13 +50,19 @@
 		{
 
 			"user": "América vs Manchester City HD1",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62d895b4eff132001e744200/62d895b4eff132001e744200.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://pbs.twimg.com/media/FRMsxI6WYAEDJIT?format=jpg&name=900x900"
 		},
 		
 
+{
 
+			"user": "América vs Manchester City HD2",
+			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://pbs.twimg.com/media/FRMsxI6WYAEDJIT?format=jpg&name=900x900"
+		},
 
 		
 	
