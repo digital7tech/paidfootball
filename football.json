@@ -43,13 +43,20 @@
 		{
 
 			"user": "Minnesota United vs Everton HD",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"pageUrl": "https://ad25e45ca04a.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.731013537001.channel.oW7YaFBZCL4B.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://tribuna.com/imaginarium/images/tribuna-match/en/championsleague/match/102253493.jpeg"
 		},
 		{
 
 			"user": "América vs Manchester City HD1",
+			"pageUrl": "https://692825220610.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.731013537001.channel.oQOxa7nQl8hd.m3u8 ",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://pbs.twimg.com/media/FRMsxI6WYAEDJIT?format=jpg&name=900x900"
+		},
+		{
+
+			"user": "América vs Manchester City HD2",
 			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62d895b4eff132001e744200/62d895b4eff132001e744200.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://pbs.twimg.com/media/FRMsxI6WYAEDJIT?format=jpg&name=900x900"
