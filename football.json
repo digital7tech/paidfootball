@@ -1,6 +1,5 @@
 
 {
-{
 
 	"hits": [
 
@@ -8,194 +7,19 @@
 
 {
 
-			"user": "Dortmund vs Villareal HD1",
-			"pageUrl": "https://standard-pull.mvrscap.com/bbs/10021_428447_lhd.m3u8?auth_key=1658593977-0-0-e2fd138a2f52b5bbe5e1173fd3d13f1b",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyWqs3HIu4flCowUzt5cY9YQ45-2Q_q0wqQ&usqp=CAU"
-		},
-
-	
-	{
-
-			"user": "BEIN SPORTS PREMIUM 1",
+			"user": "Sweeden vs Belgium HD1(English)",
 			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-
-	{
-
-			"user": "BEIN SPORTS PREMIUM 2",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-
-
-	{
-
-			"user": "BEIN SPORTS PREMIUM 3",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/qqitpaxi7q8jt4c/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-
-
-	{
-
-			"user": "BEIN SPORTS 1",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/t6465xx7k160e2w/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-
-	{
-
-			"user": "BEIN SPORTS 2",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/pksonyoqzb9o3mu/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-
-	{
-
-			"user": "BEIN SPORTS 3",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/zualuomxznpf26s/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-
-
-	{
-
-			"user": "BEIN SPORTS 4",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/nyx35bwo11lrbm0/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-
-	{
-
-			"user": "BEIN SPORTS 5",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/35ktguvwb5a55yi/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-
-	{
-
-			"user": "BEIN SPORTS 6",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-
-	{
-
-			"user": "BEIN SPORTS 7",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
-		},	
-
-	{
-
-			"user": "SPORTS ONE",
-			"pageUrl": "http://138.201.220.51:8030/willow-Extra/index.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
-		},	
-		{
-
-			"user": "SPORTS TWO",
-			"pageUrl": "http://138.201.220.51:8030/willow-Extra/index.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxii3khQ01LBRb-dtSCpY3l-ohcWmGhO5CHMewJEvRb3ffs_hnAlhdfB0&s=10"
 		},
 
 {
 
-			"user": "FORMULA ONE",
-			"pageUrl": "http://138.201.220.51:8030/sky-f1/index.m3u8",
-			"type": "SPORTS ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+			"user": "Sweeden vs Belgium HD1",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxii3khQ01LBRb-dtSCpY3l-ohcWmGhO5CHMewJEvRb3ffs_hnAlhdfB0&s=10"
 		},
-
-
-	{
-
-			"user": "SUPERSPORT EPL",
-			"pageUrl": "http://138.201.220.51:8030/T-Sports/index.m3u8 ",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://www.careersinafrica.com/wp-content/uploads/2013/06/supersport-logo.png"
-		},	
-
-
-	{
-
-			"user": " SPORTS TWO",
-			"pageUrl": "http://2690.ovh:25461/34baxmo5/56bwf44u/50674",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qt2J5m4jcqpPDOBykLevlcABPIodsIRqHw&usqp=CAU"
-		},	
-
-
-	{
-
-			"user": " SPORTS THREE",
-			"pageUrl": "http://138.201.220.51:8030/pt-/tracks-v1a1/mono.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qt2J5m4jcqpPDOBykLevlcABPIodsIRqHw&usqp=CAU"
-		},	
-
-{
-
-			"user": "Manchester United vs Crystal Palace",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://artwork.espncdn.com/programs/3d43bdb3-24a5-4586-9823-29a28da0d593/16x9/1280x720_20220713161859.jpg"
-		},
-		{
-
-			"user": "PTV SPORTS",
-			"pageUrl": "http://138.201.220.51:8030/ptv/index.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
-		}
-	]
-
-
-}
-
-
-	"hits": [
-
-
-
-{
-
-			"user": "Crystal Palace vs Leeds United HD1",
-			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaKbceae0HQBHSEHS5V6h8Go7s1XDAF0FhDQ&usqp=CAU"
-		},
-	
-{
-
-			"user": "Crystal Palace vs Leeds United HD2",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62da6604e31689001c814b39/62da6604e31689001c814b39.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaKbceae0HQBHSEHS5V6h8Go7s1XDAF0FhDQ&usqp=CAU"
-		},	
 	
 	{
 
