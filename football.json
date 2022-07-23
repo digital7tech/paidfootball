@@ -19,11 +19,17 @@
 		{
 
 			"user": "Bayern München vs Man City HD2",
-			"pageUrl": "https://600d8831ac6d.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.731013537001.channel.f6N19waHSlB1.m3u8",
+			"pageUrl": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://img.vavel.com/ni5ev6yo-1658511466286.png"
 		},
-		
+		{
+
+			"user": "Bayern München vs Man City HD3",
+			"pageUrl": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://img.vavel.com/ni5ev6yo-1658511466286.png"
+		},	
 		{
 
 			"user": "Arsenal vs Chelsea HD(English)",
