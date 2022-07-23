@@ -5,70 +5,19 @@
 
 
 
-{
 
-			"user": "Man Utd vs Aston Villa HD1",
-			"pageUrl": "https://c1e7128bb22a.us-east-1.playback.live-video.net/api/video/v1/us-east-1.731013537001.channel.gcMNawmUyfU6.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://i2-prod.manchestereveningnews.co.uk/incoming/article18923807.ece/ALTERNATES/s1200/1_VILMUN.jpg"
-		},
-		{
-
-			"user": "Man Utd vs Aston Villa HD2",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://i2-prod.manchestereveningnews.co.uk/incoming/article18923807.ece/ALTERNATES/s1200/1_VILMUN.jpg"
-		},
-		{
-
-			"user": "Urawa Reds vs PSG HD",
-			"pageUrl": "https://fe26ffffcd13.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.731013537001.channel.jz9CMc19HnOe.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://i0.wp.com/livefootballtvguide.com/wp-content/uploads/2022/07/Urawa-Red-Diamonds-vs-PSG.webp?fit=1200%2C675&ssl=1"
-		},
-		{
-
-			"user": "Derby County vs Leicester City HD",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://cdn.thestatszone.com/uploads/thumbnails/_r169l/Friendly_Derby_Vs_Leicester.jpg"
-		},
-		{
-
-			"user": "Ajax vs Eintracht Frankfurt HD",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://i.ytimg.com/vi/ZvlSRb4ff8c/maxresdefault.jpg"
-		},
-		
-		{
-
-			"user": "Borussia M'gladbach vs Real Sociedad HD",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://tribuna.com/imaginarium/images/tribuna-match/en/championsleague/match/102253555.jpeg"
-		},
-		
-		{
-
-			"user": "Stuttgart vs Valencia HD",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://extbet.com/i887/vfb-stuttgart-vs-valencia-preview-413815.jpg"
-		},
-		
 			
 		{
 
 			"user": "Rangers vs Tottenham Hotspur HD1",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"pageUrl": "https://600d8831ac6d.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.731013537001.channel.f6N19waHSlB1.m3u8 ",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://i.ytimg.com/vi/Vkf1YBMDXeA/maxresdefault.jpg"
 		},
 		{
 
 			"user": "Rangers vs Tottenham Hotspur HD2",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"pageUrl": "https://600d8831ac6d.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.731013537001.channel.f6N19waHSlB1.m3u8 ",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://i.ytimg.com/vi/Vkf1YBMDXeA/maxresdefault.jpg"
 		},
