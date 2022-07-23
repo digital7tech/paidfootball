@@ -7,18 +7,93 @@
 
 {
 
-			"user": "Sweeden vs Belgium HD1(English)",
-			"pageUrl": "http://144.126.137.157/espn2.m3u8",
-			"type": "UEFA WOMEN'S EURO ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxii3khQ01LBRb-dtSCpY3l-ohcWmGhO5CHMewJEvRb3ffs_hnAlhdfB0&s=10"
+			"user": "Man Utd vs Aston Villa HD1",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i2-prod.manchestereveningnews.co.uk/incoming/article18923807.ece/ALTERNATES/s1200/1_VILMUN.jpg"
 		},
+		{
 
-{
+			"user": "Man Utd vs Aston Villa HD2",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i2-prod.manchestereveningnews.co.uk/incoming/article18923807.ece/ALTERNATES/s1200/1_VILMUN.jpg"
+		},
+		{
 
-			"user": "Sweeden vs Belgium HD1",
-			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
-			"type": "UEFA WOMEN'S EURO ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxii3khQ01LBRb-dtSCpY3l-ohcWmGhO5CHMewJEvRb3ffs_hnAlhdfB0&s=10"
+			"user": "Urawa Reds vs PSG HD",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i0.wp.com/livefootballtvguide.com/wp-content/uploads/2022/07/Urawa-Red-Diamonds-vs-PSG.webp?fit=1200%2C675&ssl=1"
+		},
+		{
+
+			"user": "Derby County vs Leicester City HD",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://cdn.thestatszone.com/uploads/thumbnails/_r169l/Friendly_Derby_Vs_Leicester.jpg"
+		},
+		{
+
+			"user": "Ajax vs Eintracht Frankfurt HD",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i.ytimg.com/vi/ZvlSRb4ff8c/maxresdefault.jpg"
+		},
+		
+		{
+
+			"user": "Borussia M'gladbach vs Real Sociedad HD",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://tribuna.com/imaginarium/images/tribuna-match/en/championsleague/match/102253555.jpeg"
+		},
+		
+		{
+
+			"user": "Stuttgart vs Valencia HD",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://extbet.com/i887/vfb-stuttgart-vs-valencia-preview-413815.jpg"
+		},
+		
+			
+		{
+
+			"user": "Rangers vs Tottenham Hotspur HD1",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i.ytimg.com/vi/Vkf1YBMDXeA/maxresdefault.jpg"
+		},
+		{
+
+			"user": "Rangers vs Tottenham Hotspur HD2",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i.ytimg.com/vi/Vkf1YBMDXeA/maxresdefault.jpg"
+		},
+		
+		{
+
+			"user": "Celtic vs Norwich City HD1",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i.ytimg.com/vi/-GPtr3dzbEE/maxresdefault.jpg"
+		},
+		{
+
+			"user": "Zalaegerszegi TE vs Milan HD1",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://extbet.com/i887/zalaegerszegi-te-vs-ac-milan-preview-413974.jpg"
+		},
+		
+		{
+
+			"user": "PSV vs Real Betis HD1",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://api.sofascore.app/api/v1/event/10420413/share-image/16x9"
 		},
 	
 	{
@@ -165,11 +240,12 @@
 
 {
 
-			"user": "Manchester United vs Crystal Palace",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://artwork.espncdn.com/programs/3d43bdb3-24a5-4586-9823-29a28da0d593/16x9/1280x720_20220713161859.jpg"
+			"user": "Sweeden vs Belgium HD2",
+			"pageUrl": "https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING",
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxii3khQ01LBRb-dtSCpY3l-ohcWmGhO5CHMewJEvRb3ffs_hnAlhdfB0&s=10"
 		},
+
 		{
 
 			"user": "PTV SPORTS",
