@@ -6,6 +6,33 @@
 
 
 
+		
+		{
+
+			"user": "Real Madrid vs Barcelona HD1",
+			"pageUrl": "https://600d8831ac6d.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.731013537001.channel.f6N19waHSlB1.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://www.insidesport.in/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-23-at-11.33.25-AM.jpg?w=809"
+		},
+
+		{
+
+			"user": "Real Madrid vs Barcelona HD2",
+			"pageUrl": "https://600d8831ac6d.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.731013537001.channel.f6N19waHSlB1.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://www.insidesport.in/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-23-at-11.33.25-AM.jpg?w=809"
+		},
+
+
+		{
+
+			"user": "Real Madrid vs Barcelona HD3",
+			"pageUrl": "https://600d8831ac6d.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.731013537001.channel.f6N19waHSlB1.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://www.insidesport.in/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-23-at-11.33.25-AM.jpg?w=809"
+		},
+
+
 		{
 
 			"user": "Bayern München vs Man City HD(English)",
@@ -39,26 +66,20 @@
 		},
 		{
 
+			"user": "Arsenal vs Chelsea SD(English)",
+			"pageUrl": "https://fe26ffffcd13.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.731013537001.channel.jz9CMc19HnOe.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1915,h_1077,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/90min_en_international_web/01g1thpzz1wacgtfr3g6.jpg"
+		},
+		{
+
 			"user": "Arsenal vs Chelsea HD2",
 			"pageUrl": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1658641578-0-0-e0a61192e602597e1603e87a1be21163",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1915,h_1077,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/90min_en_international_web/01g1thpzz1wacgtfr3g6.jpg"
 		},
-		{
-
-			"user": "Arsenal vs Chelsea HD3",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1658641578-0-0-e0a61192e602597e1603e87a1be21163",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1915,h_1077,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/90min_en_international_web/01g1thpzz1wacgtfr3g6.jpg"
-		},
 		
-		{
 
-			"user": "Real Madrid vs Barcelona HD1",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1658612838-0-0-7bb0e0da77d70c1aaba4888de185973b",
-			"type": "CLUB FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://www.insidesport.in/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-23-at-11.33.25-AM.jpg?w=809"
-		},
 	{
 
 			"user": "BEIN SPORTS PREMIUM 1",
