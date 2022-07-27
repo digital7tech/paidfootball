@@ -9,14 +9,14 @@
 		{
 
 			"user": "Barcelona vs Juventus HD1",
-			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8 ",
+			"pageUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658904080/ei/sIngYv6-KOeF0_wP4ZOXkAw/ip/5.62.58.183/id/3WeQY7vSgPg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhkJiNvR50YonUVp0XqbBwPfwNs88TfE1S-yWJoNt/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANb8Q7RV69e0QlysB1L2zGBExK5h0z_8TTdsDIFWrXatAiEA4x0ofA58uIzwpuPQTyAcqcI9M1rQrNLEmuNn24BN_FA%3D/file/index.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKr8iAzzJi-P91T5Ob-yau3yEcjIzZF9hRw&usqp=CAU"
 		},
 	{
 
 			"user": "Barcelona vs Juventus HD2",
-			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8 ",
+			"pageUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658904080/ei/sIngYv6-KOeF0_wP4ZOXkAw/ip/5.62.58.183/id/3WeQY7vSgPg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhkJiNvR50YonUVp0XqbBwPfwNs88TfE1S-yWJoNt/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANb8Q7RV69e0QlysB1L2zGBExK5h0z_8TTdsDIFWrXatAiEA4x0ofA58uIzwpuPQTyAcqcI9M1rQrNLEmuNn24BN_FA%3D/file/index.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKr8iAzzJi-P91T5Ob-yau3yEcjIzZF9hRw&usqp=CAUb/01g1thpzz1wacgtfr3g6.jpg"
 		},
@@ -33,7 +33,7 @@
 	{
 
 			"user": "América vs Real Madrid HD1",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1658763738-0-0-c86e931aba294527cf745e0beaa8f8ca",
+			"pageUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658904080/ei/sIngYv6-KOeF0_wP4ZOXkAw/ip/5.62.58.183/id/3WeQY7vSgPg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhkJiNvR50YonUVp0XqbBwPfwNs88TfE1S-yWJoNt/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANb8Q7RV69e0QlysB1L2zGBExK5h0z_8TTdsDIFWrXatAiEA4x0ofA58uIzwpuPQTyAcqcI9M1rQrNLEmuNn24BN_FA%3D/file/index.m3u8",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6-tZvpqqIMBirAYTRZ494vZgfoif6Wcqcg&usqp=CAU"
 		},
@@ -42,7 +42,7 @@
 	{
 
 			"user": "América vs Real Madrid HD2",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1658763738-0-0-c86e931aba294527cf745e0beaa8f8ca",
+			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8 ",
 			"type": "CLUB FRIENDLIES ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6-tZvpqqIMBirAYTRZ494vZgfoif6Wcqcg&usqp=CAU"
 		},
