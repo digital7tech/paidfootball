@@ -1,117 +1,280 @@
-
 {
 
 	"hits": [
-
-
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		{
 
-			"user": "Liverpool vs Manchester City  HD(English)",
-			"pageUrl": "http://asdsadasdasd.azureedge.net/stream/NDY0Mw==/1080p.m3u8",
-			"type": "England - FA Community Shield ⚽️ ",
-			"webFormatUrl": "https://dailypost.ng/wp-content/uploads/2019/08/Community-Shield.jpg"
+
+			"user": "Toulouse vs Nice SD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Toulouse vs Nice HD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 		
 		{
 
-			"user": "Liverpool vs Manchester City  HD2",
-			"pageUrl": "http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY0Mw==/1080p.m3u8",
-			"type": "England - FA Community Shield ⚽️ ",
-			"webFormatUrl": "https://dailypost.ng/wp-content/uploads/2019/08/Community-Shield.jpg"
+
+			"user": "Manchester United vs Brighton SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
-			"user": "Liverpool vs Manchester City HD3",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/PKP-yyOqVQjEDMQppaQa4Wml-DU-JDmJYNq0WCEjTj-Y7i0sGt6zET5F6c-QwCLvNLNPgnizXCH48riLul0_Pw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live",
-			"type": "England - FA Community Shield ⚽️ ",
-			"webFormatUrl": "https://dailypost.ng/wp-content/uploads/2019/08/Community-Shield.jpg"
+
+			"user": "Manchester United vs Brighton HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Manchester United vs Brighton HD2 (English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
+		
+		{
+
+
+			"user": "Leicester City vs Brentford SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Leicester City vs Brentford HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Leicester City vs Brentford HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		
 		{
 
-			"user": "Liverpool vs Manchester City  SD",
-			"pageUrl": "https://16c864785a7a.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.727392492577.channel.eFvZvEYzpfeG.m3u8",
-			"type": "England - FA Community Shield ⚽️ ",
-			"webFormatUrl": "https://dailypost.ng/wp-content/uploads/2019/08/Community-Shield.jpg"
+
+			"user": "Lille vs Auxerre SD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 
+		{
+
+
+			"user": "Angers SCO vs Nantes SD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+
+		{
+
+
+			"user": "Montpellier vs Troyes SD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+
+		{
+
+
+			"user": "Lens vs Brest SD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
 
 		
+			{
 
 
+			"user": "Stuttgart vs RB Leipzig SD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
 
 
+			"user": "Stuttgart vs RB Leipzig HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+			{
+
+
+			"user": "	Rennes vs Lorient HD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "WestHam vs Manchester City SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "WestHam vs Manchester City HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "WestHam vs Manchester City HD2 (English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
 		
 		{
 
-			"user": "Sporting CP vs Wolves",
-			"pageUrl": "http://191.96.100.144:8030/pt-/index.m3u8",
-			"type": "Club Friendly ⚽️ ",
-			"webFormatUrl": "https://img.vavel.com/sporting-wolves-usa-1659137273983.png"
+
+			"user": "Köln vs Schalke 04 SD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Köln vs Schalke 04 HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Venezia vs Ascoli SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://www.thesportsdb.com/images/media/league/badge/konhxs1549460516.png"
+		},
+		{
+
+
+			"user": "Hellas Verona vs Bari 1908 SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://www.thesportsdb.com/images/media/league/badge/konhxs1549460516.png"
+		},
+		
+		{
+
+
+			"user": "Barcelona vs Pumas UNAM 1908 SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "World - Club Friendly ⚽️ ",
+			"webFormatUrl": "https://img.vavel.com/barcelona-pumas-usa-1659736186518.png"
+		},
+		{
+
+
+			"user": "Barcelona vs Pumas UNAM 1908 SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "World - Club Friendly ⚽️ ",
+			"webFormatUrl": "https://img.vavel.com/barcelona-pumas-usa-1659736186518.png"
+		},
+		{
+
+
+			"user": "Juventus vs Atlético Madrid SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "World - Club Friendly ⚽️ ",
+			"webFormatUrl": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/03/12/15524008857216.jpg"
+		},
+		{
+
+
+			"user": "Juventus vs Atlético Madrid HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "World - Club Friendly ⚽️ ",
+			"webFormatUrl": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/03/12/15524008857216.jpg"
+		},
+		
+		{
+
+
+			"user": "Roma vs Shakhtar Donetsk HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "World - Club Friendly ⚽️ ",
+			"webFormatUrl": "https://mrfixitstips.co.uk/wp-content/uploads/2021/03/MRF2021_RomavShakhtar.jpg"
+		},
+		
+		{
+
+
+			"user": "Marseille vs Reims SD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Marseille vs Reims HD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Salernitana vs Parma SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://www.thesportsdb.com/images/media/league/badge/konhxs1549460516.png"
+		},
+		{
+
+
+			"user": "Monza vs Frosinone SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://www.thesportsdb.com/images/media/league/badge/konhxs1549460516.png"
 		},
 {
 
-			"user": "Tottenham Hotspur vs Roma HD1",
-			"pageUrl": "http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY0NQ==/1080p.m3u8",
-			"type": "Club Friendly ⚽️ ",
-			"webFormatUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/260185C2D977E1A5EB26E88C5B262CCB382D7DE8DFED27F476E9ED19C6CBCB7D/scale?width=1200&aspectRatio=1.78&format=jpeg"
+			"user": "PTV SPORTS 1",
+			"pageUrl": "http://191.96.100.144:8030/ptv/tracks-v1a1/mono.m3u8 ",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		},
-
+		
 {
 
-			"user": "Tottenham Hotspur vs Roma HD2",
-			"pageUrl": "http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY0NQ==/1080p.m3u8",
-			"type": "Club Friendly ⚽️ ",
-			"webFormatUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/260185C2D977E1A5EB26E88C5B262CCB382D7DE8DFED27F476E9ED19C6CBCB7D/scale?width=1200&aspectRatio=1.78&format=jpeg"
-		},
-		
-		{
-
-			"user": "RB Leipzig vs Bayern München SD",
-			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8",
-			"type": "Germany - DFL-Supercup⚽️ ",
-			"webFormatUrl": "https://www.pngitem.com/pimgs/m/347-3471907_640px-dfl-supercup-logo-super-cup-germany-png.png"
-		},
-		
-		{
-
-			"user": "RB Leipzig vs Bayern München HD",
-			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8",
-			"type": "Germany - DFL-Supercup⚽️ ",
-			"webFormatUrl": "https://www.pngitem.com/pimgs/m/347-3471907_640px-dfl-supercup-logo-super-cup-germany-png.png"
-		},
-		
-		
-		{
-
-			"user": "Internazionale vs Olympique Lyon",
-			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8",
-			"type": "Club Friendly ⚽️ ",
-			"webFormatUrl": "https://lookcharms.com/wp-content/uploads/2022/07/3009-foot-1-1000x501.jpg"
-		},
-		
-		
-		{
-
-			"user": "Porto vs Tondela",
-			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8",
-			"type": "Portugal - Super Taca ⚽️ ",
-			"webFormatUrl": "https://cdn.footystats.org/img/competitions/portugal-portuguese-super-cup.png"
-		},
-		{
-
-			"user": "PTV SPORTS",
-			"pageUrl": "http://103.55.144.46/hls/ptv.m3u8",
+			"user": "PTV SPORTS 2",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
