@@ -17,6 +17,20 @@
 			"type": "English Championship ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw6bZ1HZJVUlliqer_KgiR863U-Q6L7ClQ8JUzkiTh24r6kkmhplbcY-X9&s=10"
 		},
+		{
+
+			"user": "Burnley vs Hull City SD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/H846.flv",
+			"type": "English Championship ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw6bZ1HZJVUlliqer_KgiR863U-Q6L7ClQ8JUzkiTh24r6kkmhplbcY-X9&s=10"
+		},
+		{
+
+			"user": "Norwich vs Huddersfield SD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/H817.flv",
+			"type": "English Championship ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw6bZ1HZJVUlliqer_KgiR863U-Q6L7ClQ8JUzkiTh24r6kkmhplbcY-X9&s=10"
+		},
 		
 		{
 
@@ -28,7 +42,7 @@
 		{
 
 			"user": "QPR vs Blackpool HD",
-			"pageUrl": "http://gdioo.azureedge.net/stream/NDgwNA==/1080p.m3u8",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K802.flv",
 			"type": "English Championship ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw6bZ1HZJVUlliqer_KgiR863U-Q6L7ClQ8JUzkiTh24r6kkmhplbcY-X9&s=10"
 		},
@@ -58,7 +72,7 @@
 {
 
 			"user": "Rangers vs PSV HD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K809.flv",
+			"pageUrl": "http://gdioo.azureedge.net/stream/NDgwNA==/1080p.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
