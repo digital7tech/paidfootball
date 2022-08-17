@@ -3,38 +3,15 @@
 	"hits": [
 		
 
-{
-
-			"user": "Qarabağ vs Viktoria Plzeñ SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K802.flv",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-
-{
-
-			"user": "Qarabağ vs Viktoria Plzeñ HD",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/62fd02ac95a95b001da4dc46/62fd02ac95a95b001da4dc46.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
 
 
 
-{
-
-			"user": "Djurgåden vs APOEL",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/H801.flv",
-			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfdmmY5WLQOg-dIZ4ulvZRww5-zZxGHb2sA&usqp=CAU"
-		},
 
 
 {
 
 			"user": "Stoke City vs Middlesbrough",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/H801.flv",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/H809.flv",
 			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgcsrwU0AzjeQfVzm2k-BRV8lshHWynrQnA&usqp=CAU"
 		},
@@ -42,7 +19,7 @@
 {
 
 			"user": "Sheffield United vs Sunderland",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62fd2e2b74c613001d35ace2/62fd2e2b74c613001d35ace2.m3u8",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K808.flv",
 			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgcsrwU0AzjeQfVzm2k-BRV8lshHWynrQnA&usqp=CAU"
 		},
@@ -51,7 +28,7 @@
 {
 
 			"user": "Reading vs Blackburn Rovers",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/H801.flv",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/H810.flv",
 			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgcsrwU0AzjeQfVzm2k-BRV8lshHWynrQnA&usqp=CAU"
 		},
@@ -70,7 +47,7 @@
 {
 
 			"user": "Dynamo Kyiv vs Benfica SD",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/62fd02ac95a95b001da4dc46/62fd02ac95a95b001da4dc46.m3u8",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K806.flv",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -88,7 +65,14 @@
 
 {
 
-			"user": "Maccabi Haifa vs Crvena Zvezda",
+			"user": "Maccabi Haifa vs Crvena Zvezda SD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K807.flv",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+		{
+
+			"user": "Maccabi Haifa vs Crvena Zvezda HD",
 			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62fd2dcd056c56001dd443b3/62fd2dcd056c56001dd443b3.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
