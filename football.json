@@ -4,60 +4,78 @@
 		
 
 
-
-
 {
 
-			"user": "WestHam vs Viborg SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K817.flv",
-			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3N7EkgHNR--Xk9YGnhXlEBPpRklNsAwPg68FvW9pT70k-pzDjDqiZ_bp4&s=10"
-		},
-
-
-
-{
-
-			"user": "WestHam vs Viborg HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62fe7f4f74c613001d35ad3a/62fe7f4f74c613001d35ad3a.m3u8",
-			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3N7EkgHNR--Xk9YGnhXlEBPpRklNsAwPg68FvW9pT70k-pzDjDqiZ_bp4&s=10"
-		},
-		{
-
-			"user": "Villarreal vs Hajduk Split SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/H816.flv",
-			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3N7EkgHNR--Xk9YGnhXlEBPpRklNsAwPg68FvW9pT70k-pzDjDqiZ_bp4&s=10"
-		},
-		{
-
-			"user": "Villarreal vs Hajduk Split HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62fe7c8f16cc9c001df7a1c1/62fe7c8f16cc9c001df7a1c1.m3u8",
-			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3N7EkgHNR--Xk9YGnhXlEBPpRklNsAwPg68FvW9pT70k-pzDjDqiZ_bp4&s=10"
+			"user": "Espanyol vs Rayo Vallecano SD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
 
 
 
 {
 
-			"user": "Fiorentina vs Twente SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K827.flv",
-			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3N7EkgHNR--Xk9YGnhXlEBPpRklNsAwPg68FvW9pT70k-pzDjDqiZ_bp4&s=10"
+			"user": "Espanyol vs Rayo Vallecano HD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
+
+
 {
 
-			"user": "Fiorentina vs Twente HD",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/62fe654202d2c6001d76815b/62fe654202d2c6001d76815b.m3u8",
-			"type": "UEFA CONFERENCE LEAGUE ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3N7EkgHNR--Xk9YGnhXlEBPpRklNsAwPg68FvW9pT70k-pzDjDqiZ_bp4&s=10"
+			"user": "Borussia M'gladbach vs Hertha BSC SD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "BUNDESLIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
+		},
+
+
+{
+
+			"user": "Borussia M'gladbach vs Hertha BSC HD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "BUNDESLIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
+		},
+
+
+{
+
+			"user": "Lyon vs Troyes HD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVP0ytY9pZeuR5VcZM0vrXoFjg5-n7frRKWLprD4Rs6D1bfGIjTMJaWfk&s=10"
+		},
+
+
+{
+
+			"user": "Norwich City vs Millwall HD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgcsrwU0AzjeQfVzm2k-BRV8lshHWynrQnA&usqp=CAU"
+		},
+
+
+{
+
+			"user": "Sevilla vs Real Valladolid SD",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
 
 
 
+{
 
+			"user": "Sevilla vs Real Valladolid",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
+		},
 
 
 {
