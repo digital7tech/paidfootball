@@ -7,7 +7,7 @@
 {
 
 			"user": "Espanyol vs Rayo Vallecano SD",
-			"pageUrl": "http://93.152.174.144:4000/play/bein1ar/index.m3u8",
+			"pageUrl": "GET https://d044db2d3de4.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.814359829657.channel.o5hupY6oxOU9.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6ODE0MzU5ODI5NjU3OmNoYW5uZWwvbzVodXBZNm94T1U5IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93MzIuZm9vdHkudG8iLCJpYXQiOjE2NjA4NDQxNzMsImV4cCI6MTY2MTAxNjk3M30.3HVOhXEHdWH4HcHGIwnNgEjbcc4DrQxbbEyu_6Ex1Ol3_-pWgBkNOGyWY4YPZyor-vZ_NQ8QBrK6zrRYmKBDRzEhhJk2MlsehgG2GACBXgzA2ZBhiu5hzHaJTjD2KG3T ",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
@@ -26,7 +26,7 @@
 {
 
 			"user": "Borussia M'gladbach vs Hertha BSC SD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62ffc75302d2c6001d768199/62ffc75302d2c6001d768199.m3u8",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -35,7 +35,7 @@
 {
 
 			"user": "Borussia M'gladbach vs Hertha BSC HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62ffc75302d2c6001d768199/62ffc75302d2c6001d768199.m3u8",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -44,7 +44,7 @@
 {
 
 			"user": "Lyon vs Troyes HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/62ffd1578548fc001d32cfa5/62ffd1578548fc001d32cfa5.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVP0ytY9pZeuR5VcZM0vrXoFjg5-n7frRKWLprD4Rs6D1bfGIjTMJaWfk&s=10"
 		},
