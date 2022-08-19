@@ -7,7 +7,7 @@
 {
 
 			"user": "Espanyol vs Rayo Vallecano SD",
-			"pageUrl": "GET https://d044db2d3de4.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.814359829657.channel.o5hupY6oxOU9.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6ODE0MzU5ODI5NjU3OmNoYW5uZWwvbzVodXBZNm94T1U5IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93MzIuZm9vdHkudG8iLCJpYXQiOjE2NjA4NDQxNzMsImV4cCI6MTY2MTAxNjk3M30.3HVOhXEHdWH4HcHGIwnNgEjbcc4DrQxbbEyu_6Ex1Ol3_-pWgBkNOGyWY4YPZyor-vZ_NQ8QBrK6zrRYmKBDRzEhhJk2MlsehgG2GACBXgzA2ZBhiu5hzHaJTjD2KG3T ",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K814.flv",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
@@ -17,7 +17,7 @@
 {
 
 			"user": "Espanyol vs Rayo Vallecano HD",
-			"pageUrl": "http://93.152.174.144:4000/play/bein1ar/index.m3u8",
+			"pageUrl": "https://d044db2d3de4.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.814359829657.channel.o5hupY6oxOU9.m3u8?token=eyJhbGciOiJFUz",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
@@ -53,7 +53,7 @@
 {
 
 			"user": "Norwich City vs Millwall HD",
-			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62ffd358056c56001dd44448/62ffd358056c56001dd44448.m3u8",
 			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgcsrwU0AzjeQfVzm2k-BRV8lshHWynrQnA&usqp=CAU"
 		},
