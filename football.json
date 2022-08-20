@@ -26,7 +26,7 @@
 
 
 			"user": "Internazionale vs Spezia HD3",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630124193baef9001da9b53b/630124193baef9001da9b53b.m3u8 ",
+			"pageUrl": "https://pullalilive.livnvess.com/live/stream-161243.m3u8?auth_key=1661042301-0-0-8ddd1c45aa993ec203badfcc870c1f8d ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -58,22 +58,30 @@
 		{
 
 
-			"user": "Marseille vs Nantes",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/630129e595a95b001da4dd5b/630129e595a95b001da4dd5b.m3u8",
+			"user": "Marseille vs Nantes HD1",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K823.flv",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+{
+
+
+			"user": "Marseille vs Nantes HD2",
+			"pageUrl": "https://sun.meta-scores.com/6be1f4209a/6be1f4209a@720p.m3u8 ",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 		{
 
-			"user": "Celta de Vigo vs Real Madrid SD",
-			"pageUrl": "http://bious.azureedge.net/stream/NDgzMQ==/1080p.m3u8",
+			"user": "Celta de Vigo vs Real Madrid HD1",
+			"pageUrl": "http://fesrs.azureedge.net/stream/NDgzMQ==/1080p.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
 			{
 
-			"user": "Celta de Vigo vs Real Madrid HD",
-			"pageUrl": "http://bious.azureedge.net/stream/NDgzMQ==/1080p.m3u8",
+			"user": "Celta de Vigo vs Real Madrid HD2",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6301320895a95b001da4dd5d/6301320895a95b001da4dd5d.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
