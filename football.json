@@ -2,75 +2,33 @@
 
 	"hits": [
 		
-{
 
-
-			"user": "Tottenham vs Wolves SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/omcWBhDG01.flv",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-
-			"user": "Tottenham vs Wolves HD1 (English)",
-			"pageUrl": "https://7a1342e347b8.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.814359829657.channel.BvVLbrKuxh7l.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1zb3V0aC0xOjgxNDM1OTgyOTY1NzpjaGFubmVsL0J2Vkxickt1eGg3bCIsImF3czphY2Nlc3MtY29udHJvbC1hbGxvdy1vcmlnaW4iOiJodHRwOi8vdzMyLmZvb3R5LnRvIiwiaWF0IjoxNjYwODQ0MjYyLCJleHAiOjE2NjEwMTcwNjJ9.bK-I9CTVV8pdqwKCgXf3OrCCaiwhZd-3MKMXZirRwiaIGUV9pPcfSfeNA6ggVyT74Li1YgTfFFx1g2YG9dWjDLME4QV7SJF8Dzj1zu2tWUTc6Xld3CRz5qHbX0ZpgzAC ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		{
-
-
-			"user": "Tottenham vs Wolves HD2 (English)",
-			"pageUrl": "http://juiio.azureedge.net/stream/NDgxOQ==/1080p.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		{
-
-
-			"user": "Tottenham vs Wolves HD3",
-			"pageUrl": "https://sun.meta-scores.com/e4b0e4e86a_fhd2/e4b0e4e86a_fhd2@720p.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-{
-
-
-			"user": "Tottenham vs Wolves HD4",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6300bdac95a95b001da4dd33/6300bdac95a95b001da4dd33.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
 		
 		{
 
 			"user": "Dortmund vs Werder Bremen",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62ffc75302d2c6001d768199/62ffc75302d2c6001d768199.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6300dd348d9b24001d7d2bfe/6300dd348d9b24001d7d2bfe.m3u8",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 			"user": "Bayer Leverkusen vs Hoffenheim",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62ffc75302d2c6001d768199/62ffc75302d2c6001d768199.m3u8",
+			"pageUrl": "http://83.222.205.65:8080/football1_edge/index.m3u8?token=test",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 			"user": "Wolfsburg vs Schalke 04",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62ffc75302d2c6001d768199/62ffc75302d2c6001d768199.m3u8",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may7/chunklist.m3u8",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		{
 
 			"user": "Augsburg vs Mainz 05",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62ffc75302d2c6001d768199/62ffc75302d2c6001d768199.m3u8",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may51/chunklist.m3u8",
 			"type": "BUNDESLIGA ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -86,7 +44,7 @@
 
 
 			"user": "Crystal Palace vs Aston Villa SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://bfoia.azureedge.net/stream/NDgyMA==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -94,7 +52,7 @@
 
 
 			"user": "Crystal Palace vs Aston Villa HD(English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://bfoia.azureedge.net/stream/NDgyMA==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -102,7 +60,7 @@
 
 
 			"user": "Everton vs Nottingham Forest SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://juiio.azureedge.net/stream/NDgyMQ==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -110,7 +68,7 @@
 
 
 			"user": "Everton vs Nottingham Forest HD(English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://juiio.azureedge.net/stream/NDgyMQ==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -118,7 +76,7 @@
 
 
 			"user": "Fulham vs Brentford SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://juiio.azureedge.net/stream/NDgyMg==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -126,7 +84,7 @@
 
 
 			"user": "Fulham vs Brentford HD (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://juiio.azureedge.net/stream/NDgyMg==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -134,7 +92,7 @@
 
 
 			"user": "Leicester vs Southampton SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://juiio.azureedge.net/stream/NDgyMw==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -142,7 +100,7 @@
 
 
 			"user": "Leicester vs Southampton HD (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://juiio.azureedge.net/stream/NDgyMw==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
