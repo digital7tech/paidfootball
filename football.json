@@ -10,30 +10,42 @@
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+		
 		{
 
 
 			"user": "Tottenham vs Wolves HD1 (English)",
-			"pageUrl": "http://juiio.azureedge.net/stream/NDgxOQ==/1080p.m3u8",
+			"pageUrl": "https://7a1342e347b8.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.814359829657.channel.BvVLbrKuxh7l.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1zb3V0aC0xOjgxNDM1OTgyOTY1NzpjaGFubmVsL0J2Vkxickt1eGg3bCIsImF3czphY2Nlc3MtY29udHJvbC1hbGxvdy1vcmlnaW4iOiJodHRwOi8vdzMyLmZvb3R5LnRvIiwiaWF0IjoxNjYwODQ0MjYyLCJleHAiOjE2NjEwMTcwNjJ9.bK-I9CTVV8pdqwKCgXf3OrCCaiwhZd-3MKMXZirRwiaIGUV9pPcfSfeNA6ggVyT74Li1YgTfFFx1g2YG9dWjDLME4QV7SJF8Dzj1zu2tWUTc6Xld3CRz5qHbX0ZpgzAC ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
 		{
 
 
-			"user": "Tottenham vs Wolves HD2",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6300bdac95a95b001da4dd33/6300bdac95a95b001da4dd33.m3u8",
+			"user": "Tottenham vs Wolves HD2 (English)",
+			"pageUrl": "http://juiio.azureedge.net/stream/NDgxOQ==/1080p.m3u8 ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
 		{
 
 
 			"user": "Tottenham vs Wolves HD3",
-			"pageUrl": "https://179720687.global.cdnfastest.com/live/may91/playlist.m3u8",
+			"pageUrl": "https://sun.meta-scores.com/e4b0e4e86a_fhd2/e4b0e4e86a_fhd2@720p.m3u8 ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+{
+
+
+			"user": "Tottenham vs Wolves HD4",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/6300bdac95a95b001da4dd33/6300bdac95a95b001da4dd33.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
 		{
 
 			"user": "Dortmund vs Werder Bremen",
