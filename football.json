@@ -9,22 +9,7 @@
 	
 		
 	
-		{
-
-			"user": "Atlético Madrid vs Villarreal HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/index.m3u8?hdnts=exp=1661128377~acl=/may1SD*~hmac=03d04473d1cc9116f80b3d0db9a5a299636d5fba157dcf7e2f5cb84935b15784",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
-		},
-		
-		{
-
-
-			"user": "Marseille vs Nantes HD1",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K823.flv",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
+	
 		{
 
 
@@ -100,14 +85,14 @@
 		{
 
 			"user": "Real Sociedad vs Barcelona SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K805.flv",
+			"pageUrl": "https://google2-me.cdn.booyah.live/hls/1700003/120365226.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
 		{
 
 			"user": "Real Sociedad vs Barcelona HD",
-			"pageUrl": "http://fesrs.azureedge.net/stream/NDgzMQ==/1080p.m3u8",
+			"pageUrl": "http://sesou.azureedge.net/stream/NDg2Mg==/1080p.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
