@@ -37,7 +37,7 @@
 
 
 			"user": "Atalanta vs Milan HD2",
-			"pageUrl": "http://ciuou.azureedge.net/stream/NDg3NQ==/1080p.m3u8",
+			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000001/120370203.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -45,7 +45,7 @@
 
 
 			"user": "Atalanta vs Milan HD3",
-			"pageUrl": "http://ciuou.azureedge.net/stream/NDg3NQ==/1080p.m3u8",
+			"pageUrl": "http://gouoiu.azureedge.net/stream/NDg3NQ==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -53,7 +53,7 @@
 
 
 			"user": "Atalanta vs Milan HD4",
-			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000001/120370203.m3u8 ",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630279328548fc001d32d08f/630279328548fc001d32d08f.m3u8 ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -61,7 +61,7 @@
 
 
 			"user": "Bologna vs Hellas Verona HD1",
-			"pageUrl": "http://trabe.azureedge.net/stream/NDgyNw==/1080p.m3u8",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K831.flv",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -69,14 +69,22 @@
 
 
 			"user": "Bologna vs Hellas Verona HD2",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-161243.m3u8?auth_key=1661042301-0-0-8ddd1c45aa993ec203badfcc870c1f8d ",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K831.flv ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
 		{
 
 
-			"user": "Lille vs PSG SD",
+			"user": "Lille vs PSG SD ",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K831.flv ",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+{
+
+
+			"user": "Lille vs PSG HD1",
 			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/XluFTyJN06.flv ",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
@@ -84,8 +92,8 @@
 		{
 
 
-			"user": "Lille vs PSG HD",
-			"pageUrl": "https://sun.meta-scores.com/6be1f4209a/6be1f4209a@720p.m3u8 ",
+			"user": "Lille vs PSG HD2",
+			"pageUrl": "http://gouoiu.azureedge.net/stream/NDg3MQ==/1080p.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
