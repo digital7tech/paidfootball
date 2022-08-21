@@ -101,7 +101,7 @@
 
 
 			"user": "Napoli vs Monza HD1",
-			"pageUrl": "http://83.222.205.65:8080/football1_edge/index.m3u8?token=test",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K857.flv",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},	
@@ -109,8 +109,16 @@
 		{
 
 
-			"user": "Napoli vs Monza HD2",
-			"pageUrl": "http://nfdsrds.azureedge.net/stream/NDg3NA==/1080p.m3u8",
+			"user": "Napoli vs Monza HD3",
+			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000001/120370203.m3u8 ",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+{
+
+
+			"user": "Napoli vs Monza HD4",
+			"pageUrl": "http://uiooe.azureedge.net/stream/NDg3NA==/NDg3NA==.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -118,7 +126,7 @@
 
 
 			"user": "Napoli vs Monza HD3",
-			"pageUrl": "http://83.222.205.65:8080/football1_edge/index.m3u8?token=test ",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may101/index.m3u8?hdnts=exp=1661123935~acl=/may101*~hmac=03caebb8e82a5a07856d9124075e4ef057ca08641ca8a494a06d9147e8b187b7",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -127,7 +135,7 @@
 
 
 			"user": "Empoli vs Fiorentina HD1",
-			"pageUrl": "http://83.222.205.65:8080/football2_edge/index.m3u8?token=test",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K826.flv",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -135,7 +143,7 @@
 
 
 			"user": "Empoli vs Fiorentina HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may101/index.m3u8?hdnts=exp=1661123935~acl=/may101*~hmac=03caebb8e82a5a07856d9124075e4ef057ca08641ca8a494a06d9147e8b187b7",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K826.flv",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
