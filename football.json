@@ -65,14 +65,14 @@
 
 
 			"user": "Newcastle vs Manchester City HD4",
-			"pageUrl": "http://bwoud.azureedge.net/stream/NDg1OQ==/1080p.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6302471202d2c6001d76827f/6302471202d2c6001d76827f.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Bochum vs Bayern München SD",
+			"user": "Bochum vs Bayern München HD1",
 			"pageUrl": "http://doiop.azureedge.net/stream/NDg2NA==/1080p.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
@@ -80,23 +80,23 @@
 		{
 
 
-			"user": "Bochum vs Bayern München HD",
-			"pageUrl": "http://doiop.azureedge.net/stream/NDg2NA==/1080p.m3u8",
+			"user": "Bochum vs Bayern München HD2",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6302484274c613001d35ae89/6302484274c613001d35ae89.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
 		
 		{
 
-			"user": "Athletic Club vs Valencia SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K805.flv",
+			"user": "Athletic Club vs Valencia HD1",
+			"pageUrl": "http://doiop.azureedge.net/stream/NDg2MA==/1080p.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
 		{
 
-			"user": "Athletic Club vs Valencia HD",
-			"pageUrl": "http://fesrs.azureedge.net/stream/NDgzMQ==/1080p.m3u8",
+			"user": "Athletic Club vs Valencia HD2",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/630249ba02d2c6001d768281/630249ba02d2c6001d768281.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
