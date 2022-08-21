@@ -6,153 +6,17 @@
 
 	
 		
-		{
-
-
-			"user": "Newcastle vs Manchester City SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/RZZupj0c04.flv",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Newcastle vs Manchester City HD1(English)",
-			"pageUrl": "http://gouoiu.azureedge.net/stream/NDg1OQ==/1080p.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Newcastle vs Manchester City HD2",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1661116161-0-0-a903d6d74fd7d46bfa9afb6e58f34a93 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Newcastle vs Manchester City HD3 (English)",
-			"pageUrl": "https://standard-pull.lbotas.com/bd/10021_905567_lhd.m3u8?auth_key=1661180404-0-0-9b9d182bcdfd83164c1b705304ce3de1 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Newcastle vs Manchester City HD4",
-			"pageUrl": "https://google2-me.cdn.booyah.live/hls/1700003/120365226.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
+	
 		
-		
+	
 		{
 
-
-			"user": "Bochum vs Bayern München SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K818.flv",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-{
-
-
-			"user": "Bochum vs Bayern München HD1",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1661116521-0-0-38275a6868952bec162f35891c6ca6a7 ",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Bochum vs Bayern München HD2",
-			"pageUrl": "http://gouoiu.azureedge.net/stream/NDg2NA==/1080p.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-			"user": "Athletic Club vs Valencia SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K817.flv",
+			"user": "Atlético Madrid vs Villarreal HD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/index.m3u8?hdnts=exp=1661128377~acl=/may1SD*~hmac=03d04473d1cc9116f80b3d0db9a5a299636d5fba157dcf7e2f5cb84935b15784",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
 		
-		{
-
-			"user": "Athletic Club vs Valencia HD",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-107307.m3u8?auth_key=1661116581-0-0-5ff09b34cf67205aa02cb29d8cdb06dc ",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
-		},
-		
-		
-		{
-
-
-			"user": "Napoli vs Monza HD1",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K857.flv",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},	
-		
-		{
-
-
-			"user": "Napoli vs Monza HD2",
-			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000001/120370203.m3u8 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Napoli vs Monza HD3",
-			"pageUrl": "http://uiooe.azureedge.net/stream/NDg3NA==/NDg3NA==.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Napoli vs Monza HD4",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may101/index.m3u8?hdnts=exp=1661123935~acl=/may101*~hmac=03caebb8e82a5a07856d9124075e4ef057ca08641ca8a494a06d9147e8b187b7",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-
-		{
-
-
-			"user": "Empoli vs Fiorentina HD1",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K826.flv",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Empoli vs Fiorentina HD2",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K826.flv",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-			"user": "Atlético Madrid vs Villarreal HD1",
-			"pageUrl": "https://hls1.yuanzhi.org.cn/live/H686179.m3u8?txSecret=05f496df81a503a8c8c539edc4a171f8&txTime=63038E47&_s=stream",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
-		},
-		{
-
-			"user": "Atlético Madrid vs Villarreal HD2",
-			"pageUrl": "http://80.78.128.1:65437/play/UK-SuperSportLaLiga",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
-		},
 		{
 
 
@@ -165,7 +29,7 @@
 
 
 			"user": "Atalanta vs Milan HD1",
-			"pageUrl": "http://trabe.azureedge.net/stream/NDgyNw==/1080p.m3u8",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/GvvRd9kM03.flv",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -173,7 +37,7 @@
 
 
 			"user": "Atalanta vs Milan HD2",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-161243.m3u8?auth_key=1661042301-0-0-8ddd1c45aa993ec203badfcc870c1f8d ",
+			"pageUrl": "http://ciuou.azureedge.net/stream/NDg3NQ==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -181,7 +45,7 @@
 
 
 			"user": "Atalanta vs Milan HD3",
-			"pageUrl": "http://trabe.azureedge.net/stream/NDgyNw==/1080p.m3u8",
+			"pageUrl": "http://ciuou.azureedge.net/stream/NDg3NQ==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -189,7 +53,7 @@
 
 
 			"user": "Atalanta vs Milan HD4",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-161243.m3u8?auth_key=1661042301-0-0-8ddd1c45aa993ec203badfcc870c1f8d ",
+			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000001/120370203.m3u8 ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
