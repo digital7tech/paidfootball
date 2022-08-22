@@ -7,14 +7,22 @@
 	
 		
 	
+		{
+
+
+			"user": "Roma vs Cremonese SD",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K810.flv",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+	
+	
 		
-	
-	
 		{
 
 
 			"user": "Roma vs Cremonese HD1",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-190631.m3u8?auth_key=1661206761-0-0-5bcc189aea798b2c413723f52bb756d7 ",
+			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000000/120406691.m3u8 ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -22,7 +30,7 @@
 
 
 			"user": "Roma vs Cremonese HD2",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6303aa2b02d2c6001d7682f5/6303aa2b02d2c6001d7682f5.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/pD0vCtZ-StnBmFruypZxn92u_h0qViF5p2dH90xxQNO1-_X1WP6JX5y4idapgoy4MlTYcZxHBsosUE8plqOP0A/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -34,17 +42,18 @@
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
+		
 		{
 
 			"user": "Elche vs Almería SD",
-			"pageUrl": "https://google2-me.cdn.booyah.live/hls/1700003/120365226.m3u8",
+			"pageUrl": "https://est04.varcdn.top/setanta2/index.m3u8?SBN",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
 		{
 
 			"user": "Elche vs Almería HD",
-			"pageUrl": "http://sesou.azureedge.net/stream/NDg2Mg==/1080p.m3u8",
+			"pageUrl": "https://est04.varcdn.top/setanta2/index.m3u8?SBN",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
 		},
