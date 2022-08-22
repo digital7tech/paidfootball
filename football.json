@@ -7,41 +7,6 @@
 	
 		
 	
-		{
-
-
-			"user": "Roma vs Cremonese SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K810.flv",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-	
-	
-		
-		{
-
-
-			"user": "Roma vs Cremonese HD1",
-			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000000/120406691.m3u8 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Roma vs Cremonese HD2",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/pD0vCtZ-StnBmFruypZxn92u_h0qViF5p2dH90xxQNO1-_X1WP6JX5y4idapgoy4MlTYcZxHBsosUE8plqOP0A/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Roma vs Cremonese HD3",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6303aa2b02d2c6001d7682f5/6303aa2b02d2c6001d7682f5.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
 		
 		{
 
@@ -62,7 +27,7 @@
 
 
 			"user": "Sampdoria vs Juventus HD1",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/GvvRd9kM03.flv",
+			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000000/120406691.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -70,7 +35,7 @@
 
 
 			"user": "Sampdoria vs Juventus HD2",
-			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000001/120370203.m3u8",
+			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000000/120406691.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -78,7 +43,7 @@
 
 
 			"user": "Sampdoria vs Juventus HD3",
-			"pageUrl": "http://gouoiu.azureedge.net/stream/NDg3NQ==/1080p.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6303aa2b02d2c6001d7682f5/6303aa2b02d2c6001d7682f5.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -86,15 +51,15 @@
 
 
 			"user": "Manchester United vs Liverpool SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000001/120408935.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Manchester United vs Liverpool SD (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"user": "Manchester United vs Liverpool SD2 (English)",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qJCD__Ey67Jvs6KXG2RcVCLoEvQM-W0RgLyVvTw9pRpO2TExw1FRTeHS6eVrTIZJzrzQNwaXytHGNEyUIW1eyA/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -102,7 +67,7 @@
 
 
 			"user": "Manchester United vs Liverpool HD1 (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://reses.azureedge.net/stream/NDg4Mg==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -110,7 +75,7 @@
 
 
 			"user": "Manchester United vs Liverpool HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000000/120409376.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -118,7 +83,7 @@
 
 
 			"user": "Manchester United vs Liverpool HD3",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jgUW0Z1kHcGrGwN2h3iEJuaIapXIjCaBf8_ML4-woKpkHio34X4U7isn-0O7U8mbHFIIY_Wk-gA_6s-8CChvGA/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -126,7 +91,7 @@
 
 
 			"user": "Manchester United vs Liverpool HD4",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6303c7ba16cc9c001df7a35a/6303c7ba16cc9c001df7a35a.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -134,7 +99,7 @@
 
 
 			"user": "Manchester United vs Liverpool HD5",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6303c7ba16cc9c001df7a35a/6303c7ba16cc9c001df7a35a.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
