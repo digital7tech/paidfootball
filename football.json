@@ -4,142 +4,103 @@
 		
 
 
+{
+
+			"user": "Bolton vs Aston Villa",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "EFL CUP ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
 	
 		
 	
-		
-		{
-
-			"user": "Elche vs Almería SD",
-			"pageUrl": "https://est04.varcdn.top/setanta2/index.m3u8?SBN",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
-		},
-		{
-
-			"user": "Elche vs Almería HD",
-			"pageUrl": "https://est04.varcdn.top/setanta2/index.m3u8?SBN",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
-		},
-		 
-		{
-
-
-			"user": "Sampdoria vs Juventus HD1",
-			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000000/120406691.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Sampdoria vs Juventus HD2",
-			"pageUrl": "https://wow.p2plink.xyz:2083/secure/juv/chunklist_w1686923437_tkd293emF0b2tlbmVuZHRpbWU9MTY2MTE5NTQyMyZ3b3d6YXRva2VuaGFzaD0yRDgyZEhOdGgxRXUtazNTV1B6WXF5c3R6S1V0c2swTExxUXpHSExENXdLemRnM05qWWFSY2hoTlRRc0pSeWVnRm8tU1pNRnpOMUwzcUdZWU00YXRfZz09Jndvd3phdG9rZW5zdGFydHRpbWU9MTY2MTE5MzU2Mw==.m3u8?wowzatokenendtime=1661195423&amp;wowzatokenhash=2D82dHNth1Eu-k3SWPzYqystzKUtsk0LLqQzGHLD5wKzdg3NjYaRchhNTQsJRyegFo-SZMFzN1L3qGYYM4at_g==&amp;wowzatokenstarttime=1661193563",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
 {
 
-
-			"user": "Sampdoria vs Juventus HD3",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-137359.m3u8?auth_key=1661214261-0-0-fbcf71f3e6e16b21ade67c7560047615 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+			"user": "Wolves vs Preston NorthEnd",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "EFL CUP ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
-		{
-
-
-			"user": "Sampdoria vs Juventus HD4",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6303aa2b02d2c6001d7682f5/6303aa2b02d2c6001d7682f5.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Liverpool SD1",
-			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000001/120408935.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
+	
 
 {
 
-
-			"user": "Manchester United vs Liverpool SD2 (English)",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K801.flv",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+			"user": "Fleetwood Town vs Everton",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "EFL CUP ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
+	
 
-		{
-
-
-			"user": "Manchester United vs Liverpool SD (English)",
-			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Liverpool HD1 (English)",
-			"pageUrl": "http://reses.azureedge.net/stream/NDg4Mg==/1080p.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Liverpool HD2",
-			"pageUrl": "https://akamai2-me.cdn.booyah.live/hls_go/2000000/120409376.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Liverpool HD3 (English)",
-			"pageUrl": "http://kioos.azureedge.net/stream/NDg4Mg==/1080p.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Liverpool HD4",
-			"pageUrl": "https://standard-pull.lbotas.com/bd/10021_916158_lhd.m3u8?auth_key=1661280039-0-0-277624f7a99ca11e7eedf6f6244c4acc ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Liverpool HD5",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6303c7ba16cc9c001df7a35a/6303c7ba16cc9c001df7a35a.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Girona vs Getafe SD",
-			"pageUrl": "https://est04.varcdn.top/setanta2/index.m3u8?SBN",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
-		},
-		{
-
-			"user": "Girona vs Getafe HD",
-			"pageUrl": "https://est04.varcdn.top/setanta2/index.m3u8?SBN",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZytP4VpXBv_qPF0LGJWVeyUZoFD64x-Jsw&usqp=CAU"
-		},
-		
 
 {
 
-			"user": "PTV SPORTS 2",
+			"user": "Oxford United vs Crystal Palace",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "EFL CUP ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
+	
+
+{
+
+			"user": "Vitktoria Plzeñ vs Qarabağ SD",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+	
+
+{
+
+			"user": "Vitktoria Plzeñ vs Qarabağ HD",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
+
+
+{
+
+			"user": "Benfica vs Dynamo Kyiv SD",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+	
+{
+
+			"user": "Benfica vs Dynamo Kyiv HD",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
+{
+
+			"user": "Crvena Zvezda vs Maccabi Haifa SD",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
+{
+
+			"user": "Crvena Zvezda vs Maccabi Haifa HD",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+		},
+
+
+
+{
+
+			"user": "PTV SPORTS",
 			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
