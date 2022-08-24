@@ -4,10 +4,18 @@
 		
 
 
+
+{
+
+			"user": "Tranmere Rovers vs Newcastle SD",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K800.flv ",
+			"type": "EFL CUP ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
 {
 
 			"user": "Tranmere Rovers vs Newcastle HD1",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63066b0195a95b001da4df10/63066b0195a95b001da4df10.m3u8",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
 			"type": "EFL CUP ⚽️ ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
@@ -36,7 +44,7 @@
 {
 
 			"user": "PSV vs Rangers SD",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/63066d7202d2c6001d76839b/63066d7202d2c6001d76839b.m3u8",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K804.flv",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -52,7 +60,7 @@
 {
 
 			"user": "Dinamo Zagreb vs Bodø / Glimt HD",
-			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K801.flv",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
@@ -63,7 +71,7 @@
 {
 
 			"user": "Trabzonspor vs København SD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63066c288548fc001d32d1c5/63066c288548fc001d32d1c5.m3u8",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K805.flv",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
