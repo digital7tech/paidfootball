@@ -6,7 +6,14 @@
 
 {
 
-			"user": "Bolton vs Aston Villa",
+			"user": "Tranmere Rovers vs Newcastle HD1",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6305169c02d2c6001d76834b/6305169c02d2c6001d76834b.m3u8",
+			"type": "EFL CUP ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
+		{
+
+			"user": "Tranmere Rovers vs Newcastle HD2",
 			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6305169c02d2c6001d76834b/6305169c02d2c6001d76834b.m3u8",
 			"type": "EFL CUP ⚽️ ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
@@ -16,35 +23,26 @@
 	
 {
 
-			"user": "Wolves vs Preston NorthEnd",
+			"user": "Leeds United vs Barnsley",
 			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
 			"type": "EFL CUP ⚽️ ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
 	
 
-{
 
-			"user": "Fleetwood Town vs Everton",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630517013baef9001da9b69c/630517013baef9001da9b69c.m3u8",
-			"type": "EFL CUP ⚽️ ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
 	
 
-
 {
 
-			"user": "Oxford United vs Crystal Palace",
+			"user": "PSV vs Rangers SD",
 			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
-			"type": "EFL CUP ⚽️ ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
 		},
-	
+		{
 
-{
-
-			"user": "Vitktoria Plzeñ vs Qarabağ SD",
+			"user": "PSV vs Rangers HD",
 			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
@@ -53,7 +51,7 @@
 
 {
 
-			"user": "Vitktoria Plzeñ vs Qarabağ HD",
+			"user": "Dinamo Zagreb vs Bodø / Glimt HD",
 			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
@@ -64,7 +62,7 @@
 
 {
 
-			"user": "Benfica vs Dynamo Kyiv SD",
+			"user": "Trabzonspor vs København SD",
 			"pageUrl": "https://livestream.socialstreaming.tv/live/63051a2f457ba3001df93790/63051a2f457ba3001df93790.m3u8",
 			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
@@ -72,29 +70,20 @@
 	
 {
 
-			"user": "Benfica vs Dynamo Kyiv HD",
+			"user": "Barcelona vs Manchester City HD1",
 			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+			"type": "CLUB FIRENDLIES ⚽️ ",
+			"webFormatUrl": "https://cdn.mos.cms.futurecdn.net/LqHUm4B8vwGWAgEejAWH9g.jpg"
+		},
+		{
+
+			"user": "Barcelona vs Manchester City HD2",
+			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"type": "CLUB FIRENDLIES ⚽️ ",
+			"webFormatUrl": "https://cdn.mos.cms.futurecdn.net/LqHUm4B8vwGWAgEejAWH9g.jpg"
 		},
 
 
-{
-
-			"user": "Crvena Zvezda vs Maccabi Haifa SD",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6305190d02d2c6001d76834d/6305190d02d2c6001d76834d.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-
-{
-
-			"user": "Crvena Zvezda vs Maccabi Haifa HD",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6305190d02d2c6001d76834d/6305190d02d2c6001d76834d.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
 
 
 
