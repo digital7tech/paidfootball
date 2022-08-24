@@ -78,15 +78,22 @@
 	
 {
 
+			"user": "Barcelona vs Manchester City SD",
+			"pageUrl": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8 ",
+			"type": "CLUB FIRENDLIES ⚽️ ",
+			"webFormatUrl": "https://cdn.mos.cms.futurecdn.net/LqHUm4B8vwGWAgEejAWH9g.jpg"
+		},
+{
+
 			"user": "Barcelona vs Manchester City HD1",
-			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"pageUrl": "https://admdn1ta.cdn.mgmlcdn.com/adsports1/adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8 ",
 			"type": "CLUB FIRENDLIES ⚽️ ",
 			"webFormatUrl": "https://cdn.mos.cms.futurecdn.net/LqHUm4B8vwGWAgEejAWH9g.jpg"
 		},
 		{
 
 			"user": "Barcelona vs Manchester City HD2",
-			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
+			"pageUrl": "http://deswe.azureedge.net/stream/NDkwNw==/NDkwNw==.m3u8",
 			"type": "CLUB FIRENDLIES ⚽️ ",
 			"webFormatUrl": "https://cdn.mos.cms.futurecdn.net/LqHUm4B8vwGWAgEejAWH9g.jpg"
 		},
