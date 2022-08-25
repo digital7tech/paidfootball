@@ -5,6 +5,13 @@
 
 {
 
+			"user": "CHAMPIONS LEAGUE DRAW",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63078f04c095e9001c968a55/63078f04c095e9001c968a55.m3u8",
+			"type": " CHAMPIONS LEAGUE ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+{
+
 			"user": "Žalgiris vs Ludogorets",
 			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K803.flv",
 			"type": " UEFA Europa League ⚽️ ",
@@ -27,7 +34,7 @@
 		{
 
 			"user": "Sivasspor vs Malmö FF",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K810.flv",
 			"type": " UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -47,15 +54,29 @@
 		},
 		{
 
-			"user": "Viborg vs West Ham United",
+			"user": "Viborg vs West Ham United SD",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K814.flv",
+			"type": "  UEFA Europa Conference League⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+			"user": "Viborg vs West Ham United HD",
 			"pageUrl": "https://livestream.socialstreaming.tv/live/6307a28e3baef9001da9b75e/6307a28e3baef9001da9b75e.m3u8",
 			"type": "  UEFA Europa Conference League⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
 		{
 
-			"user": "Twente vs Fiorentina",
+			"user": "Twente vs Fiorentina SD",
 			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63078f04c095e9001c968a55/63078f04c095e9001c968a55.m3u8",
+			"type": "  UEFA Europa Conference League⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+			"user": "Twente vs Fiorentina HD",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
 			"type": "  UEFA Europa Conference League⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
@@ -69,7 +90,7 @@
 		{
 
 			"user": "Fehérvár vs Köln",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K807.flv",
 			"type": "  UEFA Europa Conference League⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
