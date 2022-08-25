@@ -3,101 +3,76 @@
 	"hits": [
 		
 
-
-
 {
 
-			"user": "Tranmere Rovers vs Newcastle SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K800.flv ",
-			"type": "EFL CUP ⚽️ ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-{
-
-			"user": "Tranmere Rovers vs Newcastle HD1",
-			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
-			"type": "EFL CUP ⚽️ ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+			"user": "Žalgiris vs Ludogorets",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K803.flv",
+			"type": " UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
 		{
 
-			"user": "Tranmere Rovers vs Newcastle HD2",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63066b0195a95b001da4df10/63066b0195a95b001da4df10.m3u8",
-			"type": "EFL CUP ⚽️ ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-	
-		
-	
-{
-
-			"user": "Leeds United vs Barnsley",
-			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
-			"type": "EFL CUP ⚽️ ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-	
-
-
-	
-
-{
-
-			"user": "PSV vs Rangers SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K804.flv",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
+			"user": "AEK Larnaca vs Dnipro-1",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K800.flv",
+			"type": " UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
 		{
 
-			"user": "PSV vs Rangers HD",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/63066d7202d2c6001d76839b/63066d7202d2c6001d76839b.m3u8",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-	
-
-{
-
-			"user": "Dinamo Zagreb vs Bodø / Glimt HD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K801.flv",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-
-
-
-
-{
-
-			"user": "Trabzonspor vs København SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K805.flv",
-			"type": "UEFA CHAMPIONS LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/1200px-UEFA_Champions_League_logo_2.svg.png"
-		},
-	
-{
-
-			"user": "Barcelona vs Manchester City SD",
-			"pageUrl": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8 ",
-			"type": "CLUB FIRENDLIES ⚽️ ",
-			"webFormatUrl": "https://cdn.mos.cms.futurecdn.net/LqHUm4B8vwGWAgEejAWH9g.jpg"
-		},
-{
-
-			"user": "Barcelona vs Manchester City HD1",
-			"pageUrl": "https://admdn1ta.cdn.mgmlcdn.com/adsports1/adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8 ",
-			"type": "CLUB FIRENDLIES ⚽️ ",
-			"webFormatUrl": "https://cdn.mos.cms.futurecdn.net/LqHUm4B8vwGWAgEejAWH9g.jpg"
+			"user": "Fenerbahçe vs Austria Wien",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"type": " UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
 		{
 
-			"user": "Barcelona vs Manchester City HD2",
-			"pageUrl": "http://deswe.azureedge.net/stream/NDkwNw==/NDkwNw==.m3u8",
-			"type": "CLUB FIRENDLIES ⚽️ ",
-			"webFormatUrl": "https://cdn.mos.cms.futurecdn.net/LqHUm4B8vwGWAgEejAWH9g.jpg"
+			"user": "Sivasspor vs Malmö FF",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"type": " UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
+		{
 
+			"user": "Silkeborg vs HJK",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"type": " UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+			"user": "Omonia Nicosia vs Gent",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"type": " UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+			"user": "Viborg vs West Ham United",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"type": "  UEFA Europa Conference League⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+			"user": "Twente vs Fiorentina",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"type": "  UEFA Europa Conference League⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+			"user": "Wolfsberger AC vs Molde",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"type": "  UEFA Europa Conference League⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+			"user": "Fehérvár vs Köln",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K802.flv",
+			"type": "  UEFA Europa Conference League⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
 
 
 
