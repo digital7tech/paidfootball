@@ -2,22 +2,7 @@
 
 	"hits": [
 		
-{
 
-
-			"user": "Monza vs Udinese HD1",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6308ec169457e7001d946952/6308ec169457e7001d946952.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Monza vs Udinese HD2",
-			"pageUrl": "http://146.59.19.1:80/5031/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
 		
 		{
 
@@ -48,7 +33,7 @@
 
 
 			"user": "Lazio vs Internazionale SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661541627~acl=%2F83edcaf7-ab11-4db3-90f9-d3854071a5d5%2F%2A~hmac=5c2e3af4c22389530ef8082667f596018c80f32c94ed1acc352ee844cbbfbf47/83edcaf7-ab11-4db3-90f9-d3854071a5d5/chunklist_b416000.m3u8?max_segments=10",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -56,7 +41,7 @@
 
 
 			"user": "Lazio vs Internazionale HD1",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/6309118699c48e001d11285a/6309118699c48e001d11285a.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -64,7 +49,7 @@
 
 
 			"user": "Lazio vs Internazionale HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661541627~acl=%2F83edcaf7-ab11-4db3-90f9-d3854071a5d5%2F%2A~hmac=5c2e3af4c22389530ef8082667f596018c80f32c94ed1acc352ee844cbbfbf47/83edcaf7-ab11-4db3-90f9-d3854071a5d5/chunklist_b416000.m3u8?max_segments=10",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -72,7 +57,7 @@
 
 
 			"user": "Lazio vs Internazionale HD3",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://sun.meta-scores.com/77997daa23/77997daa23@720p.m3u8  ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -81,11 +66,20 @@
 		{
 
 
-			"user": "Ajaccio vs Lille",
+			"user": "Luton Town vs Sheffield United",
 			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"type": "England - Championship⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
+		},
+		{
+
+
+			"user": "Ajaccio vs Lille",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/630914fe062383001dcddae5/630914fe062383001dcddae5.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
+		
 		
 		
 		
