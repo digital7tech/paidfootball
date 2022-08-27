@@ -1,18 +1,29 @@
 {
 
 	"hits": [
-		{
+{
 
 
 			"user": "Southampton vs Manchester United SD1",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K828.flv ",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+		{
+
+
+			"user": "Southampton vs Manchester United SD2",
 			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/O2jtmaod02.flv ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
+
 	{
 
 
-			"user": "Southampton vs Manchester United SD2",
+			"user": "Southampton vs Manchester United SD3",
 			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/UsRGNHwUOuqNmmk2NTw2oIvYCF5E7NWaM_5e01cnP-gUTBizQFr3wYqSlU2HOsgqeiFcEa5sqeeGr7ZOzamOPw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -60,11 +71,20 @@
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
+{
+
+
+			"user": "Sunderland vs Norwich",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K829.flv ",
+			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
+		},
 		{
 
 
 			"user": "RB Leipzig vs Wolfsburg HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63090817062383001dcddae1/63090817062383001dcddae1.m3u8",
+			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may4/playlist.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -88,7 +108,7 @@
 
 
 			"user": "Hertha BSC vs Borussia Dortmund HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63090817062383001dcddae1/63090817062383001dcddae1.m3u8",
+			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may41/chunklist.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
