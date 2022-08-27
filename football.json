@@ -6,22 +6,14 @@
 
 
 			"user": "Southampton vs Manchester United SD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6309f7c5b9f740001de3589e/6309f7c5b9f740001de3589e.m3u8",
+			"pageUrl": "https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1661620702-0-0-dc79a552c87afbab5c72eaa70ee3e4af ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Southampton vs Manchester United SD (English)",
-			"pageUrl": "http://yarans.azureedge.net/stream/NDkyNw==/1080p.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Southampton vs Manchester United HD1(English)",
+			"user": "Southampton vs Manchester United HD1 (English)",
 			"pageUrl": "http://yarans.azureedge.net/stream/NDkyNw==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -30,6 +22,14 @@
 
 
 			"user": "Southampton vs Manchester United HD2",
+			"pageUrl": "https://sun.meta-scores.com/2796d63ee5/2796d63ee5@720p.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Southampton vs Manchester United HD3",
 			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6309f7c5b9f740001de3589e/6309f7c5b9f740001de3589e.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
