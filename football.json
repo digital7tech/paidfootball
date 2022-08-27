@@ -2,158 +2,12 @@
 
 	"hits": [
 
-		{
-
-
-			"user": "RB Leipzig vs Wolfsburg HD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K838.flv",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Mainz 05 vs Bayer Leverkusen HD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K837.flv ",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Hoffenheim vs Augsburg HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63090817062383001dcddae1/63090817062383001dcddae1.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Hertha BSC vs Borussia Dortmund HD",
-			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may41/chunklist.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Schalke 04 vs Union Berlin HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63090817062383001dcddae1/63090817062383001dcddae1.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Leicester City SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/GvvRd9kM03.flv ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Leicester City HD (English)",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661611603~acl=%2F1edc3f96-eade-4938-bab2-9865d53dedae%2F%2A~hmac=db0f62010ad89e573bf9bebdf50590a85157973ce2b6b712af59482018a00b32/1edc3f96-eade-4938-bab2-9865d53dedae/chunklist_b2056000.m3u8?max_segments=10",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Leicester City HD2",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1661629642-0-0-1953c56c83bad5ba6eb5931d26ce3f60 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs AFC Bournemouth SD",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1661630062-0-0-73ea1d974b84a75e93e19cff6b0fe427 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs AFC Bournemouth HD (English)",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661611696~acl=%2F632dcea1-6eef-4caf-9920-dc4a7fe465a6%2F%2A~hmac=0ed2b7355ca033b9d90ffb16b5175726d2db239a3ead166d063adb269a8f719e/632dcea1-6eef-4caf-9920-dc4a7fe465a6/chunklist_b2056000.m3u8?max_segments=10",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs AFC Bournemouth HD2",
-			"pageUrl": "https://sun.meta-scores.com/e63fd1afe3/e63fd1afe3@720p.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Crystal Palace SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/4MiopUWr05.flv ,
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Crystal Palace HD (English)",
-			"pageUrl": "https://manchercpalacechgvb.s3.eu-central-1.amazonaws.com/playlist_1080p30.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Crystal Palace HD2",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1661629942-0-0-c5504d4c3035fa0a9940aa81db924b6e ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brentford vs Everton HD1",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-101511.m3u8?auth_key=1661630242-0-0-622e17c84e732bcebec5ca7ce99e6496 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brentford vs Everton HD2",
-			"pageUrl": "http://hgbnop.azureedge.net/stream/NDkyOA==/1080p.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton vs Leeds United SD",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-112129.m3u8?auth_key=1661630242-0-0-ee2672d2a09d05ab45b8e39d32c207ee ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Brighton vs Leeds United HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630a221099c48e001d1128bd/630a221099c48e001d1128bd.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		
 		
 		{
 
 
 			"user": "Auxerre vs Strasbourg",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/630914fe062383001dcddae5/630914fe062383001dcddae5.m3u8",
+			"pageUrl": "http://saveukraine.only4.tv/5589/index.m3u8?token=DjIekkqFg4",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -162,7 +16,7 @@
 
 
 			"user": "Elche vs Real Sociedad SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://80.78.128.1:65437/play/UK-SuperSportLaLiga",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
 		},
@@ -171,23 +25,23 @@
 
 
 			"user": "Arsenal vs Fulham SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/630a3f20c095e9001c968b30/630a3f20c095e9001c968b30.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Arsenal vs Fulham SD (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"user": "Arsenal vs Fulham SD",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/630a3f20c095e9001c968b30/630a3f20c095e9001c968b30.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Arsenal vs Fulham HD1(English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"user": "Arsenal vs Fulham HD1",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/630a3f20c095e9001c968b30/630a3f20c095e9001c968b30.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -195,7 +49,7 @@
 
 
 			"user": "Arsenal vs Fulham HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/630a3f20c095e9001c968b30/630a3f20c095e9001c968b30.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -203,7 +57,7 @@
 
 
 			"user": "Juventus vs Roma SD",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661541627~acl=%2F83edcaf7-ab11-4db3-90f9-d3854071a5d5%2F%2A~hmac=5c2e3af4c22389530ef8082667f596018c80f32c94ed1acc352ee844cbbfbf47/83edcaf7-ab11-4db3-90f9-d3854071a5d5/chunklist_b416000.m3u8?max_segments=10",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630a3ff4b9f740001de358ce/630a3ff4b9f740001de358ce.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -211,7 +65,7 @@
 
 
 			"user": "Juventus vs Roma HD1",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6309118699c48e001d11285a/6309118699c48e001d11285a.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630a3ff4b9f740001de358ce/630a3ff4b9f740001de358ce.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -219,7 +73,7 @@
 
 
 			"user": "Juventus vs Roma HD2",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661541627~acl=%2F83edcaf7-ab11-4db3-90f9-d3854071a5d5%2F%2A~hmac=5c2e3af4c22389530ef8082667f596018c80f32c94ed1acc352ee844cbbfbf47/83edcaf7-ab11-4db3-90f9-d3854071a5d5/chunklist_b416000.m3u8?max_segments=10",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630a3ff4b9f740001de358ce/630a3ff4b9f740001de358ce.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -227,7 +81,7 @@
 
 
 			"user": "Juventus vs Roma HD3",
-			"pageUrl": "https://sun.meta-scores.com/77997daa23/77997daa23@720p.m3u8  ",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630a3ff4b9f740001de358ce/630a3ff4b9f740001de358ce.m3u8 ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
