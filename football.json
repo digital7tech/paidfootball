@@ -5,130 +5,7 @@
 		
 		
 		
-		{
 
-
-			"user": "Elche vs Real Sociedad SD",
-			"pageUrl": "http://80.78.128.1:65437/play/UK-SuperSportLaLiga",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-
-			"user": "Arsenal vs Fulham SD1",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K801.flv ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Fulham SD2",
-			"pageUrl": "https://pull-hls-l11-sg01.ttlivecdn.com/game/stream-2993811857590714468_sd.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-{
-
-
-			"user": "Arsenal vs Fulham HD",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1661638642-0-0-b2bdf3f2756d7007d6a6de35e727b894 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Fulham HD1",
-			"pageUrl": "https://sun.meta-scores.com/d0f8acd382/d0f8acd382@720p.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Fulham HD2",
-			"pageUrl": "http://yarans.azureedge.net/stream/NDkzMw==/1080p.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Fulham HD3 (English)",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/vz5pLFQ7qm5iXdgriXZugdED7zEBMQn25L9Bb5Pc0zsxjDbZ2VRO7HA95y1rVVSVNBpKPMJwSPVOK0NgJ8fmvQ/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live  ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-{
-
-
-			"user": "Juventus vs Roma SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K852.flv ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
-		{
-
-
-			"user": "Juventus vs Roma HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630a3ff4b9f740001de358ce/630a3ff4b9f740001de358ce.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Juventus vs Roma HD1",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661619755~acl=%2F1f62a5a5-ea02-4e5a-8e10-349b04e758d6%2F%2A~hmac=f9c83052a71a066134a291cf0648872bea982d51996bec531034532ffbbfb2c2/1f62a5a5-ea02-4e5a-8e10-349b04e758d6/chunklist_b2056000.m3u8?max_segments=10",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
-		{
-
-
-			"user": "Juventus vs Roma HD3",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/KpolMOjmel40IyHAxxVgUKmiCkNwPh0eenm9M4xcniV4VQgpp7FSB17YnVeRTu2yIHIile4ltQpfB9p4b6Y2cg/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Cremonese vs Torino HD1",
-			"pageUrl": "http://191.96.100.144:8090/v/index.m3u8 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Cremonese vs Torino HD2",
-			"pageUrl": "http://191.96.100.144:8090/v/index.m3u8 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Bayern München vs Borussia M'gladbach SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K835.flv",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Bayern München vs Borussia M'gladbach  HD",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661621824~acl=%2F8b244866-af1e-4700-8644-feea8a8e2a51%2F%2A~hmac=e0f6e1308e184072aedcadee04d73cd95fd814a9211ba44d43c0ba9241d22d40/8b244866-af1e-4700-8644-feea8a8e2a51/chunklist_b728000.m3u8?max_segments=10 ",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
 		
 		{
 
@@ -182,7 +59,7 @@
 
 
 			"user": "Lens vs Rennes",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/630914fe062383001dcddae5/630914fe062383001dcddae5.m3u8",
+			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may41/chunklist.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
