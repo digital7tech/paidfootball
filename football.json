@@ -2,11 +2,11 @@
 
 	"hits": [
 
-		
-		
-		
 
-		
+
+
+
+
 		{
 
 
@@ -15,11 +15,10 @@
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
 		},
+
 		{
-
-
 			"user": "Milan vs Bologna HD1",
-			"pageUrl": "https://be8875899674.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.273628872092.channel.sj5GaWCCLzPL.m3u8",
+			"pageUrl": "https://sun.meta-scores.com/5ced5e0193/5ced5e0193@720p.m3u8 ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -27,6 +26,16 @@
 
 
 			"user": "Milan vs Bologna HD2",
+			"pageUrl": "http://191.96.100.144:8090/v/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+
+
+		{
+
+
+			"user": "Milan vs Bologna HD3",
 			"pageUrl": "https://be8875899674.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.273628872092.channel.sj5GaWCCLzPL.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
@@ -34,11 +43,12 @@
 		{
 
 
-			"user": "Milan vs Bologna HD3",
-			"pageUrl": "http://cxlope.azureedge.net/stream/NDk0MA==/1080p.m3u8",
+			"user": "Milan vs Bologna HD4",
+			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661628339~acl=%2F1f62a5a5-ea02-4e5a-8e10-349b04e758d6%2F%2A~hmac=145beabf21546758df41220d95b48c7b034da70cc1ed4dc28e5bbd026d1938f3/1f62a5a5-ea02-4e5a-8e10-349b04e758d6/chunklist_b2056000.m3u8?max_segments=10",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
+
 		{
 
 
@@ -51,7 +61,7 @@
 
 
 			"user": "Spezia vs Sassuolo HD2",
-			"pageUrl": "http://191.96.100.144:8090/v/index.m3u8",
+			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may12/playlist.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -63,7 +73,7 @@
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
-{
+		{
 
 
 			"user": "Almería vs Sevilla SD",
@@ -80,7 +90,7 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
 		},
 
-{
+		{
 
 			"user": "PTV SPORTS",
 			"pageUrl": "http://191.96.100.144:8090/ptv1/index.m3u8",
