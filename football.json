@@ -19,7 +19,7 @@
 
 
 			"user": "Milan vs Bologna HD1",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6309118699c48e001d11285a/6309118699c48e001d11285a.m3u8",
+			"pageUrl": "https://be8875899674.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.273628872092.channel.sj5GaWCCLzPL.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -27,7 +27,7 @@
 
 
 			"user": "Milan vs Bologna HD2",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661541627~acl=%2F83edcaf7-ab11-4db3-90f9-d3854071a5d5%2F%2A~hmac=5c2e3af4c22389530ef8082667f596018c80f32c94ed1acc352ee844cbbfbf47/83edcaf7-ab11-4db3-90f9-d3854071a5d5/chunklist_b416000.m3u8?max_segments=10",
+			"pageUrl": "https://be8875899674.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.273628872092.channel.sj5GaWCCLzPL.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -35,7 +35,7 @@
 
 
 			"user": "Milan vs Bologna HD3",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6309118699c48e001d11285a/6309118699c48e001d11285a.m3u8",
+			"pageUrl": "http://cxlope.azureedge.net/stream/NDk0MA==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
