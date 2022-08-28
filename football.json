@@ -4,39 +4,6 @@
 		
 	
 
-
-		{
-			"user": "Hellas Verona vs Atalanta SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K803.flv ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Hellas Verona vs Atalanta HD2",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/630b9155963de2001d5179ad/630b9155963de2001d5179ad.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-
-
-		{
-
-
-			"user": "Salernitana vs Sampdoria SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K823.flv",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Salernitana vs Sampdoria HD",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/KpolMOjmel40IyHAxxVgUKmiCkNwPh0eenm9M4xcniV4VQgpp7FSB17YnVeRTu2yIHIile4ltQpfB9p4b6Y2cg/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
 {
 
 
@@ -61,6 +28,14 @@
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
 		},
+{
+
+
+			"user": "Barcelona vs Real Valladolid HD3",
+			"pageUrl": "https://dcvvv-usea.streaming.media.azure.net/8995d10b-7932-461d-9b8e-6a4386a330e4/912441c5-765d-42f6-9663-c7e8c5c4c7b4.ism/manifest(format=m3u8-cmaf).m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
+		},
 		
 		{
 			"user": "Fiorentina vs Napoli SD",
@@ -68,11 +43,12 @@
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
+		
 		{
 
 
-			"user": "Fiorentina vs Napoli HD2",
-			"pageUrl": "http://191.96.100.144:8090/v/index.m3u8",
+			"user": "Fiorentina vs Napoli HD1",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630bb0e0062383001dcddbd3/630bb0e0062383001dcddbd3.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -80,7 +56,7 @@
 
 
 			"user": "Fiorentina vs Napoli HD2",
-			"pageUrl": "https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/chunklist.m3u8",
+			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661713260~acl=%2Fb3137531-f5e2-433b-9486-16dccb19f4cd%2F%2A~hmac=8498e3a90f9b5050448466d057c763861da2153de98c3dd039a2ad05458d1e46/b3137531-f5e2-433b-9486-16dccb19f4cd/chunklist_b2056000.m3u8?max_segments=10",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -90,7 +66,7 @@
 
 
 			"user": "Lecce vs Empoli HD1",
-			"pageUrl": "https://be8875899674.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.273628872092.channel.sj5GaWCCLzPL.m3u8",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K827.flv",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -98,7 +74,7 @@
 
 
 			"user": "Lecce vs Empoli HD2",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661628339~acl=%2F1f62a5a5-ea02-4e5a-8e10-349b04e758d6%2F%2A~hmac=145beabf21546758df41220d95b48c7b034da70cc1ed4dc28e5bbd026d1938f3/1f62a5a5-ea02-4e5a-8e10-349b04e758d6/chunklist_b2056000.m3u8?max_segments=10",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K827.flv",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
