@@ -4,38 +4,7 @@
 		
 	
 
-{
 
-
-			"user": "Barcelona vs Real Valladolid SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Barcelona vs Real Valladolid HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Barcelona vs Real Valladolid HD2",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/630b9ec5b06c44001dfdf09a/630b9ec5b06c44001dfdf09a.m3u8",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
-		},
-{
-
-
-			"user": "Barcelona vs Real Valladolid HD3",
-			"pageUrl": "https://dcvvv-usea.streaming.media.azure.net/8995d10b-7932-461d-9b8e-6a4386a330e4/912441c5-765d-42f6-9663-c7e8c5c4c7b4.ism/manifest(format=m3u8-cmaf).m3u8",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
-		},
 		
 		{
 			"user": "Fiorentina vs Napoli SD",
@@ -106,17 +75,25 @@
 
 
 			"user": "Espanyol vs Real Madrid SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
 		},
 		{
 
 
-			"user": "Espanyol vs Real Madrid HD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"user": "Espanyol vs Real Madrid HD1",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+		},
+		{
+
+
+			"user": "Espanyol vs Real Madrid HD2",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630bc1e1062383001dcddbd5/630bc1e1062383001dcddbd5.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
 		},
 
 
