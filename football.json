@@ -133,15 +133,23 @@
 
 
 			"user": "Barcelona vs Real Valladolid SD",
-			"pageUrl": "http://80.78.128.1:65437/play/UK-SuperSportLaLiga",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Barcelona vs Real Valladolid HD",
-			"pageUrl": "http://80.78.128.1:65437/play/UK-SuperSportLaLiga",
+			"user": "Barcelona vs Real Valladolid HD1",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
+			"type": "SPANISH LA LIGA ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Barcelona vs Real Valladolid HD2",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/630b9ec5b06c44001dfdf09a/630b9ec5b06c44001dfdf09a.m3u8",
 			"type": "SPANISH LA LIGA ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/upload012/12/premier-league-logo-vector.png"
 		},
