@@ -6,16 +6,22 @@
 		{
 
 			"user": "Cadiz vs Athletic Club SD",
-			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8 ",
 			"type": "Spanish La liga ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
 		},
 
-
 		{
 
 			"user": "Cadiz vs Athletic Club HD",
-			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may8/may8@456.m3u8 ",
+			"type": "Spanish La liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
+		},
+{
+
+			"user": "Cadiz vs Athletic Club HD2",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630cf77799c48e001d1129a3/630cf77799c48e001d1129a3.m3u8",
 			"type": "Spanish La liga ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
 		},
