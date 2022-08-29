@@ -3,103 +3,41 @@
 	"hits": [
 		
 	
-
-
-		
-		{
-			"user": "Fiorentina vs Napoli SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
 		{
 
-
-			"user": "Fiorentina vs Napoli HD1",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630bb0e0062383001dcddbd3/630bb0e0062383001dcddbd3.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Fiorentina vs Napoli HD2",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661713260~acl=%2Fb3137531-f5e2-433b-9486-16dccb19f4cd%2F%2A~hmac=8498e3a90f9b5050448466d057c763861da2153de98c3dd039a2ad05458d1e46/b3137531-f5e2-433b-9486-16dccb19f4cd/chunklist_b2056000.m3u8?max_segments=10",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+			"user": "Cadiz vs Athletic Club SD",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "Spanish La liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
 		},
 
 
 		{
 
-
-			"user": "Lecce vs Empoli HD1",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K827.flv",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+			"user": "Cadiz vs Athletic Club HD",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "Spanish La liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
 		},
+
+
+
 		{
 
-
-			"user": "Lecce vs Empoli HD2",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K827.flv",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+			"user": "Valencia vs Atlético Madrid SD",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "Spanish La liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
 		},
+
+
 		{
 
-
-			"user": "PSG vs Monaco SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Valencia vs Atlético Madrid HD",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "Spanish La liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
 		},
-		{
-
-
-			"user": "PSG vs Monaco HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "PSG vs Monaco HD2",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/630bb1861e7bb5001d862438/630bb1861e7bb5001d862438.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Espanyol vs Real Madrid SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
-		},
-		{
-
-
-			"user": "Espanyol vs Real Madrid HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
-		},
-		{
-
-
-			"user": "Espanyol vs Real Madrid HD2",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630bc1e1062383001dcddbd5/630bc1e1062383001dcddbd5.m3u8",
-			"type": "SPANISH LA LIGA ⚽️ ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
-		},
-
-
-
-
-
 		{
 
 			"user": "PTV SPORTS",
