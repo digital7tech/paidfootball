@@ -31,7 +31,7 @@
 		{
 
 			"user": "Valencia vs Atlético Madrid SD",
-			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8 ",
 			"type": "Spanish La liga ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
 		},
@@ -39,8 +39,15 @@
 
 		{
 
-			"user": "Valencia vs Atlético Madrid HD",
-			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"user": "Valencia vs Atlético Madrid HD1",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may8/may8@456.m3u8 ",
+			"type": "Spanish La liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
+		},
+{
+
+			"user": "Valencia vs Atlético Madrid HD2",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630d147f99c48e001d1129a8/630d147f99c48e001d1129a8.m3u8",
 			"type": "Spanish La liga ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
 		},
