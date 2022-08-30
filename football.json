@@ -1,38 +1,40 @@
 {
 
 	"hits": [
-		
 		{
 
 
-			"user": "Crystal Palace vs Brentford SD",
+			"user": "Crystal Palace vs Brentford SD (English)",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K800.flv ",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+
+		{
+
+
+			"user": "Crystal Palace vs Brentford HD",
 			"pageUrl": "https://sun.meta-scores.com/5c71a4fc23/5c71a4fc23@720p.m3u8 ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-{
 
-
-			"user": "Crystal Palace vs Brentford SD",
-			"pageUrl": "https://cdn1.kickofsport.com/live/ch2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIyIDY6MjU6MDQgUE0maGFzaF92YWx1ZT0wbVNRUG1QMGFQaDRTbkFIcElEaFN3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMDUuMTEyLjE2NC4yMTcmc3RybV9sZW49NQ== ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
 		
+		
+
 		{
 
 
-			"user": "Crystal Palace vs Brentford HD1",
-			"pageUrl": "https://live-ak.vimeocdn.com/exp=1661885910~acl=%2F7a91a965-eb8f-49ba-a8dd-4697ce5837ac%2F%2A~hmac=22a6aedc0823122601509dd98b7dfa2e9409f0d078575a336026ffbb2559b278/7a91a965-eb8f-49ba-a8dd-4697ce5837ac/chunklist_b2056000.m3u8?max_segments=10",
+			"user": "Fulham vs Brighton SD1",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-
 		{
 
 
-			"user": "Fulham vs Brighton SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
+			"user": "Fulham vs Brighton SD2",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K801.flv ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -110,20 +112,13 @@
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
-			{
-
-
-			"user": "Leeds United vs Everton SD",
-			"pageUrl": "https://cdn6.kickofsport.com/live/ch2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIyIDY6NTU6MTUgUE0maGFzaF92YWx1ZT1TM3hJYWwvdUVhMnBMcWhpbFpoaVl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMDUuMTEyLjE2NC4yMTcmc3RybV9sZW49NQ==",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
+			
 		
 		{
 
 
 			"user": "Leeds United vs Everton HD1",
-			"pageUrl": "https://cdn6.kickofsport.com/live/ch2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIyIDY6NTU6MTUgUE0maGFzaF92YWx1ZT1TM3hJYWwvdUVhMnBMcWhpbFpoaVl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMDUuMTEyLjE2NC4yMTcmc3RybV9sZW49NQ==",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K804.flv ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -131,7 +126,7 @@
 
 
 			"user": "Leeds United vs Everton HD2",
-			"pageUrl": "https://cdn6.kickofsport.com/live/ch2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIyIDY6NTU6MTUgUE0maGFzaF92YWx1ZT1TM3hJYWwvdUVhMnBMcWhpbFpoaVl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMDUuMTEyLjE2NC4yMTcmc3RybV9sZW49NQ==",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K804.flv ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
