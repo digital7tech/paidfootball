@@ -3,252 +3,117 @@
 	"hits": [
 		
 		
-		{
-
-
-			"user": "Lyon vs Auxerre HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may6/may6@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Monaco vs Troyes HD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K827.flv",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Angers SCO vs Reims HD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K825.flv",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		
-		{
-
-
-			"user": "Montpellier vs Ajaccio HD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K828.flv",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		
-		{
-
-
-			"user": "Arsenal vs Aston Villa SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Aston Villa HD1",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1661991982-0-0-6ee067394577bb274151b1e9dcbc679c ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Arsenal vs Aston Villa HD2",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/N0oRFBUTDKDugktjKxUuwOqKJVGlefyFXVnITvylukbFpOxyjYk7YqgIx9BPxhDKZ7prVZc8HZoaN3Hg0owygA/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		{
-
-
-			"user": "Manchester City vs Nottingham SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Nottingham HD1",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630fa06dd61375001dfc71c2/630fa06dd61375001dfc71c2.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		{
-
-
-			"user": "Manchester City vs Nottingham HD2",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/TV23rj1uy-Q5ELOw96wb3M5vMkWmGsecW6nqR-xqn9a4I0pNl04Z0s58CHiHksDOr1Ex1l8C4MI9PST79ayb6A/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-		
-		
-
-		{
-
-
-			"user": "Bournemouth vs Wolves SD",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K805.flv",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-
-			"user": "Bournemouth vs Wolves HD",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/5pTgP4HX9SGN9uCIxCQ0mFAlmGO-_qatbZW57mvLhNkGWaVjnKPRj05lqvvY4kYqlJ5cDzmpBlpkjzb7qNsEbQ/non_transcode/us-west-2/periscope-replay-direct-live/st_master_dynamic_highlatency.m3u8?type=live ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
 	
-		{
+{
 
 
-			"user": "WestHam vs Tottenham SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/nenSD/nenSD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-
-			"user": "WestHam vs Tottenham HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/nenSD/nenSD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "WestHam vs Tottenham HD2",
-			"pageUrl": "https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-
-			"user": "Juventus vs Spezia HD1",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K837.flv",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Juventus vs Spezia HD2",
+			"user": "Bologna vs Salernitana HD1",
 			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K837.flv ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
-		{
+{
 
 
-			"user": "Napoli vs Lecce HD1",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K838.flv",
+			"user": "Bologna vs Salernitana HD2",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K837.flv ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
-		{
 
 
-			"user": "Napoli vs Lecce HD2",
-			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K838.flv",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
 
 
-			"user": "Viktoria Köln vs Bayern München",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/630e4b1e9457e7001d946b28/630e4b1e9457e7001d946b28.m3u8",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/DFB-Pokal_logo_2016.svg"
-		},
-		{
 
 
-			"user": "Liverpool vs Newcastle SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
+
 		
 		{
 
 
-			"user": "Liverpool vs Newcastle HD1",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630fa3a17041d0001d07b3f7/630fa3a17041d0001d07b3f7.m3u8",
+			"user": "Atalanta vs Torino HD1",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K837.flv",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+
+
+		{
+
+
+			"user": "Atalanta vs Torino HD2",
+			"pageUrl": "https://cdn2-sports.gxpeihuchuang.com/live/K837.flv",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		
+		
+	
+		{
+
+
+			"user": "Leicester vs Manchester United SD",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
+
+	
 		{
 
 
-			"user": "Liverpool vs Newcastle HD2",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/630fa3a17041d0001d07b3f7/630fa3a17041d0001d07b3f7.m3u8",
+			"user": "Leicester vs Manchester United SD (English)",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
+
+	
 		{
 
 
-			"user": "Toulouse vs PSG HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Leicester vs Manchester United HD1",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
+
+	
 		{
 
 
-			"user": "Toulouse vs PSG HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may6/may6@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Leicester vs Manchester United HD2",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
+
+	
 		{
 
 
-			"user": "Marseille vs Clermont HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may121/may121@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Leicester vs Manchester United HD3",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+
+	
 		{
 
 
-			"user": "Lens vs Lorient HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Leicester vs Manchester United HD4",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		{
 
 
-			"user": "Rennes vs Brest HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
 
-
-			"user": "Lille vs Nice HD",
-			"pageUrl": "http://saveukraine.only4.tv/5590/index.m3u8?token=DjIekkqFg4",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
 		{
 
 			"user": "PTV SPORTS",
