@@ -4,108 +4,74 @@
 		
 		
 	
+
+		{
+
+			"user": "Benfica vs Vizela HD",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJX1It5GMyExC5arx4-N3VtJVz5fAIECo2Q&usqp=CAU"
+		},
+
+		{
+
+			"user": "Borussia Dortmund vs Hoffenheim HD1",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "BUNDESLIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
+		},
+
+
+
+		{
+
+			"user": "Borussia Dortmund vs Hoffenheim HD2",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "BUNDESLIGA ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
+		},
+
+
+		{
+
+			"user": "Celta de Vigo vs Cadiz SD",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
+		},
+
+		{
+
+			"user": "Celta de Vigo vs Cadiz HD",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAVZ_wumE_tfMMzgczOGUoCa6WVlocKud0w&usqp=CAU"
+		},
+
+
+		{
+
+			"user": "WestBrom vs Burnley HD1",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TWkVBsfHhhfEqQinALUcoKRFlU5q0Yj0SA&usqp=CAU"
+		},
 {
 
-
-			"user": "Bologna vs Salernitana",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-
-
-
-
-
-
-
-		
-		{
-
-
-			"user": "Atalanta vs Torino HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+			"user": "WestBrom vs Burnley HD2",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "ENGLISH CHAMPIONSHIP ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TWkVBsfHhhfEqQinALUcoKRFlU5q0Yj0SA&usqp=CAU"
 		},
 
 
 		{
 
-
-			"user": "Atalanta vs Torino HD2",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/6310f6607d6568001da03019/6310f6607d6568001da03019.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+			"user": "Estoril vs Sporting CP HD",
+			"pageUrl": "http://191.96.100.144:8090/PT-1/index.m3u8 ",
+			"type": "PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJX1It5GMyExC5arx4-N3VtJVz5fAIECo2Q&usqp=CAU"
 		},
-		
-		
-	
-		{
-
-
-			"user": "Leicester vs Manchester United SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	
-		{
-
-
-			"user": "Leicester vs Manchester United SD (English)",
-			"pageUrl": "https://lshstream.xyz/hls/allsportsicu01/index.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	
-		{
-
-
-			"user": "Leicester vs Manchester United HD1 (English)",
-			"pageUrl": "https://5d01cf1dcc70.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.752662923171.channel.E0G6g2aVqsOO.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	
-		{
-
-
-			"user": "Leicester vs Manchester United HD2",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6310f876725187001c81bb12/6310f876725187001c81bb12.m3u8 ",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-	
-		{
-
-
-			"user": "Leicester vs Manchester United HD3",
-			"pageUrl": "https://cdn3.kickofsport.com/live/ch1/playlist.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-	
-		{
-
-
-			"user": "Leicester vs Manchester United HD4",
-			"pageUrl": "https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/chunklist.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-
 		{
 
 			"user": "PTV SPORTS",
