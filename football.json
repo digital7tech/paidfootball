@@ -17,7 +17,7 @@
 
 
 			"user": "Everton vs Liverpool HD1 (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://alternateserver3.azureedge.net/hls/usa/chunks.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -25,6 +25,14 @@
 
 
 			"user": "Everton vs Liverpool HD2",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63132f92758a83001c60618e/63132f92758a83001c60618e.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Everton vs Liverpool HD3",
 			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63132f92758a83001c60618e/63132f92758a83001c60618e.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
