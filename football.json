@@ -217,8 +217,16 @@
 		{
 
 
+			"user": "Auxerre vs Marseille SD",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662303398-0-0-159f8c4deeae9a4263fdda16b3cef171 ",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
 			"user": "Auxerre vs Marseille HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "https://syswcknhuva.cdnexpress42.net:8443/hls/6jmuc94a795ahy.m3u8?s=pQtXqx-wqCgBS3m4hi56bQ&e=1662238941 ",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
