@@ -7,46 +7,6 @@
 
 	
 	
-		{
-
-
-			"user": "Aston Villa vs Manchester City SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Aston Villa vs Manchester City HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Aston Villa vs Manchester City HD2",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63137afe758a83001c6061b5/63137afe758a83001c6061b5.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Frankfurt vs RB Leipzig HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Frankfurt vs RB Leipzig HD2",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/63137e6a352e09001cf67bf6/63137e6a352e09001cf67bf6.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
 		
 		
 		{
@@ -91,7 +51,7 @@
 
 
 			"user": "Lazio vs Napoli HD1",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428436_lhd.flv?auth_key=1662307243-0-0-f63fec5e7f562c2e79a9d3407931276b ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -99,7 +59,7 @@
 
 
 			"user": "Lazio vs Napoli HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428436_lhd.flv?auth_key=1662307243-0-0-f63fec5e7f562c2e79a9d3407931276b ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
