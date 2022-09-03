@@ -7,71 +7,6 @@
 
 	
 	
-		
-		
-		
-		
-		{
-
-
-			"user": "Auxerre vs Marseille SD",
-			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662303398-0-0-159f8c4deeae9a4263fdda16b3cef171 ",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Auxerre vs Marseille HD",
-			"pageUrl": "https://syswcknhuva.cdnexpress42.net:8443/hls/6jmuc94a795ahy.m3u8?s=pQtXqx-wqCgBS3m4hi56bQ&e=1662238941 ",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-			{
-
-
-			"user": "Milan vs Internazionale HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			
-			{
-
-
-			"user": "Milan vs Internazionale HD2",
-			"pageUrl": "https://pullalilive.livnvess.com/live/stream-220098.m3u8?auth_key=1662242063-0-0-d18f030f217e265f1a9ad0082c8c3abc ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Milan vs Internazionale HD3",
-			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1662305257-0-0-baa77397667c146709155c5f5b8e1043 ",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
-			{
-
-
-			"user": "Milan vs Internazionale HD4",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/631379648d533a001de681aa/631379648d533a001de681aa.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
 		{
 
 
@@ -188,7 +123,7 @@
 
 
 			"user": "Sevilla vs Barcelona SD",
-			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8 ",
 			"type": "⚽️ ",
 			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 	
@@ -198,7 +133,7 @@
 
 
 			"user": "Sevilla vs Barcelona HD",
-			"pageUrl": "http://trapop.azureedge.net/stream/NDc2Mg==/1080p.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8 ",
 			"type": "⚽️ ",
 			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 	
