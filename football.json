@@ -6,79 +6,280 @@
 	
 
 	
-	
-		
-		
-		
-		
-		{
+	{
 
 
-			"user": "Lyon vs Angers SCO SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Lyon vs Angers SCO SD",
-			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428419_lhd.flv?auth_key=1662303398-0-0-c4afb91f599dd7ff9f0650d138b0db0d ",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		
-		{
-
-
-			"user": "Lazio vs Napoli HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Lazio vs Napoli HD2",
-			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428436_lhd.flv?auth_key=1662307243-0-0-f63fec5e7f562c2e79a9d3407931276b ",
+			"user": "Cremonese vs Sassuolo HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
 		{
 
 
-			"user": "Nantes vs PSG SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
+			"user": "Cremonese vs Sassuolo HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Montpellier vs Lille SD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 		{
 
 
-			"user": "Nantes vs PSG HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
+			"user": "Montpellier vs Lille HD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
-		{
-
-
-			"user": "Sevilla vs Barcelona SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8 ",
-			"type": "⚽️ ",
-			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-	
-},
+		
 		
 		{
 
 
-			"user": "Sevilla vs Barcelona HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8 ",
-			"type": "⚽️ ",
-			"webFormatUrl": "https://uploimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-	
-},
+			"user": "Osasuna vs Rayo Vallecano HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+		},
+		
+		{
+
+
+			"user": "Brighton vs Leicester City SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Brighton vs Leicester City HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Brighton vs Leicester City HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
+	{
+
+
+			"user": "Spezia vs Bologna HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Spezia vs Bologna HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Brest vs Strasbourg HD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Reims vs Lens HD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Clermont vs Toulouse HD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Ajaccio vs Lorient HD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Augsburg vs Hertha BSC SD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Augsburg vs Hertha BSC HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+			
+		{
+
+
+			"user": "Athletic Club vs Espanyol HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+		},
+		
+		{
+
+
+			"user": "Troyes vs Rennes HD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Manchester United vs Arsenal SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Manchester United vs Arsenal SD (English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Manchester United vs Arsenal HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Manchester United vs Arsenal HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Borussia M'gladbach vs Mainz 05 SD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Borussia M'gladbach vs Mainz 05 HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		
+	{
+
+
+			"user": "Hellas Verona vs Sampdoria HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Hellas Verona vs Sampdoria HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Villarreal vs Elche HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+		},
+		
+		{
+
+
+			"user": "Udinese vs Roma HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Udinese vs Roma HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		
+		{
+
+
+			"user": "Nice vs Monaco SD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Nice vs Monaco HD",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		
+		{
+
+
+			"user": "Valencia vs Getafe SD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+		},
+		{
+
+
+			"user": "Valencia vs Getafe HD",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+		},
 		{
 
 			"user": "PTV SPORTS",
