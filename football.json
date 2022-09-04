@@ -7,22 +7,6 @@
 
 	
 	
-		{
-
-
-			"user": "Montpellier vs Lille SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Montpellier vs Lille HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
 		
 		
 		{
@@ -46,7 +30,7 @@
 
 
 			"user": "Brighton vs Leicester City HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
+			"pageUrl": "https://lshstream.xyz/hls/allsportsicu01/index.m3u8?Pericopalotes135",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -55,6 +39,14 @@
 
 			"user": "Brighton vs Leicester City HD2",
 			"pageUrl": "https://livestream.socialstreaming.tv/live/63149704a7759e001d46bad7/63149704a7759e001d46bad7.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+{
+
+
+			"user": "Brighton vs Leicester City HD3",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428429_lhd.flv?auth_key=1662380592-0-0-b3a3e3458f495e16397047abdfcb16e5 ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -79,7 +71,7 @@
 
 
 			"user": "Brest vs Strasbourg HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_905568_lhd.flv?auth_key=1662381468-0-0-5ddb6418a9b01c9422cc4b4b0aee7b21 ",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -103,7 +95,7 @@
 
 
 			"user": "Ajaccio vs Lorient HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428445_lhd.flv?auth_key=1662381628-0-0-3094c7ba03e7102253bb614857677d80 ",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -111,7 +103,7 @@
 
 
 			"user": "Augsburg vs Hertha BSC SD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may12/chunklist.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
@@ -119,7 +111,7 @@
 
 
 			"user": "Augsburg vs Hertha BSC HD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"pageUrl": "https://179720687.global.cdnfastest.com/live/may12/chunklist.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
