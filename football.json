@@ -2,19 +2,13 @@
 	"hits": [
 		
 		
-	
-
-	
-	
-		
-	
 		
 		
 		
 	{
 
 
-			"user": "Hellas Verona vs Sampdoria HD1",
+			"user": "Monza vs Atalanta HD1",
 			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662392114-0-0-a6836182c40fb5de0323c5b17d017634 ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
@@ -22,7 +16,7 @@
 		{
 
 
-			"user": "Hellas Verona vs Sampdoria HD2",
+			"user": "Monza vs Atalanta HD2",
 			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662392114-0-0-a6836182c40fb5de0323c5b17d017634 ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
@@ -30,25 +24,8 @@
 		{
 
 
-			"user": "Villarreal vs Elche HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may61/may61@456.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
-		},
-		
-		{
-
-
-			"user": "Udinese vs Roma HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Udinese vs Roma HD2",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/6314e4f5294a2f001ccce6ff/6314e4f5294a2f001ccce6ff.m3u8",
+			"user": "Salernitana vs Empoli HD1",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662392114-0-0-a6836182c40fb5de0323c5b17d017634 ",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -56,32 +33,32 @@
 		{
 
 
-			"user": "Nice vs Monaco SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Salernitana vs Empoli HD2",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662392114-0-0-a6836182c40fb5de0323c5b17d017634 ",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
 		{
 
 
-			"user": "Nice vs Monaco HD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+			"user": "Torino vs Lecce HD1",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662392114-0-0-a6836182c40fb5de0323c5b17d017634 ",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
 		
 		{
 
 
-			"user": "Valencia vs Getafe SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
+			"user": "Torino vs Lecce HD2",
+			"pageUrl": "https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662392114-0-0-a6836182c40fb5de0323c5b17d017634 ",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
 		{
 
 
-			"user": "Valencia vs Getafe HD1",
+			"user": "Real Valladolid vs Almería HD1",
 			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may61/may61@456.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
@@ -89,11 +66,18 @@
 		{
 
 
-			"user": "Valencia vs Getafe HD2",
+			"user": "Real Valladolid vs Almería HD2",
 			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may61/may61@456.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg"
 		},
+
+	
+	
+		
+	
+		
+		
 		{
 
 			"user": "PTV SPORTS",
