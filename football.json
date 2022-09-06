@@ -4,75 +4,12 @@
 		
 		
 		
-		{
 
-
-			"user": "Dinamo Zagreb vs Chelsea SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
-			"type": " UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
-		},
-		{
-
-
-			"user": "Dinamo Zagreb vs Chelsea HD1",
-			"pageUrl": "https://livestream.socialstreaming.tv/live/63176b50c3e8e0001d398619/63176b50c3e8e0001d398619.m3u8",
-			"type": " UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
-		},
-		{
-
-
-			"user": "Dinamo Zagreb vs Chelsea HD2",
-			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1662503594-0-0-fbeef5d0772617f236657162b3aaba1d",
-			"type": " UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
-		},
-{
-
-
-			"user": "Dinamo Zagreb vs Chelsea HD3",
-			"pageUrl": "http://alternateserver3.azureedge.net/hls/ssp/chunks.m3u8",
-			"type": " UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
-		},
-{
-
-
-			"user": "Dinamo Zagreb vs Chelsea HD4 (English)",
-			"pageUrl": "https://fba1f6cf1f5d.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.665154753853.channel.GULwXTaO1uHx.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6NjY1MTU0NzUzODUzOmNoYW5uZWwvR1VMd1hUYU8xdUh4IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93MzIuZm9vdHkudG8iLCJpYXQiOjE2NjI0Nzg4NDksImV4cCI6MTY2MjY1MTY0OX0.-n6ZhAFQMx_S3CLFEzdB-Og_3kiuN3hsDE5_M6SlqqSj9afziHKblRCXCWMq0_bobfdj5DErXfsMhLFPLxc1fh_4DEhx1oP4Vv54WSUiIvlSAEjiy4tfZswEh5orC8r8",
-			"type": " UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
-		},
-		{
-
-
-			"user": "Dortmund vs København SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": " UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
-		},
-		{
-
-
-			"user": "Dortmund vs København HD1",
-			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-2445688.m3u8?auth_key=1662503534-0-0-94d9161a303490804d3abcc1b29b6ba3",
-			"type": " UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
-		},
-{
-
-
-			"user": "Dortmund vs København HD2",
-			"pageUrl": "https://0bc1667cc86a.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.665154753853.channel.OX5Pdko309jy.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1zb3V0aC0xOjY2NTE1NDc1Mzg1MzpjaGFubmVsL09YNVBka28zMDlqeSIsImF3czphY2Nlc3MtY29udHJvbC1hbGxvdy1vcmlnaW4iOiJodHRwOi8vdzMyLmZvb3R5LnRvIiwiaWF0IjoxNjYyNDc4OTAwLCJleHAiOjE2NjI2NTE3MDB9.SqdIn8AL9z6jgqZuWLEJRAVUBxmoeHPUimgKupW7k6Wg94pzML1VOs-sCAFuULGyY7jU6EkV3YJzSVDYDwo6OUc5-2YbpehEIk_HzZ5rt06362GCqORJhZAqQbWjeAis",
-			"type": " UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
-		},
 		{
 
 
 			"user": "Sevilla vs Manchester City SD",
-			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63176b3ce40648001d06ec24/63176b3ce40648001d06ec24.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63178eb65e96db001dc58451/63178eb65e96db001dc58451.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -80,7 +17,7 @@
 
 
 			"user": "Sevilla vs Manchester City HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63178eb65e96db001dc58451/63178eb65e96db001dc58451.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -88,7 +25,7 @@
 
 
 			"user": "Sevilla vs Manchester City HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://livestream-2.socialstreaming.tv/live/63178eb65e96db001dc58451/63178eb65e96db001dc58451.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -96,7 +33,7 @@
 
 
 			"user": "PSG vs Juventus SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -104,7 +41,7 @@
 
 
 			"user": "PSG vs Juventus HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -112,7 +49,7 @@
 
 
 			"user": "PSG vs Juventus HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -121,7 +58,7 @@
 
 
 			"user": "Salzburg vs Milan SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -131,7 +68,7 @@
 
 
 			"user": "Salzburg vs Milan HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -140,7 +77,7 @@
 
 
 			"user": "Celtic vs Real Madrid SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -148,7 +85,7 @@
 
 
 			"user": "Celtic vs Real Madrid HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -156,7 +93,7 @@
 
 
 			"user": "Celtic vs Real Madrid HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://livestream.socialstreaming.tv/live/63178cde18fb99001c4078fc/63178cde18fb99001c4078fc.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -164,7 +101,7 @@
 
 
 			"user": "RB Leipzig vs Shakhtar Donetsk HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may81/may18@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -172,7 +109,7 @@
 
 
 			"user": "RB Leipzig vs Shakhtar Donetsk HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -181,7 +118,7 @@
 
 
 			"user": "Benfica vs Maccabi Haifa SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may111/may111@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
@@ -190,7 +127,7 @@
 
 
 			"user": "Benfica vs Maccabi Haifa HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may111/may111@456.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://static.dw.com/image/16392542_303.jpg"
 		},
