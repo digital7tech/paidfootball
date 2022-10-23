@@ -7,23 +7,6 @@
 		
 		
 
-		{
-
-
-			"user": "Bochum vs Union Berlin SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-553612.m3u8?auth_key=1666551557-0-0-ef778413b00cfcc8d26f68ae47955bee",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Bochum vs Union Berlin HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-553612.m3u8?auth_key=1666551557-0-0-ef778413b00cfcc8d26f68ae47955bee",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
 		
 		
 		
@@ -72,20 +55,28 @@
 
 
 			"user": "Tottenham vs Newcastle (ENG)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://cdn9.footballstreams.top/live/ch4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMiAzOjEyOjU4IFBNJmhhc2hfdmFsdWU9WEpZR1BLblVhWVpqUSswc3B4V0RDQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi4xNjAuOTImc3RybV9sZW49NQ==",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
 		
 	
+		{
+
+
+			"user": "Tottenham vs Newcastle (ENG) 2",
+			"pageUrl": "http://sea.azureedge.net/scripts/NTc0MA==/1080p.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 
 		
 		{
 
 
 			"user": "Hertha BSC vs Schalke 04 SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1666558877-0-0-0e91e1b9fc3a724e93717abb9d1dda79",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666560077-0-0-f8baca49809b926ee38ee56f0bf9df75",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
