@@ -1,34 +1,31 @@
 {
-"list":[
-{
-"id":1,
-"name":"MHC SPORTS CALCIO ONE",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaRo9pXCSf435Uo2cxk92OTRLnIRlgnczhw&usqp=CAU"
-},
+ [
+		
+		{
+			"login": "JIRI SPORTS ONE",
+			"avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-z-jodxMHP8mjbUzwQEn9jFaJIly5jvHb4w&usqp=CAU",
+			"gisturl": "JIRI SPORTS ONE"
+		},
+	{
+			"login": "JIRI SPORTS ONE",
+			"avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-z-jodxMHP8mjbUzwQEn9jFaJIly5jvHb4w&usqp=CAU",
+			"gisturl": "JIRI SPORTS ONE"
+		},
+	{
+			"login": "JIRI SPORTS ONE",
+			"avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-z-jodxMHP8mjbUzwQEn9jFaJIly5jvHb4w&usqp=CAU",
+			"gisturl": "JIRI SPORTS ONE"
+		},
+		{
+			"login": "JIRI SPORTS ONE",
+			"avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-z-jodxMHP8mjbUzwQEn9jFaJIly5jvHb4w&usqp=CAU",
+			"gisturl": "JIRI SPORTS ONE"
+		},
+		{
+			"login": "JIRI SPORTS ONE",
+			"avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-z-jodxMHP8mjbUzwQEn9jFaJIly5jvHb4w&usqp=CAU",
+			"gisturl": "JIRI SPORTS ONE"
+		}
+	]
 
-{
-"id":2,
-"name":"MHC SPORTS CALCIO TWO",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaRo9pXCSf435Uo2cxk92OTRLnIRlgnczhw&usqp=CAU"
-},
-
-{
-"id":3,
-"name":"MHC SPORTS CALCIO THREE",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaRo9pXCSf435Uo2cxk92OTRLnIRlgnczhw&usqp=CAU"
-},
-
-
-{
-"id":4,
-"name":"MHC SPORTS CALCIO FOUR",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaRo9pXCSf435Uo2cxk92OTRLnIRlgnczhw&usqp=CAU"
-},
-
-{
-"id":5,
-"name":"MHC SPORTS CALCIO FIVE",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRaRo9pXCSf435Uo2cxk92OTRLnIRlgnczhw&usqp=CAU"
-}
-]
 }
