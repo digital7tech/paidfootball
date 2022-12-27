@@ -17,19 +17,25 @@
 		},	
 	{
 
-			"user": "Manchester United vs Nottingham HD          🔴                  ",
+			"user": "Manchester United vs Nottingham HD1          🔴                  ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968173_lhd.flv?auth_key=1672255805-0-0-5eaa093f1141d2ffce69de44eba9c5d9",
 			"type": "England - Premier League ",
 			"webFormatUrl": "https://mpng.subpng.com/20180611/kf/kisspng-english-football-league-efl-championship-leicester-5b1e819f95a0a2.5858886815287259196129.jpg"
 		},
 		{
 
-			"user": "Manchester United vs Nottingham HD  (ENG)   🔴        ",
+			"user": "Manchester United vs Nottingham HD2   🔴        ",
 			"pageUrl": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=5adb75e4bcca67054f5529b72c0184bd&txTime=63ac9b20",
 			"type": "England - Premier League ",
 			"webFormatUrl": "https://mpng.subpng.com/20180611/kf/kisspng-english-football-league-efl-championship-leicester-5b1e819f95a0a2.5858886815287259196129.jpg"
 		},
+	{
 
+			"user": "Manchester United vs Nottingham HD3  (ENG)   🔴        ",
+			"pageUrl": "https://wwpps22wwa.azureedge.net/live/usa/chunks.m3u8",
+			"type": "England - Premier League ",
+			"webFormatUrl": "https://mpng.subpng.com/20180611/kf/kisspng-english-football-league-efl-championship-leicester-5b1e819f95a0a2.5858886815287259196129.jpg"
+		},
 {
 
 			"user": "PTV SPORTS",
