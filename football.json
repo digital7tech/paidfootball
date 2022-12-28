@@ -8,29 +8,15 @@
 	
 		{
 
-			"user": "Auxerre vs Monaco SD             🔴   ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1672328028-0-0-1ed263527e90b4609b85d6c613c8ac4d ",
+			"user": "Clermont vs Lille SD                🔴 ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1672328028-0-0-1ed263527e90b4609b85d6c613c8ac4d",
 			"type": "France - Ligue 1",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ligue1_Uber_Eats_logo.png"
 		},
 		{
 
-			"user": "Auxerre vs Monaco HD             🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1672320358-0-0-047e5178920c3eee4295d0dae712288a ",
-			"type": "France - Ligue 1",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ligue1_Uber_Eats_logo.png"
-		},
-		{
-
-			"user": "Clermont vs Lille SD      ",
-			"pageUrl": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 ",
-			"type": "France - Ligue 1",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ligue1_Uber_Eats_logo.png"
-		},
-		{
-
-			"user": "Clermont vs Lille HD     ",
-			"pageUrl": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 ",
+			"user": "Clermont vs Lille HD                🔴 ",
+			"pageUrl": https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1672329301-0-0-1027707dea27887c9e3dc0e561548c2 ",
 			"type": "France - Ligue 1",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ligue1_Uber_Eats_logo.png"
 		},
