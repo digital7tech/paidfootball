@@ -63,6 +63,43 @@
 			"type": "Spain - La Liga  ",
 			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-h/laliga-h-1200x1200.png"
 		},
+				
+		
+		{
+
+			"user": "Blackburn Rovers vs Middlesbrough",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Championship  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
+		},
+		{
+
+			"user": "Coventry City vs Cardiff City",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Championship  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
+		},
+		{
+
+			"user": "Huddersfield vs Rotherham",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Championship  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
+		},
+		{
+
+			"user": "Millwall vs Bristol City",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Championship  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
+		},
+		{
+
+			"user": "Wigan Athletic vs Sunderland",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Championship  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
+		},
 
 	
 	{
@@ -86,6 +123,21 @@
 			"type": "France - Ligue 1  ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ligue1_Uber_Eats_logo.png"
 		},
+		{
+
+			"user": "Blackpool vs Sheffield United",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Championship  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
+		},
+		{
+
+			"user": "WestBrom vs Preston North End",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Championship  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
+		},
+		
 		{
 
 			"user": "Atlético Madrid vs Elche SD",
