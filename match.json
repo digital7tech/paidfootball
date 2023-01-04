@@ -2,35 +2,7 @@
 	"hits": [
 
 
-		{
-
-			"user": "Spezia vs Atalanta SD    🔴   ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1672923485-0-0-9ce2f4457c22ca9e0707557aabf9b979",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Spezia vs Atalanta HD    🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1672923181-0-0-83310d2efa4892309b4890eb07b69ce8",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Torino vs Hellas Verona SD            🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1672916754-0-0-69303cd7bad1da8661c644cc9e54b595 ",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Torino vs Hellas Verona HD            🔴 ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672860431-0-0-d51e21e27a36f1834194392894c41e0f",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-	
+		
 		{
 
 			"user": "Roma vs Bologna SD                🔴  ",
@@ -40,7 +12,14 @@
 		},
 		{
 
-			"user": "Roma vs Bologna HD                🔴  ",
+			"user": "Roma vs Bologna HD1               🔴  ",
+			"pageUrl": "https://yytcpull.gdsth.com/live/stream-558696.m3u8?txSecret=0301af7a214dea422cf19b265c4dbcf6&txTime=63b6eb5f",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Roma vs Bologna HD2                🔴  ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1672925617-0-0-10e28bb4bb605546aef54e21930cf056 ",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
@@ -56,6 +35,13 @@
 
 			"user": "Lecce vs Lazio HD                 🔴  ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_649422_lhd.flv?auth_key=1672925303-0-0-e2b161e48f164810301b6c56d3a61c15 ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Lecce vs Lazio HD2                🔴  ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-469322.m3u8?auth_key=1672867511-0-0-1466dec41d57c4d0222d41a6afb742e1 ",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
