@@ -1,7 +1,5 @@
-
 {
-	"hits": [	
-    {
+	"hits": [{
 
 			"user": "Tottenham vs Portsmouth SD     ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
@@ -64,18 +62,18 @@
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
-		
-		
-		
-    
-{
+
+
+
+
+		{
 
 			"user": "Fiorentina vs Sassuolo SD      ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
-    	{
+		{
 
 			"user": "Fiorentina vs Sassuolo HD1      ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
@@ -187,7 +185,7 @@
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
-    	{
+		{
 
 			"user": "Juventus vs Udinese HD1      ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
@@ -201,36 +199,36 @@
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
-    {
+		{
 
 			"user": "Brentford vs West Ham United  ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
-		   {
+		{
 
 			"user": "Coventry City vs Wrexham  ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
-		   {
+		{
 
 			"user": "Luton Town vs Wigan Athletic  ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
-		   
+
 		{
 
 			"user": "Grimsby Town vs Burton Albion  ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},  
-		
+		},
+
 		{
 
 			"user": "Mallorca vs Real Valladolid  SD   ",
@@ -259,7 +257,7 @@
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
-		
+
 		{
 
 			"user": "Monza vs Internazionale SD      ",
@@ -267,7 +265,7 @@
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
-    	{
+		{
 
 			"user": "Monza vs Internazionale HD1      ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
@@ -316,7 +314,7 @@
 			"type": "Spain - La Liga ",
 			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
 		},
-    	{
+		{
 
 			"user": "PTV SPORTS",
 			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
@@ -324,5 +322,5 @@
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
 
-
+	]
 }
