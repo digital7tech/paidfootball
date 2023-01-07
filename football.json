@@ -1,13 +1,319 @@
 {
-	"hits": [
+	"hits": [{
+
+			"user": "Tottenham vs Portsmouth SD     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Tottenham vs Portsmouth (ENG)     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Preston North End vs Huddersfield  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Forest Green Rovers vs Birmingham",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Crystal Palace vs Southampton SD     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Crystal Palace vs Southampton (ENG)     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Reading vs Watford",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Gillingham vs Leicester City SD     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Gillingham vs Leicester City (ENG)     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
 
 
-		
-		
-		
-		
-	
-		
+
+
+		{
+
+			"user": "Fiorentina vs Sassuolo SD      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Fiorentina vs Sassuolo HD1      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Fiorentina vs Sassuolo HD2      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Middlesbrough vs Brighton SD  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Middlesbrough vs Brighton (ENG)  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Chesterfield vs West Bromwich Albion  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Boreham Wood vs Accrington Stanley  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "AFC Bournemouth vs Burnley  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Fleetwood Town vs QPR  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Blackpool vs Nottingham Forest  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Hull City vs Fulham  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Millwall vs Sheffield United  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Shrewsbury Town vs Sunderland  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Ipswich Town vs Rotherham United  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Villarreal vs Real Madrid  SD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673119483-0-0-6ea855c68ec104d3806c71416099c043 ",
+			"type": "Spain - La Liga ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
+		},
+		{
+
+			"user": "Villarreal vs Real Madrid  HD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673119483-0-0-6ea855c68ec104d3806c71416099c043 ",
+			"type": "Spain - La Liga ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
+		},
+		{
+
+			"user": "Juventus vs Udinese SD      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Juventus vs Udinese HD1      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Juventus vs Udinese HD2      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Brentford vs West Ham United  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Coventry City vs Wrexham  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Luton Town vs Wigan Athletic  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+
+		{
+
+			"user": "Grimsby Town vs Burton Albion  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+
+		{
+
+			"user": "Mallorca vs Real Valladolid  SD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673119483-0-0-6ea855c68ec104d3806c71416099c043 ",
+			"type": "Spain - La Liga ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
+		},
+		{
+
+			"user": "Mallorca vs Real Valladolid  HD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673119483-0-0-6ea855c68ec104d3806c71416099c043 ",
+			"type": "Spain - La Liga ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
+		},
+		{
+
+			"user": "Sheffield Wednesday vs Newcastle SD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Sheffield Wednesday vs Newcastle (ENG) ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+
+		{
+
+			"user": "Monza vs Internazionale SD      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Monza vs Internazionale HD1      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Monza vs Internazionale HD2      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1672861386-0-0-2d598a629d563b7fa4be031704a217ef ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Liverpool vs Wolves SD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Liverpool vs Wolves HD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Liverpool vs Wolves (ENG) ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
+		{
+
+			"user": "Espanyol vs Girona  SD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673119483-0-0-6ea855c68ec104d3806c71416099c043 ",
+			"type": "Spain - La Liga ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
+		},
+		{
+
+			"user": "Espanyol vs Girona  HD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673119483-0-0-6ea855c68ec104d3806c71416099c043 ",
+			"type": "Spain - La Liga ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
+		},
 		{
 
 			"user": "PTV SPORTS",
