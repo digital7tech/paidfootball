@@ -5,20 +5,6 @@
 		
 		
 		
-		{
-
-			"user": "Sheffield Wednesday vs Newcastle SD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_778167_lhd.flv?auth_key=1673199815-0-0-e943e5d5131f65fb665c511d3c0bc6c5",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-		{
-
-			"user": "Sheffield Wednesday vs Newcastle (ENG) ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_778167_lhd.flv?auth_key=1673199815-0-0-e943e5d5131f65fb665c511d3c0bc6c5 ",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
 
 		{
 
@@ -37,7 +23,7 @@
 		{
 
 			"user": "Monza vs Internazionale HD2      ",
-			"pageUrl": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=fd07659cfab50aa5ca374bd589133376&txTime=63bb1a3b",
+			"pageUrl": "http://cdn1.enjoy4k.shop/live/ch1/playlist.m3u8",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
