@@ -26,45 +26,40 @@
 		},
 		{
 
-			"user": "Brentford vs West Ham United  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"user": "Brentford vs West Ham United  SD",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673197600-0-0-46dcce8ec06970fc76cde412b9914b69 ",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
 		{
 
-			"user": "Coventry City vs Wrexham  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"user": "Brentford vs West Ham United  HD",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831950_lhd.flv?auth_key=1673197071-0-0-fbc50649a81ab5015109fb15107089f1 ",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
+		
 		{
 
 			"user": "Luton Town vs Wigan Athletic  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968173_lhd.flv?auth_key=1673197602-0-0-aad576a8df5fd5cd31e07a64ed65b2af ",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
 
-		{
-
-			"user": "Grimsby Town vs Burton Albion  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673119511-0-0-7291b5a5df8595ea0dfcfff29a359a76 ",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
+		
 
 		{
 
 			"user": "Mallorca vs Real Valladolid  SD   ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673119483-0-0-6ea855c68ec104d3806c71416099c043 ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428434_lhd.flv?auth_key=1673197968-0-0-1b9dd1896347970311cb1dab9dd98229 ",
 			"type": "Spain - La Liga ",
 			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
 		},
 		{
 
 			"user": "Mallorca vs Real Valladolid  HD   ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673119483-0-0-6ea855c68ec104d3806c71416099c043 ",
+			"pageUrl": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=1aab5a39262ee0fad62bcad7f7d3641d&txTime=63bafad3",
 			"type": "Spain - La Liga ",
 			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
 		},
