@@ -4,104 +4,32 @@
 
 		
 
-		{
-
-			"user": "Manchester City vs Chelsea SD     🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1673280413-0-0-dc272bd6b108e4a799ac06240a985da6",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-		{
-
-			"user": "Manchester City vs Chelsea HD    🔴 ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673217312-0-0-84895e361e0c96ab11bf40c87789ff9e",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-		{
-
-			"user": "Manchester City vs Chelsea (ENG)       🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673280169-0-0-143e813af69be57e1e560d4cc1d7f7fe",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-		
-		{
-
-			"user": "Manchester City vs Chelsea HD2   🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1673280413-0-0-dc272bd6b108e4a799ac06240a985da6",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-		{
-
-			"user": "Aston Villa vs Stevenage SD     🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968174_lhd.flv?auth_key=1673280307-0-0-7c9cc8775fb3b6334662b2886d78bad5",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-		{
-
-			"user": "Aston Villa vs Stevenage HD    🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968173_lhd.flv?auth_key=1673280173-0-0-f2537aeb79cd5fcdef1a7dfb08c27bfd",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-		{
-
-			"user": "Sampdoria vs Napoli SD      ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673280211-0-0-47cf25d7b8894d30c3025eeb8ec8e4e4",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Sampdoria vs Napoli HD     ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673198532-0-0-7bdc56c606f5079787569b2d1db24448",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		
-		{
-
-			"user": "Sevilla vs Getafe  SD   ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1673203632-0-0-c19f0f7f4d7de30e71f9f7ef482778f8 ",
-			"type": "Spain - La Liga ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
-		},
-		{
-
-			"user": "Sevilla vs Getafe  HD   ",
-			"pageUrl": "https://lb.buy-global.store/live/lb555/bs1-720.m3u8 ",
-			"type": "Spain - La Liga ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-santander-v-negativo/laliga-santander-v-negativo-1200x1200.jpg"
-		},
 		
 		{
 
 			"user": "Milan vs Roma SD      ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1673204361-0-0-4d829ce2edf9d7850fcae4744fdb243d",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673198592-0-0-b90f0cc81937f953d839d3519258fd0f",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
 			"user": "Milan vs Roma HD1     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428434_lhd.flv?auth_key=1673197968-0-0-1b9dd1896347970311cb1dab9dd98229",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673198592-0-0-b90f0cc81937f953d839d3519258fd0f",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
 			"user": "Milan vs Roma HS2      ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1673204361-0-0-4d829ce2edf9d7850fcae4744fdb243d",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673198592-0-0-b90f0cc81937f953d839d3519258fd0f",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
 			"user": "Milan vs Roma HD3     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428434_lhd.flv?auth_key=1673197968-0-0-1b9dd1896347970311cb1dab9dd98229",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673198592-0-0-b90f0cc81937f953d839d3519258fd0f",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
