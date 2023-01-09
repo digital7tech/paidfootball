@@ -20,29 +20,36 @@
 
 		{
 
-			"user": "Oxford United vs Arsenal SD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_778167_lhd.flv?auth_key=1673199815-0-0-e943e5d5131f65fb665c511d3c0bc6c5",
+			"user": "Oxford United vs Arsenal SD      🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673379246-0-0-2ede00737ff1da246dd58b0001cc03a5",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
 		
 		{
 
-			"user": "Oxford United vs Arsenal HD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_778167_lhd.flv?auth_key=1673199815-0-0-e943e5d5131f65fb665c511d3c0bc6c5",
+			"user": "Oxford United vs Arsenal HD      🔴",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1673314572-0-0-d2d4c8385440502744bd3c345e8d70d6",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
 		
 		{
 
-			"user": "Oxford United vs Arsenal (ENG)",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_778167_lhd.flv?auth_key=1673199815-0-0-e943e5d5131f65fb665c511d3c0bc6c5",
+			"user": "Oxford United vs Arsenal (ENG)   🔴",
+			"pageUrl": "https://www.fordems.biz/live/multiple_fd-1/live/fd-1_360p/chunks.m3u8",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
 		
+	
+		{
 
+			"user": "Oxford United vs Arsenal HD (ENG 🔴",
+			"pageUrl": "https://www.fordems.biz/live/multiple_fd-1/live/fd-1_720p/chunks.m3u8",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
+		},
 	
 	
 		{
