@@ -54,8 +54,15 @@
 
 		{
 
-			"user": "Athletic Club vs Osasuna 🔴",
-			"pageUrl": "https://www.fordems.biz/live/multiple_fd-1/live/fd-1_720p/chunks.m3u8",
+			"user": "Athletic Club vs Osasuna SD 🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673379491-0-0-ec8be134928cb1c90817549948341143",
+			"type": "Spain - La Liga ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png"
+		},
+{
+
+			"user": "Athletic Club vs Osasuna HD 🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1673379302-0-0-5e2292bcbdf787bb215beaa954111820",
 			"type": "Spain - La Liga ",
 			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png"
 		},
