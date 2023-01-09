@@ -3,62 +3,7 @@
 
 
 		
-{
 
-			"user": "Bologna vs Atalanta SD      🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673369652-0-0-838a3db5477bf4f63311812a8797639a",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Bologna vs Atalanta HD     🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920581_lhd.flv?auth_key=1673378089-0-0-0258aab4b0c338fa648c7b75748ecdec",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-
-		{
-
-			"user": "Oxford United vs Arsenal SD      🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-435066_ld.m3u8?auth_key=1673305512-0-0-d148a54adfe6800e7593919adc5818e7",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-		
-		{
-
-			"user": "Oxford United vs Arsenal HD      🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862972_lhd.flv?auth_key=1673379241-0-0-d728f9a04c8efa6cbefeeb3e13b6dc06",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-		
-		
-	
-		{
-
-			"user": "Oxford United vs Arsenal (ENG) 🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673379246-0-0-2ede00737ff1da246dd58b0001cc03a5",
-			"type": "England - FA Cup ",
-			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
-		},
-	
-
-		{
-
-			"user": "Athletic Club vs Osasuna SD 🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673379491-0-0-ec8be134928cb1c90817549948341143",
-			"type": "Spain - La Liga ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png"
-		},
-{
-
-			"user": "Athletic Club vs Osasuna HD 🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1673379302-0-0-5e2292bcbdf787bb215beaa954111820",
-			"type": "Spain - La Liga ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png"
-		},
 		{
 
 			"user": "PTV SPORTS",
