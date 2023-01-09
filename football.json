@@ -45,13 +45,20 @@
 	
 		{
 
-			"user": "Oxford United vs Arsenal HD (ENG 🔴",
+			"user": "Oxford United vs Arsenal HD (ENG) 🔴",
 			"pageUrl": "https://www.fordems.biz/live/multiple_fd-1/live/fd-1_720p/chunks.m3u8",
 			"type": "England - FA Cup ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F40.png"
 		},
 	
-	
+
+		{
+
+			"user": "Athletic Club vs Osasuna 🔴",
+			"pageUrl": "https://www.fordems.biz/live/multiple_fd-1/live/fd-1_720p/chunks.m3u8",
+			"type": "Spain - La Liga ",
+			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png"
+		},
 		{
 
 			"user": "PTV SPORTS",
