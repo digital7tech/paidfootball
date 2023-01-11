@@ -2,51 +2,6 @@
 	"hits": [
 		
 		
-	{
-
-			"user": "Ajaccio vs Reims      🔴 ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482183_ld.m3u8?auth_key=1673479272-0-0-9b6610eb081d1e3898c7d047f20afec1 ",
-			"type": "France - Ligue 1 ",
-			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
-		},
-		{
-
-			"user": "Auxerre vs Toulouse   🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-431228_ld.m3u8?auth_key=1673479692-0-0-f4e9db99125734bbdcde52f73099eb60 ",
-			"type": "France - Ligue 1 ",
-			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
-		},
-
-		{
-
-			"user": "Clermont vs Rennes   🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428434_lhd.flv?auth_key=1673545060-0-0-e59991a9da4c1c00b3d1a974682a436d ",
-			"type": "France - Ligue 1 ",
-			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
-		},
-
-		{
-
-			"user": "Nantes vs Lyon SD   🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-435066_ld.m3u8?auth_key=1673479512-0-0-dac254ab0d5ba521eea11d40a509f532",
-			"type": "France - Ligue 1 ",
-			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
-		},
-		{
-
-			"user": "Nantes vs Lyon HD   🔴",
-			"pageUrl": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=f99b270269648659b6ba7da3a9fcc760&txTime=63c04638",
-			"type": "France - Ligue 1 ",
-			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
-		},
-		{
-
-			"user": "Brest vs Lille     🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1673479332-0-0-607cd16c594c6e184a0c994f16d63f46 ",
-			"type": "France - Ligue 1 ",
-			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
-		},
-		
 		{
 
 			"user": "Real Madrid vs Valencia SD     🔴",
@@ -80,7 +35,7 @@
 {
 
 			"user": "Southampton vs Manchester City SD   🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673544524-0-0-eae5e469125ad6581404bbd42a2e980c",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920578_lhd.flv?auth_key=1673551115-0-0-a4fcf690fd5c87c12bf7c1b3e270cd20",
 			"type": "England - League Cup  ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
