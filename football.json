@@ -1,6 +1,159 @@
 {
 	"hits": [
+		
+		
+	{
 
+			"user": "Ajaccio vs Reims",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+		{
+
+			"user": "Auxerre vs Toulouse",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+
+		{
+
+			"user": "Clermont vs Rennes",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+
+		{
+
+			"user": "Nantes vs Olympique Lyonnais SD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+		{
+
+			"user": "Nantes vs Olympique Lyonnais HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+		{
+
+			"user": "Brest vs Lille",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+		
+		{
+
+			"user": "Real Madrid vs Valencia SD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Spain - Supercopa de España",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png"
+		},
+		{
+
+			"user": "Real Madrid vs Valencia HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Spain - Supercopa de España",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png"
+		},
+
+{
+
+			"user": "Southampton vs Manchester City SD",
+			"pageUrl": "https://dai.google.com/linar/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - League Cup  ",
+			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
+		},
+		{
+
+			"user": "Southampton vs Manchester City HD",
+			"pageUrl": "https://dai.google.com/linar/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - League Cup  ",
+			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
+		},
+		{
+
+			"user": "Southampton vs Manchester City (ENG)",
+			"pageUrl": "https://dai.google.com/linar/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - League Cup  ",
+			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
+		},
+		{
+
+			"user": "Nottingham Forest vs Wolves SD",
+			"pageUrl": "https://dai.google.com/linar/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - League Cup  ",
+			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
+		},
+		{
+
+			"user": "Nottingham Forest vs Wolves HD",
+			"pageUrl": "https://dai.google.com/linar/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - League Cup  ",
+			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
+		},
+		{
+
+			"user": "Milan vs Torino SD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Italy - Coppa Italia  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png"
+		},
+		{
+
+			"user": "Milan vs Torino HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Italy - Coppa Italia  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png"
+		},
+				
+	{
+
+			"user": "PSG vs Angers SCO SD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+		{
+
+			"user": "PSG vs Angers SCO HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+		{
+
+			"user": "Lorient vs Monaco HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+		{
+
+			"user": "Nice vs Montpellier HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+		{
+
+			"user": "Strasbourg vs Lens HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
+		{
+
+			"user": "Troyes vs Olympique Marseille HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "France - Ligue 1 ",
+			"webFormatUrl": "https://www.byfarthegreatestteam.com/wp-content/uploads/2017/03/ligue-1.png"
+		},
 		{
 
 			"user": "PTV SPORTS",
