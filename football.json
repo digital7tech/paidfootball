@@ -1,8 +1,79 @@
 {
 	"hits": [
+		{
+
+			"user": "Fiorentina vs Sampdoria SD  🔴",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Italy - Coppa Italia  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png"
+		},
+		{
+
+			"user": "Fiorentina vs Sampdoria HD  🔴",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Italy - Coppa Italia  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png"
+		},
 		
+		{
+
+			"user": "Real Betis vs Barcelona SD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Spain - Supercopa de España",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png"
+		},
+		{
+
+			"user": "Real Betis vs Barcelona HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Spain - Supercopa de España",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png"
+		},
+
+{
+
+			"user": "Fulham vs Chelsea SD",
+			"pageUrl": "https://dai.google.com/linar/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Premier League  ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 		
+		{
+
+			"user": "Fulham vs Chelsea HD",
+			"pageUrl": "https://dai.google.com/linar/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Premier League  ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+			"user": "Fulham vs Chelsea (ENG)",
+			"pageUrl": "https://dai.google.com/linar/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Premier League  ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+			"user": "Fulham vs Chelsea HD2",
+			"pageUrl": "https://dai.google.com/linar/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "England - Premier League  ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 		
+		{
+
+			"user": "Roma vs Genoa SD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Italy - Coppa Italia  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png"
+		},
+		{
+
+			"user": "Roma vs Genoa HD",
+			"pageUrl": "https://dai.google.com/inear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": "Italy - Coppa Italia  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png"
+		},
 		{
 
 			"user": "PTV SPORTS",
