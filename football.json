@@ -1,26 +1,6 @@
 {
 	"hits": [
-{
 
-			"user": "Sassuolo vs Lazio SD 🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428437_lhd.flv?auth_key=1673866865-0-0-c6e60a8cbed79d8023e0220fc24d96e6",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Sassuolo vs Lazio HD 🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428437_lhd.flv?auth_key=1673866865-0-0-c6e60a8cbed79d8023e0220fc24d96e6 ",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Sassuolo vs Lazio HD2 🔴 ",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},	
 		{
 
 			"user": "Lille vs Troyes",
@@ -29,33 +9,27 @@
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
 		},
 		
+		
 		{
 
-			"user": "Getafe vs Espanyol",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "Spain - La Liga  ",
-			"webFormatUrl": "https://logoeps.com/wp-contentloads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Chelsea vs Crystal Palace SD     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1673783418-0-0-e76dd232b6cf69d73dfd362a3d60b7c2 ",
+			"user": "Chelsea vs Crystal Palace SD   🔴    ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428459_lhd.flv?auth_key=1673875931-0-0-2f943aa9e0280ed8f24675b1afca09bd ",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		
 {
 
-			"user": "Chelsea vs Crystal Palace HD      ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673784210-0-0-7b9290ae56712f0588339dc81216a60b",
+			"user": "Chelsea vs Crystal Palace HD   🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428459_lhd.flv?auth_key=1673875931-0-0-2f943aa9e0280ed8f24675b1afca09bd",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		
 {
 
-			"user": "Chelsea vs Crystal Palace HD (ENG)",
-			"pageUrl": "https://pull.xinyuejiuwang.love/leisu/1117722469231829.flv?auth_key=1673656380-0-0-4382858b1672872737e2b3d289275e25",
+			"user": "Chelsea vs Crystal Palace HD (ENG)🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428459_lhd.flv?auth_key=1673875931-0-0-2f943aa9e0280ed8f24675b1afca09bd",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -83,21 +57,28 @@
 {
 
 			"user": "Udinese vs Bologna SD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862972_lhd.flv?auth_key=1673875845-0-0-9d904513d9f0e935670f453fe68aaee0",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
 			"user": "Udinese vs Bologna HD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862972_lhd.flv?auth_key=1673875845-0-0-9d904513d9f0e935670f453fe68aaee0",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Torino vs Spezia SD",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1673875860-0-0-07fefd3fb828edb806db1bed48e54ed4",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
 			"user": "Torino vs Spezia HD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428439_lhd.flv?auth_key=1673875915-0-0-c68305a77c8e13c8d636f795bfcac2e0",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
