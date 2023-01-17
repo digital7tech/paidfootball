@@ -3,28 +3,6 @@
 
 		
 
-{
-
-			"user": "Empoli vs Sampdoria SD    🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673975864-0-0-77e1e45300ce15c668fc0049d4d22c06",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Empoli vs Sampdoria HD    🔴",
-			"pageUrl": "http://192.248.160.67:8080/ad_p_1_hd/index.m3u8 ",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-	
-		{
-
-			"user": "PTV SPORTS",
-			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
-			"type": "FOOTBALL 🔴 ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
-		}
 
 	]
 }
