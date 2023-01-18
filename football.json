@@ -1,18 +1,39 @@
-
-{  
-    "hits": 
-
 [
-
-
-
-
-		{		"user": "PTV SPORTS",	
-			"pageUrl": "https://dai.google.om/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",	
-			"type": "FOOTBALL 🔴 ",	
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"	
-		}	
-
-
-	]		
-}
+		
+		{
+			"login": "HNCS SPORTS",
+			"avatar_url": "https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg",
+			"gisturl": "HNCS SPORTS"
+		},
+	 	{
+			"login": "HNCS SPORTS",
+			"avatar_url": "https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg",
+			"gisturl": "HNCS SPORTS"
+		},
+	 	{
+			"login": "HNCS SPORTS",
+			"avatar_url": "https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg",
+			"gisturl": "HNCS SPORTS"
+		},
+	 	{
+			"login": "HNCS SPORTS",
+			"avatar_url": "https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg",
+			"gisturl": "HNCS SPORTS"
+		},
+	 	{
+			"login": "HNCS SPORTS",
+			"avatar_url": "https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg",
+			"gisturl": "HNCS SPORTS"
+		},
+	 	{
+			"login": "HNCS SPORTS",
+			"avatar_url": "https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg",
+			"gisturl": "HNCS SPORTS"
+		},
+	 	{
+			"login": "HNCS SPORTS",
+			"avatar_url": "https://img.freepik.com/free-vector/soccer-volleyball-baseball-rugby-equipment_1441-4026.jpg",
+			"gisturl": "HNCS SPORTS"
+		},
+	
+	]
