@@ -8,45 +8,53 @@
 	
 		{
 
-			"user": "Milan vs Internazionale SD   🔴 ",
+			"user": "Atalanta vs Spezia SD   ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1674154447-0-0-8a9d0150166b1cc45632f29bd258352f",
 			"type": "Italy - Supercoppa Italiana  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Supercoppa_Italiana_logo.png/140px-Supercoppa_Italiana_logo.png"
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesbDZ7JPQZlQlhXsU1_XsTSwbAU3maF8soms0S7Tw&s"
 		},
 		{
 
-			"user": "Milan vs Internazionale HD   🔴 ",
+			"user": "Atalanta vs Spezia HD   ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1674153748-0-0-ff7d6dae98bae5a7bbf4542bb43030f1",
-			"type": "Italy - Supercoppa Italiana  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Supercoppa_Italiana_logo.png/140px-Supercoppa_Italiana_logo.png"
+			"type": "Italy - Coppa Italia  ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesbDZ7JPQZlQlhXsU1_XsTSwbAU3maF8soms0S7Tw&s"
 		},
 		{
 
-			"user": "Milan vs Internazionale HD2  🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1674153838-0-0-c9a2061d9eedd1816c47fe8b073fd30a ",
+			"user": "Lazio vs Bologna SD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1674154447-0-0-8a9d0150166b1cc45632f29bd258352f",
 			"type": "Italy - Supercoppa Italiana  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Supercoppa_Italiana_logo.png/140px-Supercoppa_Italiana_logo.png"
-		},	
-
-{
-
-			"user": "Leeds vs Cardiff City (ENG)  🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1674156481-0-0-777160bab01c7735834dbcaa8d78f900 ",
-			"type": "England - FA Cup",
-			"webFormatUrl": "https://www.soccertimes.com/wp-content/uploads/2018/05/download-1.jpg"
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesbDZ7JPQZlQlhXsU1_XsTSwbAU3maF8soms0S7Tw&s"
 		},
 		{
 
-			"user": "Leeds vs Cardiff City HD 🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_866196_lhd.flv?auth_key=1674156382-0-0-0350df3bb0184683de92559bdbe6031a",
-			"type": "England - FA Cup",
-			"webFormatUrl": "https://www.soccertimes.com/wp-content/uploads/2018/05/download-1.jpg"
-		},		
+			"user": "Lazio vs Bologna HD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1674153748-0-0-ff7d6dae98bae5a7bbf4542bb43030f1",
+			"type": "Italy - Coppa Italia  ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesbDZ7JPQZlQlhXsU1_XsTSwbAU3maF8soms0S7Tw&s"
+		},
+		
+{
+
+			"user": "Ceuta vs Barcelona SD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1674153748-0-0-ff7d6dae98bae5a7bbf4542bb43030f1",
+			"type": "Spain - Copa del Rey  ",
+			"webFormatUrl": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F80.png"
+		},
+		
+		{
+
+			"user": "Ceuta vs Barcelona HD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1674153748-0-0-ff7d6dae98bae5a7bbf4542bb43030f1",
+			"type": "Spain - Copa del Rey  ",
+			"webFormatUrl": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F80.png"
+		},
 
 
 {
 
-			"user": "Crystal Palace vs Manchester United SD   🔴 ",
+			"user": "Manchester City vs Tottenham SD    ",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1674088475-0-0-9c705e559905ca55067cb7a31356837f",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector-200x200.png"
@@ -54,29 +62,65 @@
 		
 	{
 
-			"user": "Crystal Palace vs Manchester United HD   🔴 ",
+			"user": "Manchester City vs Tottenham HD    ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1674156225-0-0-f20b1499a19bebb4d91ba5615f725e32",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector-200x200.png"
 		},
 		{
 
-			"user": "Crystal Palace vs Manchester United (ENG)🔴 ",
+			"user": "Manchester City vs Tottenham (ENG) ",
 			"pageUrl": "https://villeneuved867.s3.amazonaws.com/manutd_768x432_1200k.m3u8",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector-200x200.png"
 		},
 		{
 
-			"user": "Crystal Palace vs Manchester United HD (ENG)🔴 ",
+			"user": "Manchester City vs Tottenham HD (ENG) ",
 			"pageUrl": "https://villeneuved867.s3.amazonaws.com/manutd_960x540_2000k.m3u8",
+			"type": "England - Premier League  ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector-200x200.png"
+		},
+		{
+
+			"user": "Manchester City vs Tottenham HD2    ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1674156225-0-0-f20b1499a19bebb4d91ba5615f725e32",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector-200x200.png"
 		},
 		
 		
-		
 
+	
+		{
+
+			"user": "Juventus vs Monza SD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1674154447-0-0-8a9d0150166b1cc45632f29bd258352f",
+			"type": "Italy - Supercoppa Italiana  ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesbDZ7JPQZlQlhXsU1_XsTSwbAU3maF8soms0S7Tw&s"
+		},
+		{
+
+			"user": "Juventus vs Monza HD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1674153748-0-0-ff7d6dae98bae5a7bbf4542bb43030f1",
+			"type": "Italy - Coppa Italia  ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesbDZ7JPQZlQlhXsU1_XsTSwbAU3maF8soms0S7Tw&s"
+		},
+		{
+
+			"user": "Villarreal vs Real Madrid SD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1674153748-0-0-ff7d6dae98bae5a7bbf4542bb43030f1",
+			"type": "Spain - Copa del Rey  ",
+			"webFormatUrl": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F80.png"
+		},
+		
+		{
+
+			"user": "Villarreal vs Real Madrid HD   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1674153748-0-0-ff7d6dae98bae5a7bbf4542bb43030f1",
+			"type": "Spain - Copa del Rey  ",
+			"webFormatUrl": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F80.png"
+		},
 {
 
 			"user": "PTV SPORTS",
