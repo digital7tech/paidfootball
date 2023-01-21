@@ -12,36 +12,7 @@
 		
 		
 
-		{
 	
-		
-
-			"user": "Crystal Palace vs Newcastle SD    🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-956896_ld.m3u8?auth_key=1674340715-0-0-34a34ed6db166ee8d688146ca6fa95dd",
-			"type": "England - Premier League ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-{
-	
-		
-
-			"user": "Crystal Palace vs Newcastle (ENG) 🔴 ",
-			"pageUrl": "http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347",
-			"type": "England - Premier League ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-{
-	
-		
-
-			"user": "Crystal Palace vs Newcastle HD    🔴   ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1674405081-0-0-e7a92b0730ff656e005f3ac6c0750aa6",
-			"type": "England - Premier League ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
 		
 		
 		{
@@ -49,10 +20,10 @@
 		
 
 
-			"user": "Atlético Madrid vs Real Valladolid  🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1674407083-0-0-192bd544729294184e0d373516ea0119",
-			"type": "La Liga ",
-			"webFormatUrl": "https://encrypted0.gstatic.com/images?q=tbn:ANd9GcS_KpqmmqUiKzzrNcGgcIcqzPY0HnaSWzh4lw&usqp=CAU"
+			"user": "Fiorentina vs Torino SD    🔴  ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1674415471-0-0-15b116ab62eee29b615d34d72f249cec",
+			"type": "Italy - Serie A ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2021/10/Italian-Serie-A-logo.png"
 		},
 		
 		{
@@ -60,18 +31,7 @@
 		
 
 
-			"user": "Köln vs Werder Bremen BSC           🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968176_lhd.flv?auth_key=1674407080-0-0-e00b5c77e6a9ea1f0513a2d96d0a25d8",
-			"type": "Bundesliga  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
-		{
-	
-		
-
-
-			"user": "Fiorentina vs Torino SD",
+			"user": "Fiorentina vs Torino HD    🔴",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1674257135-0-0-692c97724c5380412ce43fce2150a96a",
 			"type": "Italy - Serie A ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2021/10/Italian-Serie-A-logo.png"
@@ -82,19 +42,8 @@
 		
 
 
-			"user": "Fiorentina vs Torino HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1674257135-0-0-692c97724c5380412ce43fce2150a96a",
-			"type": "Italy - Serie A ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2021/10/Italian-Serie-A-logo.png"
-		},
-		
-		{
-	
-		
-
-
-			"user": "Sevilla vs Cádiz",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1674257135-0-0-692c97724c5380412ce43fce2150a96a",
+			"user": "Sevilla vs Cádiz           🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968171_lhd.flv?auth_key=1674409545-0-0-8eae9aef0a35dd4e4d0397a8502a77bb",
 			"type": "La Liga ",
 			"webFormatUrl": "https://encrypted0.gstatic.com/images?q=tbn:ANd9GcS_KpqmmqUiKzzrNcGgcIcqzPY0HnaSWzh4lw&usqp=CAU"
 		},
