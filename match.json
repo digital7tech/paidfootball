@@ -14,27 +14,6 @@
 
 		{
 
-
-
-
-			"user": "Villarreal vs Girona  SD   🔴  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-459156_ld.m3u8?auth_key=1674412715-0-0-5602cd9d847cb22c3a6e380a471b3a75",
-			"type": "La Liga ",
-			"webFormatUrl": "https://encrypted0.gstatic.com/images?q=tbn:ANd9GcS_KpqmmqUiKzzrNcGgcIcqzPY0HnaSWzh4lw&usqp=CAU"
-		},
-		{
-
-
-
-
-			"user": "Villarreal vs Girona  HD   🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428415_lhd.flv?auth_key=1674477049-0-0-15058249b4ba6202ee12c9283e0ef8eb",
-			"type": "La Liga ",
-			"webFormatUrl": "https://encrypted0.gstatic.com/images?q=tbn:ANd9GcS_KpqmmqUiKzzrNcGgcIcqzPY0HnaSWzh4lw&usqp=CAU"
-		},
-
-		{
-
 			"user": "Manchester City vs Wolves SD  🔴 ",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1674415415-0-0-7ec3857f48474fcb039bcc07983ab1ff",
 			"type": "England - Premier League ",
@@ -115,7 +94,7 @@
 
 
 
-			"user": "Borussia Dortmund vs Augsburg SD      ",
+			"user": "Borussia Dortmund vs Augsburg SD   🔴    ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428439_lhd.flv?auth_key=1674482675-0-0-ee15958746d6c85319474867e37ee475",
 			"type": "Germany - Bundesliga ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
@@ -127,8 +106,8 @@
 
 
 
-			"user": "Elche vs Osasuna     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968171_lhd.flv?auth_key=1674409545-0-0-8eae9aef0a35dd4e4d0397a8502a77bb",
+			"user": "Elche vs Osasuna      🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428415_lhd.flv?auth_key=1674477049-0-0-15058249b4ba6202ee12c9283e0ef8eb",
 			"type": "La Liga ",
 			"webFormatUrl": "https://encrypted0.gstatic.com/images?q=tbn:ANd9GcS_KpqmmqUiKzzrNcGgcIcqzPY0HnaSWzh4lw&usqp=CAU"
 		},
