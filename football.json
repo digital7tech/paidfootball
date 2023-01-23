@@ -9,7 +9,7 @@
 	{
 
 			"user": "Internazionale vs Empoli SD   🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1674579536-0-0-68a8d8789693b9d5e5cc17d458cc06e4 ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1674515075-0-0-48bf8e0154b195c34d55ee43536026fa ",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
@@ -32,7 +32,13 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 
-		
+	{
+
+			"user": "Pays De Cassel vs PSG    🔴 ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968171_lhd.flv?auth_key=1674587948-0-0-0b0618a1c1c0559f3e596f2c69385e01 ",
+			"type": "Coupe de France",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Coupe_de_France_logo.png"
+		},	
 	{
 
 			"user": "Fulham vs Tottenham SD     ",
