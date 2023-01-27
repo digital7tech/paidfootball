@@ -1,16 +1,82 @@
-
 {
 	"hits": [
 
+{
+
+			"user": "Bologna vs Spezia SD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		
+		{
+
+			"user": "Bologna vs Spezia HD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Lecce vs Salernitana SD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Lecce vs Salernitana HD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "England - FA Cup",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		
+	{
+
+			"user": "Manchester City vs Arsenal SD     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673725507-0-0-b86637044c2c5a0e48582b46085cc90c ",
+			"type": "England - FA Cup ",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/08/2020-the-fa-reveals-new-emirates-fa-cup-logo-design.png"
+		},
+		{
+
+			"user": "Manchester City vs Arsenal (ENG)    ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673725507-0-0-b86637044c2c5a0e48582b46085cc90c ",
+			"type": "England - FA Cup  ",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/08/2020-the-fa-reveals-new-emirates-fa-cup-logo-design.png"
+		},
+		{
+
+			"user": "Manchester City vs Arsenal HD1     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673725507-0-0-b86637044c2c5a0e48582b46085cc90c ",
+			"type": "England - FA Cup  ",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/08/2020-the-fa-reveals-new-emirates-fa-cup-logo-design.png"
+		},
+		
+		{
+
+			"user": "Manchester City vs Arsenal HD2     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673725507-0-0-b86637044c2c5a0e48582b46085cc90c ",
+			"type": "England - Premier League  ",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/08/2020-the-fa-reveals-new-emirates-fa-cup-logo-design.png"
+		},
+		
+		{
+
+			"user": "Lorient vs Rennes",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
+			"type": "France - Ligue 1  ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
+		},
 		{
 
 
 
 
-			"user": "HNCS SPORTS",
+			"user": "JUDIN SPORTS  🔴",
 			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8 ",
-			"type": "FOOTBALL ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQHsn89PZloQqjOYzpkGyl15pmcveToVyLGQ&usqp=CAU"
+			"type": "FOOTBALL  ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsa4g436Ye7orBzGtEux0XnuYGBprUdaqhaA&usqp=CAU"
 		}
 	]
 
