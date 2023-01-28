@@ -2,56 +2,6 @@
 	"hits": [
 
 
-		{
-
-			"user": "Empoli vs Torino SD      🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428439_lhd.flv?auth_key=1674998892-0-0-6031e8e22066e13f331f65c7c37b2e38",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Empoli vs Torino HD      🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920581_lhd.flv?auth_key=1674998732-0-0-6cc53b53bacc04438afbd191d8f1b736",
-			"type": "England - FA Cup",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-	{
-
-			"user": "Freiburg vs Augsburg     🔴",
-			"pageUrl": "https://pull.xinyuejiuwang.love/leisu/1117775028071008.flv?auth_key=1674932825-0-0-08620030baa863243c2807951ba80abb",
-			"type": "Germany - Bundesliga",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-{
-
-			"user": "Mainz 05 vs Bochum       🔴",
-			"pageUrl": "https://pull.xinyuejiuwang.love/leisu/1117783227626911.flv?auth_key=1674932505-0-0-30ba585fb049dc2d905b64efdc6ace5f",
-			"type": "Germany - Bundesliga",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-			"user": "Hoffenheim vs Borussia M'gladbach    🔴",
-			"pageUrl": "https://pull.xinyuejiuwang.love/leisu/1117775153734700.flv?auth_key=1674932521-0-0-90af06ca76d53c79dee63422581044f3",
-			"type": "Germany - Bundesliga",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-{
-
-			"user": "Hertha BSC vs Union Berlin           🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_778166_lhd.flv?auth_key=1675000788-0-0-2c5d93421978dde02f5ed2e8ab5f3aff",
-			"type": "Germany - Bundesliga",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	{
-
-			"user": "Werder Bremen vs Wolfsburg           🔴",
-			"pageUrl": "https://pull.xinyuejiuwang.love/leisu/1117775373646161.flv?auth_key=1674932805-0-0-5b31f202f68ea1f754450a4287f044ea",
-			"type": "Germany - Bundesliga",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},	
-		
 		
 		{
 
@@ -106,25 +56,18 @@
 			"type": "Spain - La Liga ",
 			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png"
 		},
-		{
-
-			"user": "Troyes vs Lens",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
 		
 		{
 
-			"user": "Cremonese vs Internazionale SD",
-			"pageUrl": "https://pull.xinyuejiuwang.love/leisu/1117993368735858.flv?auth_key=1674865050-0-0-004b6ea489de4793a7d717b39167d01b",
+			"user": "Cremonese vs Internazionale SD           🔴",
+			"pageUrl": "https://pull.ruyansiyu.xyz/sm/10021_920661_lhd.flv?txSecret=b600832dbedaf78aa6f2449a17d3fbba&txTime=63d6a0ad",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
-			"user": "Cremonese vs Internazionale HD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1674933990-0-0-3f2cf7d3f537588b3849434235e8ae1c ",
+			"user": "Cremonese vs Internazionale HD          🔴",
+			"pageUrl": "https://pull.ruyansiyu.xyz/sm/10021_905567_lhd.flv?txSecret=e7ecbddb1d50f65c5750dd77f6131e9b&txTime=63d68c41",
 			"type": "England - FA Cup",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
