@@ -4,44 +4,13 @@
 	"hits": [
 		
 	
-{
 
-			"user": "Milan vs Sassuolo HD1     🔴",
-			"pageUrl": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=2d7c1d453feb517841975976ac814900&sub_m3u8=true&edge_slice=true&auth_key=1675012116-0-0-5df4c175797fd8abf14532a5890f1484",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-	
-		
-		{
-
-			"user": "Milan vs Sassuolo HD2     🔴",
-			"pageUrl": "https://pull.ruyansiyu.xyz/sm/10021_428408_lhd.flv?txSecret=6021c9807579df27ac5c3470a750ed7e&txTime=63d7a2e1",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-	{
-
-			"user": "Milan vs Sassuolo HD3     🔴",
-			"pageUrl": "https://pull.ruyansiyu.xyz/sm/10021_936836_lhd.flv?txSecret=4a97eb4af446737ac6f4388f5f33402d&txTime=63d7a3bc",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-
-		
-		{
-
-			"user": "Nice vs Lille",
-			"pageUrl": "https://pull.ruyansiyu.xyz/sm/10021_428415_lhd.flv?txSecret=705e00cb49e00e555bf355a6b182bebb&txTime=63d7aacf ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
 		
 		
 {
 
-			"user": "Brighton vs Liverpool",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
+			"user": "Brighton vs Liverpool        🔴",
+			"pageUrl": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-363344_lhd.m3u8?sub_m3u8=true&user_session_id=20999d1148cdcf0076e0938a320d0289&edge_slice=true&auth_key=1675019976-0-0-cef39511971b208ddead7b0b4a9c9ec6",
 			"type": "England - FA Cup  ",
 			"webFormatUrl": "https://cdn.footystats.org/img/competitions/england-fa-cup.png"
 		},
@@ -49,24 +18,24 @@
 				
 {
 
-			"user": "Brighton vs Liverpool (ENG)",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
+			"user": "Brighton vs Liverpool HD (ENG) 🔴",
+			"pageUrl": "https://wwpyaosopp.azureedge.net/live/s1/chunks.m3u8",
 			"type": "England - FA Cup  ",
 			"webFormatUrl": "https://cdn.footystats.org/img/competitions/england-fa-cup.png"
 		},
 				
 {
 
-			"user": "Brighton vs Liverpool HD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
+			"user": "Brighton vs Liverpool HD2  (ENG) 🔴",
+			"pageUrl": "https://hdstreamss.club:30443/live/abr_ch5/live/ch5_720p/chunks.m3u8",
 			"type": "England - FA Cup  ",
 			"webFormatUrl": "https://cdn.footystats.org/img/competitions/england-fa-cup.png"
 		},
 		
 		{
 
-			"user": "Juventus vs Monza SD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
+			"user": "Juventus vs Monza SD     🔴",
+			"pageUrl": "https://wwpyaosopp.azureedge.net/live/spf/chunks.m3u8",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
@@ -74,52 +43,13 @@
 		
 		{
 
-			"user": "Juventus vs Monza HD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
+			"user": "Juventus vs Monza HD     🔴 ",
+			"pageUrl": "https://wwpyaosopp.azureedge.net/live/spf/chunks.m3u8",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 						
-{
 
-			"user": "Stoke City vs Stevenage HD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "England - FA Cup    ",
-			"webFormatUrl": "https://cdn.footystats.org/img/competitions/england-fa-cup.png"
-		},
-		
-		{
-
-			"user": "Auxerre vs Montpellier",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-		{
-
-			"user": "Clermont vs Nantes",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-		{
-
-			"user": "Strasbourg vs Toulouse",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-		{
-
-			"user": "Brest vs Angers SCO",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
 {
 
 			"user": "Schalke 04 vs Köln",
