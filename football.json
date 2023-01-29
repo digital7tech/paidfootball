@@ -7,71 +7,13 @@
 
 	
 
-		
-		
-		
-		{
-
-			"user": "Napoli vs Roma SD   🔴",
-			"pageUrl": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-494765_lsd.m3u8?auth_key=1675029816-0-0-6553a783a21ecb769fa4bda3449e254f&edge_slice=true&user_session_id=dfea33d0911908867f2c7fb9b0f27c8f&sub_m3u8=true",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-	
-		
-		{
-
-			"user": "Napoli vs Roma HD1    🔴",
-			"pageUrl": "https://ovocloud.site/live/abr_s-3/live/s-3_480p/chunks.m3u8",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Napoli vs Roma HD2    🔴",
-			"pageUrl": "https://ovocloud.site/live/abr_s-3/live/s-3_480p/chunks.m3u8",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		
-		{
-
-			"user": "PSG vs Reims SD      🔴 ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-		{
-
-			"user": "PSG vs Reims HD       🔴   ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-		{
-
-			"user": "Real Madrid vs Real Sociedad SD      🔴 ",
-			"pageUrl": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?edge_slice=true&user_session_id=6197a0a583bf9bd2d7de2f196c046102&auth_key=1675029696-0-0-1ccf56cbb528541736e4b327f69d6530&sub_m3u8=true ",
-			"type": "Spain - La Liga  ",
-			"webFormatUrl": "https://logoeps.com/wp-contentloads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-			"user": "Real Madrid vs Real Sociedad HD      🔴    ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-2/live/s-2_480p/chunks.m3u8 ",
-			"type": "Spain - La Liga  ",
-			"webFormatUrl": "https://logoeps.com/wp-contentloads/2012/12/premier-league-logo-vector.png"
-		},
 		{
 
 
 
 
 			"user": "BETSI SPORTS  ",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8 ",
+			"pageUrl": "http://golive.yn.lt/live/champions/01.m3u8 ",
 			"type": "FOOTBALL  ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsa4g436Ye7orBzGtEux0XnuYGBprUdaqhaA&usqp=CAU"
 		}
