@@ -3,18 +3,19 @@
 {
 	"hits": [
 		
-	
+
+		
 {
 
 			"user": "Udinese vs Hellas Verona SD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1675192485-0-0-4c0cb9438f953d57c1023469b4acc902",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
 			"user": "Udinese vs Hellas Verona HD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1675192485-0-0-4c0cb9438f953d57c1023469b4acc902 ",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
@@ -22,21 +23,21 @@
 		{
 
 			"user": "Derby County vs WestHam SD     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673725507-0-0-b86637044c2c5a0e48582b46085cc90c ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1675193135-0-0-97d18be595bf83bb4d2635bccc64a2ce",
 			"type": "England - FA Cup  ",
 			"webFormatUrl": "https://cdn.footystats.org/img/competitions/england-fa-cup.png"
 		},
 		{
 
 			"user": "Derby County vs WestHam (ENG)     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673725507-0-0-b86637044c2c5a0e48582b46085cc90c ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1675193135-0-0-97d18be595bf83bb4d2635bccc64a2ce",
 			"type": "England - FA Cup  ",
 			"webFormatUrl": "https://cdn.footystats.org/img/competitions/england-fa-cup.png"
 		},
 		{
 
 			"user": "Derby County vs WestHam HD     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673725507-0-0-b86637044c2c5a0e48582b46085cc90c ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1675193135-0-0-97d18be595bf83bb4d2635bccc64a2ce ",
 			"type": "England - FA Cup  ",
 			"webFormatUrl": "https://cdn.footystats.org/img/competitions/england-fa-cup.png"
 		},
@@ -50,15 +51,25 @@
 			"type": "Spain - La Liga  ",
 			"webFormatUrl": "https://logoeps.com/wp-contentloads/2012/12/premier-league-logo-vector.png"
 		},
-	
-
-		{
-
-
+		
+		
+{
 
 
-			"user": "BETSI SPORTS  ",
-			"pageUrl": "http://golive.yn.lt/live/champions/01.m3u8 ",
+
+
+			"user": "BETSI SPORTS  1",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428434_lhd.flv?auth_key=1675170781-0-0-ab96fe09b207032cf0d3a3ec716a8dcb ",
+			"type": "FOOTBALL  ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsa4g436Ye7orBzGtEux0XnuYGBprUdaqhaA&usqp=CAU"
+		},
+	{
+
+
+
+
+			"user": "BETSI SPORTS",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8 ",
 			"type": "FOOTBALL  ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsa4g436Ye7orBzGtEux0XnuYGBprUdaqhaA&usqp=CAU"
 		}
