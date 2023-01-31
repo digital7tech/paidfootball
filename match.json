@@ -2,60 +2,14 @@
 
 {
 	"hits": [
-	{
-
-			"user": "Birmingham City vs Blackburn    🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831956_lhd.flv?auth_key=1675279095-0-0-e07ca05445361fc9f63bdc1a7a4ed728 ",
-			"type": "England - FA Cup  ",
-			"webFormatUrl": "https://www.soccertimes.com/wp-content/uploads/2018/05/download-1.jpg"
-		},
-		
-		{
-
-			"user": "Union Berlin vs Wolfsburg HD     🔴    ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862972_lhd.flv?auth_key=1675278471-0-0-a1419b87a734bb0632ec25b10f8aba5a",
-			"type": "Germany - DFB Pokal ",
-			"webFormatUrl": "https://www.sportmonks.com/wp-content/uploads/2022/06/image-2.png"
-		},
-		{
-
-			"user": "Newcastle vs Southampton SD     🔴    ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920576_lhd.flv?auth_key=1675281071-0-0-2d5b43fd60750102984a3e166ae5a0fa",
-			"type": "England - League Cup  ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-		
-{
-
-			"user": "Newcastle vs Southampton (ENG)   🔴     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920576_lhd.flv?auth_key=1675281071-0-0-2d5b43fd60750102984a3e166ae5a0fa",
-			"type": "England - League Cup  ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},	
-{
-
-			"user": "Internazionale vs Atalanta SD    🔴     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1675281442-0-0-82c4880baf17db8355568b92b36b88ff",
-			"type": "Italy - Coppa Italia  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/640px-Coppa_Italia_-_Logo_2019.svg.png"
-		},	
-{
-
-			"user": "Internazionale vs Atalanta HD    🔴     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968170_lhd.flv?auth_key=1675273271-0-0-e58f1b0faac14372951590538590e5c0",
-			"type": "Italy - Coppa Italia  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/640px-Coppa_Italia_-_Logo_2019.svg.png"
-		},
-		
-		
-		
+	
 	{
 
 
 
 
-			"user": "BETSI SPORTS 22",
-			"pageUrl": "https://pull.ttlidx.com/leisu/1121366527804291.flv?auth_key=1675211550-0-0-82ecdae733b624b735a44731f5e6aae4",
+			"user": "BETSI SPORTS",
+			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8",
 			"type": "FOOTBALL  ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsa4g436Ye7orBzGtEux0XnuYGBprUdaqhaA&usqp=CAU"
 		}
