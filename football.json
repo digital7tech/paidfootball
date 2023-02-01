@@ -4,43 +4,7 @@
 	"hits": [
 		
 		
-		
-
-		{
-
-			"user": "Angers SCO vs Ajaccio   🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1675359379-0-0-24cf37d40831d6306f5411f1cf47d18e",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://www.fifplay.com/img/public/ligue-1-logo.jpg"
-		},
-		{
-
-			"user": "Nantes vs Marseille    🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_1019663_lhd.flv?auth_key=1675359292-0-0-6cc7b2ce784abd2fa6c763f0bf4a9ddd",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://www.fifplay.com/img/public/ligue-1-logo.jpg"
-		},
-		{
-
-			"user": "Lille vs Clermont      🔴 ",
-			"pageUrl": "https://standard-pull.hygapp.com/ak/10013_736074_lhd.flv?auth_key=1675360310-0-0-16dba22cdde1ec6e542d1be57bd8ed4f ",
-			"type": "France - Ligue 1  ",
-	                 "webFormatUrl": "https://www.fifplay.com/img/public/ligue-1-logo.jpg"
-		},
-		{
-
-			"user": "Reims vs Lorient       🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968170_lhd.flv?auth_key=1675359639-0-0-6d1cb1f19e33b73917f1df2814dc7602",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://www.fifplay.com/img/public/ligue-1-logo.jpg"
-		},
-		{
-
-			"user": "Toulouse vs Troyes     🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1675359282-0-0-1efd433203d01cf2371545039ed130e5",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://www.fifplay.com/img/public/ligue-1-logo.jpg"
-		},
+	
 		
 			{
 
@@ -60,24 +24,24 @@
 		},
 		{
 
-			"user": "Manchester United vs Nottingham SD       ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_866196_lhd.flv?auth_key=1675272865-0-0-00290893e9e8457c7177205c085d11b2",
+			"user": "Manchester United vs Nottingham SD     🔴      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428447_lhd.flv?auth_key=1675366270-0-0-ee94dcabf01f832692636811e49f16db",
 			"type": "England - League Cup  ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
 		
 {
 
-			"user": "Manchester United vs Nottingham (ENG)      ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_866196_lhd.flv?auth_key=1675272865-0-0-00290893e9e8457c7177205c085d11b2 ",
+			"user": "Manchester United vs Nottingham (ENG)  🔴      ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428447_lhd.flv?auth_key=1675366270-0-0-ee94dcabf01f832692636811e49f16db",
 			"type": "England - League Cup  ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
 		
 		{
 
-			"user": "Manchester United vs Nottingham HD      ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_866196_lhd.flv?auth_key=1675272865-0-0-00290893e9e8457c7177205c085d11b2 ",
+			"user": "Manchester United vs Nottingham HD    🔴     ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428447_lhd.flv?auth_key=1675366270-0-0-ee94dcabf01f832692636811e49f16db",
 			"type": "England - League Cup  ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
@@ -112,27 +76,27 @@
 		},
 		{
 
-			"user": "Lyon vs Brest",
+			"user": "Lyon vs Brest       🔴",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1675359282-0-0-1efd433203d01cf2371545039ed130e5",
 			"type": "France - Ligue 1  ",
 			"webFormatUrl": "https://www.fifplay.com/img/public/ligue-1-logo.jpg"
 		},{
 
-			"user": "Monaco vs Auxerre",
+			"user": "Monaco vs Auxerre  🔴",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
 			"type": "France - Ligue 1  ",
 			"webFormatUrl": "https://www.fifplay.com/img/public/ligue-1-logo.jpg"
 		},{
 
-			"user": "Lens vs Nice",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
+			"user": "Lens vs Nice       🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968173_lhd.flv?auth_key=1675366726-0-0-074b90850278c23b12a2c39baaedbe2b",
 			"type": "France - Ligue 1  ",
 			"webFormatUrl": "https://www.fifplay.com/img/public/ligue-1-logo.jpg"
 		},
 		{
 
-			"user": "Rennes vs Strasbourg",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
+			"user": "Rennes vs Strasbourg  🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920578_lhd.flv?auth_key=1675366274-0-0-5eaa1a21ecad68701ddf5c99b41a02c9 ",
 			"type": "France - Ligue 1  ",
 			"webFormatUrl": "https://www.fifplay.com/img/public/ligue-1-logo.jpg"
 		},
