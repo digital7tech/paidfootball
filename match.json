@@ -36,9 +36,18 @@
 		
 		{
 
-			"user": "Rennes vs Lille",
+			"user": "Rennes vs Lille   🔴",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
 			"type": "France - Ligue 1  ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
+		},
+		
+		
+		{
+
+			"user": "Real Betis vs Celta de Vigo   🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968173_lhd.flv?auth_key=1675618776-0-0-8628f086101abb0676de50e1943cc954 ",
+			"type": "Spain - La Liga  ",
 			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
 		},
 	{
@@ -46,7 +55,7 @@
 
 
 
-			"user": "BETSI SPORTS SBS    🔴     ",
+			"user": "BETSI SPORTS    🔴     ",
 			"pageUrl": "http://golive.yn.lt/live/champions/01.m3u8 ",
 			"type": "FOOTBALL  ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsa4g436Ye7orBzGtEux0XnuYGBprUdaqhaA&usqp=CAU"
