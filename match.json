@@ -9,62 +9,7 @@
 
 
 
-		{
-
-			"user": "Roma vs Empoli SD    🔴",
-			"pageUrl": "https://pull.ttlidx.com/armenia/664875533.flv?auth_key=1675546831-0-0-2644a00aa42562a44caf9ce42188db0a",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-	{
-
-			"user": "Roma vs Empoli HD   🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1675607446-0-0-d800afd876b5cee7023f429ed9c09df4",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
 		
-		
-		
-		{
-
-			"user": "Newcastle vs WestHam SD     🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1675614195-0-0-f806fc45f581dfd786fe05b67fb101c3",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-			"user": "Newcastle vs WestHam  (ENG)  🔴   ",
-			"pageUrl": "https://pull.ttlidx.com/armenia/475238816.flv?auth_key=1675548091-0-0-0280ce4d54866aba11d8862d6b3d19ac",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Newcastle vs WestHam HD (ENG)  🔴   ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-
-		{
-
-			"user": "Newcastle vs WestHam HD2     🔴 ",
-			"pageUrl": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1675551157-0-0-a8bf19f0229633e985b239b8aa6f7c8d&user_session_id=877c001660c5e7bd0d0f0ba2f8b9db9d&sub_m3u8=true&edge_slice=true",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-			"user": "Borussia M'gladbach vs Schalke 04     🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_1019663_lhd.flv?auth_key=1675616969-0-0-60e512217eb84a3049afd68a2aefa491 ",
-			"type": "Germany - Bundesliga ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
 		
 		
 		{
@@ -76,15 +21,15 @@
 		},
 		{
 
-			"user": "Sassuolo vs Atalanta SD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
+			"user": "Sassuolo vs Atalanta SD    🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_866196_lhd.flv?auth_key=1675617425-0-0-1d87bc345cc8b60341b1ba52946b69e1",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 	{
 
-			"user": "Sassuolo vs Atalanta HD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
+			"user": "Sassuolo vs Atalanta HD    🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1675624002-0-0-5cfe2b110e148f3d0182ed54bc80864f",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
