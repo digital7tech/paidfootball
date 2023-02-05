@@ -5,56 +5,33 @@
 	
 	
 		
-		
-	
+
 		{
 
-			"user": "Stuttgart vs Werder Bremen SD   🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1675691632-0-0-eb36bfae68df0611eaa8292ae849b311",
-			"type": "Germany - Bundesliga ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-			"user": "Stuttgart vs Werder Bremen  HD    🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1675692478-0-0-c6db4158e694c82b820104f4c07caca0 ",
-			"type": "Germany - Bundesliga ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
-		{
-
-			"user": "Brest vs Lens",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ligue1_Uber_Eats_logo.png"
-		},
-		{
-
-			"user": "Tottenham vs Manchester City SD      ",
-			"pageUrl": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&auth_key=1675633117-0-0-708e4b1076684e6714271859347633f5&user_session_id=76e1ecddf166ed256b2c8d8ad50bcfcd&edge_slice=true",
+			"user": "Tottenham vs Manchester City SD      🔴   ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920578_lhd.flv?auth_key=1675699026-0-0-8d3e06b73ed87030355e6526f1744ca2",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
-			"user": "Tottenham vs Manchester City (ENG)      ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8",
+			"user": "Tottenham vs Manchester City (ENG)   🔴     ",
+			"pageUrl": "https://pull.ttlidx.com/leisu/1117723788700595.flv?auth_key=1675631047-0-0-ab721e04863e35ad2838b4e164abf83b",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		
 		{
 
-			"user": "Tottenham vs Manchester City  HD(ENG)      ",
+			"user": "Tottenham vs Manchester City HD(ENG) 🔴      ",
 			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
-			"user": "Tottenham vs Manchester City HD2      ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8",
+			"user": "Tottenham vs Manchester City HD2    🔴    ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920578_lhd.flv?auth_key=1675699026-0-0-8d3e06b73ed87030355e6526f1744ca2",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
