@@ -51,14 +51,14 @@
 		{
 
 			"user": "Manchester United vs Leeds (ENG)    🔴 ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8 ",
+			"pageUrl": "https://engelkesbillie.s3.amazonaws.com/manu_640x360_800k.m3u8 ",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
 		{
 			"user": "Manchester United vs Leeds HD(ENG) 🔴     ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8 ",
+			"pageUrl": "https://engelkesbillie.s3.amazonaws.com/manu_768x432_1200k.m3u8",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
