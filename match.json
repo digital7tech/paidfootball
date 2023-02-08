@@ -1,35 +1,5 @@
 {
-	"hits": [{
-
-			"user": "Nürnberg vs Fortuna Düsseldorf",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "Germany - DFB Pokal ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/DFB-Pokal_logo_2016.svg/1200px-DFB-Pokal_logo_2016.svg.png"
-		},
-
-		{
-
-			"user": "Lyon vs Lille",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Coupe de France  ",
-			"webFormatUrl": "https://images.sports.gracenote.com/images/lib/basic/sport/football/competition/logo/300/58.png"
-		},
-
-		{
-
-			"user": "Toulouse vs Reims",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Coupe de France  ",
-			"webFormatUrl": "https://images.sports.gracenote.com/images/lib/basic/sport/football/competition/logo/300/58.png"
-		},
-
-		{
-
-			"user": "Vierzon FC vs Grenoble Foot 38",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Coupe de France  ",
-			"webFormatUrl": "https://images.sports.gracenote.com/images/lib/basic/sport/football/competition/logo/300/58.png"
-		},
+	"hits": [
 
 		{
 
