@@ -11,20 +11,7 @@
 
 		
 		
-			{
-
-			"user": "Monaco vs PSG SD    🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428447_lhd.flv?auth_key=1676215948-0-0-65eee43eeef2a13ba3b46f41597059c7 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		{
-
-			"user": "Monaco vs PSG HD    🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_1031511_lhd.flv?auth_key=1676215969-0-0-68012efdd899d43840e9771511f67c76",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
+		
 		
 			
 		{
@@ -49,22 +36,26 @@
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		
-		{
+		
+		
 
-			"user": "Bournemouth vs Newcastle HD (ENG)    🔴   ",
-			"pageUrl": "https://weakfhsgfg.azureedge.net/live/sppl/chunks.m3u8 ",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
+{
 
-			"user": "Bournemouth vs Newcastle  (ENG)    🔴   ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8 ",
+			"user": "Bournemouth vs Newcastle (ENG) 🔴     ",
+			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		
+		
+		
+{
 
+			"user": "Bournemouth vs Newcastle HD (ENG) 🔴     ",
+			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8",
+			"type": "England - Premier League  ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 		
 		{
 
@@ -84,15 +75,15 @@
 		
 		{
 
-			"user": "Real Madrid vs Al Hilal SD",
+			"user": "Real Madrid vs Al Hilal SD      🔴 ",
 			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 			"type": "FIFA Club World Cup (final)  ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrdVd1dkIYuZE1287VBlsYNcAhsGE4JIQLc9mJPsqXba-adaeCVfYNilapbhvuRcKdDI&usqp=CAU"
 		},
 		{
 
-			"user": "Real Madrid vs Al Hilal HD",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+			"user": "Real Madrid vs Al Hilal HD(ENG) 🔴   ",
+			"pageUrl": "https://ovocloud.site/live/abr_s-3/live/s-3_480p/chunks.m3u8",
 			"type": "FIFA Club World Cup (final)  ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrdVd1dkIYuZE1287VBlsYNcAhsGE4JIQLc9mJPsqXba-adaeCVfYNilapbhvuRcKdDI&usqp=CAU"
 		},
