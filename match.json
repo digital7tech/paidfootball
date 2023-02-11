@@ -14,64 +14,7 @@
 		
 		
 			
-		{
-
-			"user": "Lecce vs Roma SD  🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1676221079-0-0-348770ac9ee0f216e335421ab1869ec3",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Lecce vs Roma HD  🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831950_lhd.flv?auth_key=1676212768-0-0-a2e301cb4ca9da47bc689365279c5252 ",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Bournemouth vs Newcastle SD        🔴  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1676156798-0-0-30263c7ccea3187b51ec2594d8aae8fb",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		
-		
-
-{
-
-			"user": "Bournemouth vs Newcastle (ENG) 🔴     ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		
-		
-{
-
-			"user": "Bournemouth vs Newcastle HD (ENG) 🔴     ",
-			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-			"user": "Bournemouth vs Newcastle HD2     🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1676221210-0-0-08b117b563a61c8ecb03eb987b67d66b",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-{
-
-			"user": "RB Leipzig vs Union Berlin      🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1676221197-0-0-9d40b65cc7e6c181e707ca2e6fa22264",
-			"type": "Germany - Bundesliga  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
+	
 		
 		{
 
@@ -91,15 +34,15 @@
 		
 		{
 
-			"user": "Lazio vs Atalanta SD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
+			"user": "Lazio vs Atalanta SD     🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1676221197-0-0-9d40b65cc7e6c181e707ca2e6fa22264",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
-			"user": "Lazio vs Atalanta HD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"user": "Lazio vs Atalanta HD     🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1676222358-0-0-166e8eb06ab0e139e2650f8bedab0854 ",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
