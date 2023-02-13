@@ -18,17 +18,42 @@
 		
 		
 		
+	
 		
-			{
+		{
 
-			"user": "Toulouse vs Rennes    🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1676288306-0-0-55c78cd837f46a9dda2ce5be7717771a ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
+			"user": "Hellas Verona vs Salernitana SD       ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428437_lhd.flv?auth_key=1676295037-0-0-ce804ec4bffa9ad18f3fe0bd9eafd8ea",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
-			"user": "Leeds vs Manchester United SD      🔴   ",
+			"user": "Hellas Verona vs Salernitana HD        ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1676295186-0-0-3fd53709084299f66d9f763a8e446edd ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		
+		{
+
+			"user": "Hellas Verona vs Salernitana SD       ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428437_lhd.flv?auth_key=1676295037-0-0-ce804ec4bffa9ad18f3fe0bd9eafd8ea",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Hellas Verona vs Salernitana HD        ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1676295186-0-0-3fd53709084299f66d9f763a8e446edd ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+			
+		
+		{
+
+			"user": "Liverpool vs Everton SD      ",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1676226818-0-0-db90a4197b02ad0852af8411495ef6e2",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -36,7 +61,7 @@
 		
 {
 
-			"user": "Leeds vs Manchester United SD (ENG)  🔴     ",
+			"user": "Liverpool vs Everton SD (ENG)     ",
 			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -44,7 +69,7 @@
 		
 {
 
-			"user": "Leeds vs Manchester United HD (ENG)  🔴    ",
+			"user": "Liverpool vs Everton HD (ENG)   ",
 			"pageUrl": "https://ovocloud.site/live/abr_s-1/live/s-1/chunks.m3u8",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -52,159 +77,15 @@
 		
 		{
 
-			"user": "Leeds vs Manchester United HD2      🔴        ",
+			"user": "Liverpool vs Everton HD2            ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1676295502-0-0-21aacf1d907fcd32f15765a2ed45690d",
 			"type": "England - Premier League  ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		
 		
-		
-		{
-
-			"user": "Bologna vs Monza SD      🔴     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428437_lhd.flv?auth_key=1676295037-0-0-ce804ec4bffa9ad18f3fe0bd9eafd8ea",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Bologna vs Monza HD     🔴     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1676295186-0-0-3fd53709084299f66d9f763a8e446edd ",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		
-			{
-
-			"user": "Angers SCO vs Auxerre ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-			{
-
-			"user": "Lille vs Strasbourg   🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1676288306-0-0-55c78cd837f46a9dda2ce5be7717771a ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-			{
-
-			"user": "Montpellier vs Brest   🔴  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968174_lhd.flv?auth_key=1676294817-0-0-b4ca330f74fe374c7d55dad1c8dcf9ff ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-			{
-
-			"user": "Reims vs Troyes        🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_968172_lhd.flv?auth_key=1676295149-0-0-b93249353b527686f5ee86e05cf6bf33",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-		{
-
-			"user": "Hertha BSC vs Borussia M'gladbach SD",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "Germany - Bundesliga  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-			"user": "Hertha BSC vs Borussia M'gladbach HD",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "Germany - Bundesliga  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
-		
-			{
-
-			"user": "Nantes vs Lorient",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		{
-
-			"user": "Manchester City vs Aston Villa SD     ",
-			"pageUrl": "https://github.com/cprcrack/VideoEnabledWebView ",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-{
-
-			"user": "Manchester City vs Aston Villa (ENG)     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673784210-0-0-7b9290ae56712f0588339dc81216a60b",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-{
-
-			"user": "Manchester City vs Aston Villa HD (ENG)",
-			"pageUrl": "https://pull.xinyuejiuwang.love/leisu/1117722469231829.flv?auth_key=1673656380-0-0-4382858b1672872737e2b3d289275e25",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-			"user": "Manchester City vs Aston Villa HD2      ",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Köln vs Eintracht Frankfurt HD",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "Germany - Bundesliga  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
-		{
-
-			"user": "Juventus vs Fiorentina SD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1676221197-0-0-9d40b65cc7e6c181e707ca2e6fa22264",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Juventus vs Fiorentina HD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1676222358-0-0-166e8eb06ab0e139e2650f8bedab0854 ",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Napoli vs Cremonese SD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1676221197-0-0-9d40b65cc7e6c181e707ca2e6fa22264",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Napoli vs Cremonese HD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1676222358-0-0-166e8eb06ab0e139e2650f8bedab0854 ",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		
-		{
-
-			"user": "Lyon vs Lens",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
+			
+			
 		{
 
 			"user": "PTV SPORTS",
