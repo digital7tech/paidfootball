@@ -6,93 +6,58 @@
 		
 	
 		
+	{
+
+			"user": "Augsburg vs Hoffenheim SD",
+			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+			"type": "Germany - Bundesliga  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+			"user": "Augsburg vs Hoffenheim HD",
+			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+			"type": "Germany - Bundesliga  ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+{
+
+			"user": "Sassuolo vs Napoli SD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		{
+
+			"user": "Sassuolo vs Napoli HD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+{
+
+			"user": "Auxerre vs Olympique Lyonnais",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
+			"type": "France - Ligue 1  ",
+			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
+		},
+				
+{
+
+			"user": "Real Valladolid vs Rayo Vallecano",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
+			"type": "Spain - La Liga  ",
+			"webFormatUrl": "https://logoeps.com/wp-contentloads/2012/12/premier-league-logo-vector.png"
+		},
 		
-	
+{
 
-		{
-
-			"user": "Juventus vs Nantes SD     🔴           ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1676662791-0-0-a6ee2da70421535c1c28f8e25734fa36",
-			"type": "UEFA Europa League  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+			"user": "Cardiff City vs Reading",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
+			"type": "England - Championship  ",
+			"webFormatUrl": "https://i.pinimg.com/originals/14/ce/1e/14ce1eb5e847ea3dc45323a331524fe8.png"
 		},
-		{
-
-			"user": "Juventus vs Nantes HD     🔴             ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1676662791-0-0-a6ee2da70421535c1c28f8e25734fa36",
-			"type": "UEFA Europa League  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Sporting CP vs Midtjylland SD         🔴          ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1676662883-0-0-803de03de765952219c8d10d6fd3f300",
-			"type": "UEFA Europa League  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Sporting CP vs Midtjylland HD         🔴       ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920582_lhd.flv?auth_key=1676662883-0-0-803de03de765952219c8d10d6fd3f300",
-			"type": "UEFA Europa League  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Bayer Leverkusen vs Monaco SD          🔴     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1676662915-0-0-0edff7fa6f032946866d64932351b1e5",
-			"type": "UEFA Europa League  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Bayer Leverkusen vs Monaco HD          🔴     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1676662999-0-0-e14352715e52bae3925c09469ad040fb",
-			"type": "UEFA Europa League  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Sevilla vs PSV SD        🔴          ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1676663003-0-0-2b0d8a41e7f525e473070cc1116b09a6",
-			"type": "UEFA Europa League  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Sevilla vs PSV HD        🔴          ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920657_lhd.flv?auth_key=1676662989-0-0-23e274c524ae9056a11ea9383d387bc0",
-			"type": "UEFA Europa League  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		{
-
-			"user": "Lazio vs CFR Cluj HD     🔴        ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_916158_lhd.flv?auth_key=1676662887-0-0-ea7fae5ba5aa617a4d3225b6aac48496",
-			"type": "UEFA Europa Conference League  ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-88ySsdJ_s_A/YJZLNhcxpSI/AAAAAAADAGE/BUMTiNgtg9w1XWBBuD2Jm-g4_7tmGsozQCNcBGAsYHQ/s1000/uefa-conference-league-sleeve-badge%2B%25281%2529.jpg"
-		},
-		{
-
-			"user": "AEK Larnaca vs Dnipro-1 HD      ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920578_lhd.flv?auth_key=1676574379-0-0-306faf1c18b78e11689f334866dded85",
-			"type": "UEFA Europa Conference League  ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-88ySsdJ_s_A/YJZLNhcxpSI/AAAAAAADAGE/BUMTiNgtg9w1XWBBuD2Jm-g4_7tmGsozQCNcBGAsYHQ/s1000/uefa-conference-league-sleeve-badge%2B%25281%2529.jpg"
-		},
-		{
-
-			"user": "Sheriff vs Partizan HD      ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920578_lhd.flv?auth_key=1676574379-0-0-306faf1c18b78e11689f334866dded85",
-			"type": "UEFA Europa Conference League  ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-88ySsdJ_s_A/YJZLNhcxpSI/AAAAAAADAGE/BUMTiNgtg9w1XWBBuD2Jm-g4_7tmGsozQCNcBGAsYHQ/s1000/uefa-conference-league-sleeve-badge%2B%25281%2529.jpg"
-		},
-		{
-
-			"user": "Ludogorets vs Anderlecht HD      ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920578_lhd.flv?auth_key=1676574379-0-0-306faf1c18b78e11689f334866dded85",
-			"type": "UEFA Europa Conference League  ",
-			"webFormatUrl": "https://1.bp.blogspot.com/-88ySsdJ_s_A/YJZLNhcxpSI/AAAAAAADAGE/BUMTiNgtg9w1XWBBuD2Jm-g4_7tmGsozQCNcBGAsYHQ/s1000/uefa-conference-league-sleeve-badge%2B%25281%2529.jpg"
-		},
+		
 		{
 
 			"user": "PTV SPORTS",
