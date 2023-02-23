@@ -3,65 +3,153 @@
 	    
 		{
 
-			"user": "Liverpool vs Real Madrid SD",
+			"user": "Nantes vs Juventus SD",
 			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
-			"type": " UEFA Champions League ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},    
  
 		{
 
-			"user": "Liverpool vs Real Madrid (ENG)",
+			"user": "Nantes vs Juventus HD",
 			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
-			"type": " UEFA Champions League ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},    
-		 
-		{
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
 
-			"user": "Liverpool vs Real Madrid HD(ENG)",
-			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
-			"type": " UEFA Champions League ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},    
-		 
-		{
-
-			"user": "Liverpool vs Real Madrid HD2 (ENG)",
-			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
-			"type": " UEFA Champions League ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},    
-		 
-		{
-
-			"user": "Liverpool vs Real Madrid HD3",
-			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
-			"type": " UEFA Champions League ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},    
-{
-
-			"user": "Frankfurt vs Napoli SD",
-			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
-			"type": " UEFA Champions League ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},    
-		{
-
-			"user": "Frankfurt vs Napoli (ENG)",
-			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
-			"type": " UEFA Champions League ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},    
 		
 		{
 
-			"user": "Frankfurt vs Napoli HD",
+			"user": "Monaco vs Bayer Leverkusen SD",
 			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
-			"type": " UEFA Champions League ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},    
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+{
+
+			"user": "Monaco vs Bayer Leverkusen HD",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+		
+		{
+
+			"user": "PSV vs Sevilla",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+
+		
+		{
+
+			"user": "Midtjylland vs Sporting CP",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+
+		{
+
+			"user": "CFR Cluj vs Lazio",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		}, 
+		{
+
+			"user": "Dnipro-1 vs AEK Larnaca",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		}, 
+		{
+
+			"user": "Partizan vs Sheriff",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		}, 
+		{
+
+			"user": "Anderlecht vs Ludogorets",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		}, 
+		{
+
+			"user": "Manchester United vs Barcelona SD",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+{
+
+			"user": "Manchester United vs Barcelona (ENG)",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+		{
+
+			"user": "Manchester United vs Barcelona HD",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+		
+		{
+
+			"user": "Roma vs Salzburg",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+		{
+
+			"user": "Union Berlin vs Ajax",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+		{
+
+			"user": "Rennes vs Shakhtar Donetsk",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa League ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		}, 
+		
+		{
+
+			"user": "Gent vs Qarabağ",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		}, 
+		{
+
+			"user": "Basel vs Trabzonspor",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		}, 
+		{
+
+			"user": "Lech Poznań vs Bodø / Glimt",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		}, 
+		{
+
+			"user": "Fiorentina vs Sporting Braga",
+			"pageUrl": "https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8 ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		}, 
 		{
 
 			"user": "PTV SPORTS",
