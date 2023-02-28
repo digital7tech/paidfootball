@@ -5,166 +5,71 @@
 		
 		{
 
-			"user": "Bologna vs Internazionale SD ",
+			"user": "Cremonese vs Roma SD ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
-			"user": "Bologna vs Internazionale HD ",
+			"user": "Cremonese vs Roma HD ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 	{
 
-			"user": "Lorient vs Auxerre",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		{
-
-			"user": "Tottenham vs Chelsea SD      ",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Tottenham vs Chelsea (ENG)      ",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-			"user": "Tottenham vs Chelsea HD      ",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "England - Premier League  ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-			"user": "Salernitana vs Monza SD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Salernitana vs Monza HD ",
+			"user": "Stoke City vs  Albion HD ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+			"type": "England - FA Cup",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
+		{
+
+			"user": "Stoke City vs  Albion (ENG)",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "England - FA Cup",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
+		},
+			
 	{
 
-			"user": "Ajaccio vs Troyes",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
+			"user": "Leicester vs Blackburn  HD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "England - FA Cup",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 		{
 
-			"user": "Clermont vs Strasbourg",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
+			"user": "Leicester vs Blackburn (ENG)",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "England - FA Cup",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 		{
 
-			"user": "Nantes vs Rennes",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
+			"user": "Fulham vs Leeds United  HD ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "England - FA Cup",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 		{
 
-			"user": "Reims vs Toulouse",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		
-		  {
-
-			"user": "Freiburg vs Bayer Leverkusen",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "Germany - Bundesliga  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
-			{
-
-			"user": "Monaco vs Nice",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
+			"user": "Fulham vs Leeds United (ENG)",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "England - FA Cup",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 		{
 
-			"user": "Real Madrid vs Atlético Madrid HD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "Spain - La Liga  ",
-			"webFormatUrl": "https://logoeps.com/wp-contentloads/2012/12/premier-league-logo-vector.png"
-		},
-		
-			{
-
-			"user": "Manchester United vs Newcastle SD      ",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "England - League Cup  (final) ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-		
-			{
-
-			"user": "Manchester United vs Newcastle (ENG)      ",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "England - League Cup  (final) ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-		{
-
-			"user": "Manchester United vs Newcastle HD (ENG)      ",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "England - League Cup  (final) ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-			{
-
-			"user": "Manchester United vs Newcastle HD2      ",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "England - League Cup  (final) ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-		 {
-
-			"user": "Bayern München vs Union Berlin SD",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "Germany - Bundesliga  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		 {
-
-			"user": "Bayern München vs Union Berlin HD",
-			"pageUrl": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-			"type": "Germany - Bundesliga  ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-			"user": "Udinese vs Spezia SD ",
+			"user": "Juventus vs Torino SD ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
 		{
 
-			"user": "Udinese vs Spezia HD ",
+			"user": "Juventus vs Torino HD ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
 			"type": "Italy - Serie A",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
@@ -172,38 +77,17 @@
 		
 		{
 
-			"user": "Almería vs Barcelona HD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "Spain - La Liga  ",
-			"webFormatUrl": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png"
-		},
-		{
-
-			"user": "Milan vs Atalanta SD ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936836_lhd.flv?auth_key=1673724597-0-0-479b8cf17c53bf86bbd8f5034e2b32e3",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-			"user": "Milan vs Atalanta HD ",
+			"user": "Bristol City vs Manchester City SD",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
-			"type": "Italy - Serie A",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+			"type": "England - FA Cup",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 		{
 
-			"user": "Marseille vs PSG SD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
-		},
-		{
-
-			"user": "Marseille vs PSG HD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1673724906-0-0-6438c37e6cf5e2e80bd4b9a14d510d03 ",
-			"type": "France - Ligue 1  ",
-			"webFormatUrl": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2008.png"
+			"user": "Bristol City vs Manchester City (ENG)",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673723635-0-0-55e9a53f9dc8754f955ea2e692b8b175 ",
+			"type": "England - FA Cup",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png"
 		},
 		{
 
