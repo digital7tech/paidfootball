@@ -11,66 +11,153 @@
 
 
 		
-			{
-
-			"user": "Tottenham vs Milan SD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
-			"type": "UEFA Champions League",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},
-	{
-
-			"user": "Tottenham vs Milan (ENG)",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
-			"type": "UEFA Champions League",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},
-
-			{
-
-			"user": "Tottenham vs Milan HD1",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
-			"type": "UEFA Champions League",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},
-
-			{
-
-			"user": "Tottenham vs Milan HD2",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
-			"type": "UEFA Champions League",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},
-
-			{
-
-			"user": "Bayern München vs PSG SD",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
-			"type": "UEFA Champions League",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},
-
-			{
-
-			"user": "Bayern München vs PSG (ENG)",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
-			"type": "UEFA Champions League",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},
-
-			{
-
-			"user": "Bayern München vs PSG HD1",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
-			"type": "UEFA Champions League",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
-		},
+			
 {
 
-			"user": "Bayern München vs PSG HD2",
+			"user": "Sporting CP vs Arsenal SD",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
-			"type": "UEFA Champions League",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1200px-UEFA_Champions_League.svg.png"
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+					
+{
+
+			"user": "Sporting CP vs Arsenal (ENG)",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+					
+{
+
+			"user": "Roma vs Real Sociedad SD",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+					
+{
+
+			"user": "Roma vs Real Sociedad HD",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+					
+{
+
+			"user": "Union Berlin vs Union Saint-Gilloise",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+					
+{
+
+			"user": "Bayer Leverkusen vs Ferencváros",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+					
+{
+
+			"user": "AEK Larnaca vs WestHam",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design.png"
+		},
+		{
+
+			"user": "Sheriff vs Nice",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design.png"
+		},
+		{
+
+			"user": "Anderlecht vs Villarreal",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design.png"
+		},
+		{
+
+			"user": "AEK Larnaca vs WestHam",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design.png"
+		},
+		{
+
+			"user": "Manchester United vs Real Betis SD",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+					
+{
+
+			"user": "Manchester United vs Real Betis (ENG)",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+			"user": "Juventus vs Freiburg SD",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+			"user": "Juventus vs Freiburg HD",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+			"user": "Sevilla vs Fenerbahçe",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+			"user": "Shakhtar Donetsk vs Feyenoord",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": "UEFA Europa League",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+		{
+
+			"user": "Gent vs İstanbul Başakşehir",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design.png"
+		},
+		{
+
+			"user": "Fiorentina vs Sivasspor",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design.png"
+		},
+		{
+
+			"user": "	=Lech Poznań vs Djurgården",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design.png"
+		},
+		{
+
+			"user": "Basel vs Slovan Bratislava",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428427_lhd.flv?auth_key=1677952943-0-0-822240079cb9986831a812beacc17aaf ",
+			"type": " UEFA Europa Conference League",
+			"webFormatUrl": "https://www.logo-designer.co/storage/2020/12/2020-new-uefa-europa-conference-league-logo-design.png"
 		},
 		{
 
