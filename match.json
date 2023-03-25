@@ -1,152 +1,129 @@
 {
 	"hits": [
+		
+		
+		{
+
+			"user": "Belarus vs Switzerland SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		
+			{
+
+			"user": "Belarus vs Switzerland HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		{
+
+			"user": "Armenia vs Turkey SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		
+			{
+
+			"user": "Armenia vs Turkey HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		{
+
+			"user": "Israel vs Kosovo SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		
+			{
+
+			"user": "Israel vs Kosovo HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		{
+
+			"user": "Spain vs Norway SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		
+			{
+
+			"user": "Spain vs Norway HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		{
+
+			"user": "Croatia vs Wales SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		
+			{
+
+			"user": "Croatia vs Wales (EN)",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		{
+
+			"user": "Andorra vs Romania SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
+		
+			{
+
+			"user": "Andorra vs Romania HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "UEFA Euro Qualifying",
+			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
+		},
 	    
 {
 
-			"user": "Australia vs Ecuador SD",
+			"user": "Germany vs Peru SD",
 			"pageUrl": "http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH",
 			"type": "World - Friendly",
 			"webFormatUrl": "https://www.jamesjoycemadrid.com/wp-content/uploads/2020/10/football-in-madrid.jpg"
 		},
 		
-			    
-{
+		{
 
-			"user": "Japan vs Uruguay   ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"user": "Germany vs Peru HD",
+			"pageUrl": "http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH",
 			"type": "World - Friendly",
 			"webFormatUrl": "https://www.jamesjoycemadrid.com/wp-content/uploads/2020/10/football-in-madrid.jpg"
 		},
-	{
-
-			"user": "Nigeria vs Guinea-Bissau SD  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
-		},
 		
 		{
 
-			"user": "Nigeria vs Guinea-Bissau (ENG)  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
+			"user": "Morocco vs Brazil SD",
+			"pageUrl": "http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH",
+			"type": "World - Friendly",
+			"webFormatUrl": "https://www.jamesjoycemadrid.com/wp-content/uploads/2020/10/football-in-madrid.jpg"
 		},
-		{
+{
 
-			"user": "Côte d'Ivoire vs Comoros  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
+			"user": "Morocco vs Brazil HD (EN)",
+			"pageUrl": "http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH",
+			"type": "World - Friendly",
+			"webFormatUrl": "https://www.jamesjoycemadrid.com/wp-content/uploads/2020/10/football-in-madrid.jpg"
 		},
-		
-		{
 
-			"user": "South Africa vs Liberia ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
-		},
-		
-		{
-
-			"user": "Bulgaria vs Montenegro  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		
-		
-		{
-
-			"user": "Egypt vs Malawi  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
-		},
-		{
-
-			"user": "Mali vs Gambia ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
-		},
-		{
-
-			"user": "Senegal vs Mozambique ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
-		},
-		{
-
-			"user": "France vs Netherlands SD  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		{
-
-			"user": "France vs Netherlands HD ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		{
-
-			"user": "Gibraltar vs Greece ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		{
-
-			"user": "Moldova vs Faroe Islands ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		{
-
-			"user": "Sweden vs Belgium ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		{
-
-			"user": "Austria vs Azerbaijan",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		{
-
-			"user": "Serbia vs Lithuania",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		{
-
-			"user": "Cameroon vs Namibia",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
-		},
-		{
-
-			"user": "Tunisia vs Libya",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
-		},{
-
-			"user": "Guinea vs Ethiopia",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "AFCON Qualifiers",
-			"webFormatUrl": "https://www.cafonline.com/assets/icons/caflogo_black.png"
-		},
 		{
 
 			"user": "BETIS SPORTS",
