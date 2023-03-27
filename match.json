@@ -1,10 +1,45 @@
 {
 	"hits": [
 		
+		{
+
+			"user": "Rwanda vs Benin ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "afcon qualifiers",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/banners/Caf_logo__400823021.jpg"
+		},
+			{
+
+			"user": "Guinea-Bissau vs Nigeria SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "afcon qualifiers",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/banners/Caf_logo__400823021.jpg"
+		},
 		
 		{
 
-			"user": "Kazakhstan vs Denmark SD",
+			"user": "Guinea-Bissau vs Nigeria HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "afcon qualifiers",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/banners/Caf_logo__400823021.jpg"
+		},
+			{
+
+			"user": "Angola vs Ghana",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "afcon qualifiers",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/banners/Caf_logo__400823021.jpg"
+		},
+			{
+
+			"user": "Niger vs Algeria",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
+			"type": "afcon qualifiers",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/banners/Caf_logo__400823021.jpg"
+		},
+		{
+
+			"user": "Netherlands vs Gibraltar SD",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
@@ -12,14 +47,14 @@
 		
 			{
 
-			"user": "Kazakhstan vs Denmark HD",
+			"user": "Netherlands vs Gibraltar HD",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
 		},
 		{
 
-			"user": "England vs Ukraine SD",
+			"user": "Ireland vs France SD",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
@@ -27,14 +62,14 @@
 		
 			{
 
-			"user": "England vs Ukraine (EN)",
+			"user": "Ireland vs France (EN)",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
 		},
 		{
 
-			"user": "Slovenia vs San Marino SD",
+			"user": "Poland vs Albania",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
@@ -42,14 +77,14 @@
 		
 			{
 
-			"user": "Slovenia vs San Marino HD",
+			"user": "Moldova vs Czech Republic HD",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
 		},
 		{
 
-			"user": "Liechtenstein vs Iceland SD",
+			"user": "Sweden vs Azerbaijan",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
@@ -57,14 +92,14 @@
 		
 			{
 
-			"user": "Liechtenstein vs Iceland HD",
+			"user": "Austria vs Estonia",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
 		},
 		{
 
-			"user": "Malta vs Italy SD",
+			"user": "Hungary vs Bulgaria",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
@@ -72,81 +107,12 @@
 		
 			{
 
-			"user": "Malta vs Italy HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		{
-
-			"user": "Luxembourg vs Portugal SD",
+			"user": "Montenegro vs Serbia",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
 			"type": "UEFA Euro Qualifying",
 			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
 		},
 		
-			{
-
-			"user": "Luxembourg vs Portugal HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		{
-
-			"user": "Northern Ireland vs Finland SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		
-			{
-
-			"user": "Northern Ireland vs Finland (ENG)",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-		
-		{
-
-			"user": "Slovakia vs Bosnia and Herzegovina",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-508945.flv?auth_key=1679179799-0-0-b8af4dfb1f3cb01fa576c609753d23b8",
-			"type": "UEFA Euro Qualifying",
-			"webFormatUrl": "https://img.uefa.com/imgml/2016/eq/social/og-default.jpg"
-		},
-	    
-{
-
-			"user": "Germany vs Peru SD",
-			"pageUrl": "http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH",
-			"type": "World - Friendly",
-			"webFormatUrl": "https://www.jamesjoycemadrid.com/wp-content/uploads/2020/10/football-in-madrid.jpg"
-		},
-		
-		{
-
-			"user": "Germany vs Peru HD",
-			"pageUrl": "http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH",
-			"type": "World - Friendly",
-			"webFormatUrl": "https://www.jamesjoycemadrid.com/wp-content/uploads/2020/10/football-in-madrid.jpg"
-		},
-		
-		{
-
-			"user": "Morocco vs Brazil SD",
-			"pageUrl": "http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH",
-			"type": "World - Friendly",
-			"webFormatUrl": "https://www.jamesjoycemadrid.com/wp-content/uploads/2020/10/football-in-madrid.jpg"
-		},
-{
-
-			"user": "Morocco vs Brazil HD (EN)",
-			"pageUrl": "http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH",
-			"type": "World - Friendly",
-			"webFormatUrl": "https://www.jamesjoycemadrid.com/wp-content/uploads/2020/10/football-in-madrid.jpg"
-		},
-
 		{
 
 			"user": "BETIS SPORTS",
