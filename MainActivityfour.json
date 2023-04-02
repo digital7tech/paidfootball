@@ -1,53 +1,82 @@
-{
-	"status": "true",
-	"message": "Data fetched successfully!",
-	"data": [{
-		"id": "1",
-		"name": "Roger Federer",
-		"country": "Switzerland",
-		"city": "Basel",
-		"imgURL": "https://demonuts.com//Demonuts//SampleImages//roger.jpg"
-	}, {
-		"id": "2",
-		"name": "Rafael Nadal",
-		"country": "Spain",
-		"city": "Madrid",
-		"imgURL": "https://demonuts.com//Demonuts//SampleImages//roger.jpg"
-	}, {
-		"id": "3",
-		"name": "Novak Djokovic",
-		"country": "Serbia",
-		"city": "Monaco",
-		"imgURL": "https://demonuts.com//Demonuts//SampleImages//roger.jpg"
-	}, {
-		"id": "4",
-		"name": "Andy Murray",
-		"country": "United Kingdom",
-		"city": "London",
-		"imgURL": "https://demonuts.com//Demonuts//SampleImages//roger.jpg"
-	}, {
-		"id": "5",
-		"name": "Maria Sharapova",
-		"country": "Russia",
-		"city": "Moscow",
-		"imgURL": "https://demonuts.com//Demonuts//SampleImages//roger.jpg"
-	}, {
-		"id": "6",
-		"name": "Caroline Wozniacki",
-		"country": "Denmark",
-		"city": "Odense",
-		"imgURL": "https://demonuts.com//Demonuts//SampleImages//roger.jpg"
-	}, {
-		"id": "7",
-		"name": "Eugenie Bouchard",
-		"country": "Canada",
-		"city": " Montreal",
-		"imgURL": "https://demonuts.com//Demonuts//SampleImages//roger.jpg"
-	}, {
-		"id": "8",
-		"name": "Ana Ivanovic",
-		"country": "Serbia",
-		"city": "Belgrade",
-		"imgURL": "https://demonuts.com//Demonuts//SampleImages//roger.jpg"
-	}]
-}
+[
+  {
+    "id": "1",
+    "name": "Mercedes Benz",
+    "desc": "Mercedes Benz is a global automobile marque and a division of the German company Daimler AG. The brand is known for luxury vehicles, buses, coaches, and lorries. The headquarters is in Stuttgart, Baden-Württemberg. The name first appeared in 1926 under Daimler-Benz."
+  },
+  {
+    "id": "2",
+    "name": "BMW",
+    "desc": "BMW AG, originally an initialism for Bayerische Motoren Werke in German, or Bavarian Motor Works in English) is a German multinational company which currently produces luxury automobiles and motorcycles, and also produced aircraft engines until 1945."
+  },
+  {
+    "id": "3",
+    "name": "Bentley",
+    "desc": "Bentley Motors Limited is a British manufacturer and marketer of luxury cars and SUVs—and a subsidiary of the Volkswagen Group since 1998."
+  },
+  {
+    "id": "4",
+    "name": "Mustang",
+    "desc": "The Ford Mustang is an American car manufactured by Ford. It was originally based on the platform of the second generation North American Ford Falcon, a compact car."
+  },
+  {
+    "id": "5",
+    "name": "Aston Martin",
+    "desc": "Aston Martin Lagonda Global Holdings plc is a British independent manufacturer of luxury sports cars and grand tourers. It was founded in 1913 by Lionel Martin and Robert Bamford."
+  },
+  {
+    "id": "6",
+    "name": "Lamborghini",
+    "desc": "Automobili Lamborghini is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese and tractors Lamborghini Trattori in Pieve di Cento, Italy. The company is owned by the Volkswagen Group through its subsidiary Audi."
+  },
+  {
+    "id": "7",
+    "name": "BMW",
+    "desc": "BMW AG, originally an initialism for Bayerische Motoren Werke in German, or Bavarian Motor Works in English) is a German multinational company which currently produces luxury automobiles and motorcycles, and also produced aircraft engines until 1945."
+  },
+  {
+    "id": "8",
+    "name": "Bentley",
+    "desc": "Bentley Motors Limited is a British manufacturer and marketer of luxury cars and SUVs—and a subsidiary of the Volkswagen Group since 1998."
+  },
+  {
+    "id": "9",
+    "name": "Mustang",
+    "desc": "The Ford Mustang is an American car manufactured by Ford. It was originally based on the platform of the second generation North American Ford Falcon, a compact car."
+  },
+  {
+    "id": "10",
+    "name": "Aston Martin",
+    "desc": "Aston Martin Lagonda Global Holdings plc is a British independent manufacturer of luxury sports cars and grand tourers. It was founded in 1913 by Lionel Martin and Robert Bamford."
+  },
+  {
+    "id": "11",
+    "name": "Lamborghini",
+    "desc": "Automobili Lamborghini is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese and tractors Lamborghini Trattori in Pieve di Cento, Italy. The company is owned by the Volkswagen Group through its subsidiary Audi."
+  },
+  {
+    "id": "12",
+    "name": "BMW",
+    "desc": "BMW AG, originally an initialism for Bayerische Motoren Werke in German, or Bavarian Motor Works in English) is a German multinational company which currently produces luxury automobiles and motorcycles, and also produced aircraft engines until 1945."
+  },
+  {
+    "id": "13",
+    "name": "Bentley",
+    "desc": "Bentley Motors Limited is a British manufacturer and marketer of luxury cars and SUVs—and a subsidiary of the Volkswagen Group since 1998."
+  },
+  {
+    "id": "14",
+    "name": "Mustang",
+    "desc": "The Ford Mustang is an American car manufactured by Ford. It was originally based on the platform of the second generation North American Ford Falcon, a compact car."
+  },
+  {
+    "id": "15",
+    "name": "Aston Martin",
+    "desc": "Aston Martin Lagonda Global Holdings plc is a British independent manufacturer of luxury sports cars and grand tourers. It was founded in 1913 by Lionel Martin and Robert Bamford."
+  },
+  {
+    "id": "16",
+    "name": "Lamborghini",
+    "desc": "Automobili Lamborghini is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese and tractors Lamborghini Trattori in Pieve di Cento, Italy. The company is owned by the Volkswagen Group through its subsidiary Audi."
+  }
+]
