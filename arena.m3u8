@@ -1,1 +1,6 @@
-#EXTM3U #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:491 #EXT-X-TARGETDURATION:5 #EXTINF:5.200, https://rs.18assia.com/hls/81-491.ts #EXTINF:5.200, https://rs.18assia.com/hls/81-492.ts #EXTINF:5.200, https://rs.18assia.com/hls/81-493.ts #EXTINF:5.200, https://rs.18assia.com/hls/81-494.ts #EXTINF:5.200, https://rs.18assia.com/hls/81-495.ts #EXTINF:5.200, https://rs.18assia.com/hls/81-496.ts
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://iptvworld.nl:2095/live/gT0PeBdt/pj8wFFhH/39408.m3u8
+#http://clientsportals.com:2095/live/hAyoxQ3u/mHsKjCKN/39408.m3u8
+#http://cx1.supercloud9.xyz:2095/live/marion/marion123/5245.m3u8
